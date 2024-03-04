@@ -22,10 +22,9 @@ social:
 #THEME SETTINGS
 
 navigation: # Navigation links
-  - {name: 'Exhibits', link: '/exhibits'}
-  - {name: 'Publications', link: '/publications'}
-  - {name: 'Workshops and Presentations', link: '/workshops'}
-  - {name: 'Press', link: '/press'}
+  - {name: 'CV', link: '/cv'}
+  - {name: 'Interactive Portfolio', link: '/portfolio'}
+  - {name: 'Creative', link: '/creative'}
   - {name: 'Contact', link: '/contact'}
   
 email: andrewrainsweymouth@gmail.com

@@ -41,10 +41,13 @@ layout: compress
                 <div class="container">
                 
                     {% if page.featured-img %}
-                        <figure class="figure">
-                            <img src="{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}" class="figure-img img-fluid" alt="Responsive image">
-                        </figure>
-                    {% endif %}
+                    <figure class="figure">
+                        <div style="text-align: center;">
+                            <img src="{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}" class="figure-img img-fluid" style="width: 50%;" alt="Responsive image">
+                        </div>
+                    </figure>
+                {% endif %}
+                
             
     		      {{ content }}
                     

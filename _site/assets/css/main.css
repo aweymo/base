@@ -1,11 +1,11 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair', serif;
     color: #212121;
     font-size: 0.95rem; 
 }
 
 body a {
-    color: red;
+    color: #005bc5;
 }
 
 body a:hover {
@@ -13,7 +13,7 @@ body a:hover {
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: 'Muli', sans-serif;
+    font-family: 'Playfair', serif;
     color: #000;
 }
 
@@ -36,14 +36,14 @@ body a:hover {
 /* Header */
 
 .navbar-brand {
-    font-family: 'Muli', sans-serif;
+    font-family: 'Playfair', serif;
     font-size: 2rem;
     font-weight: 700;
     letter-spacing: -.02em;
 }
 
 .nav-link span {
-    font-family: 'Muli', sans-serif;
+    font-family: 'Playfair', serif;
     font-size: 1.05rem;
     font-weight: 600;
 }
@@ -63,7 +63,7 @@ body a:hover {
 /* Primary Button */
 
 .btn-primary {
-    background: red;
+    background: #005bc5;
     padding: 15px 20px;
     border: none;
     border-radius: 0px;
@@ -84,7 +84,7 @@ body a:hover {
 
 .big-red-button {
     padding: 15px 20px;
-    background: red;
+    background: #005bc5;
     color: white;
     text-transform: uppercase;
     text-decoration: none;
@@ -119,3 +119,41 @@ a.big-red-button:hover {
 .social .svg-inline--fa {
     height: 28px;
 }
+
+.triangle-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.triangle-list li {
+    position: relative;
+    margin-bottom: 20px; /* Adjust the margin between list items */
+}
+
+.triangle-list li:before {
+    content: '';
+    position: absolute;
+    left: -20px; /* Adjust to match the padding-left value */
+    top: 50%; /* Position the bullet halfway between the link text and the descriptive text */
+    transform: translateY(-50%); /* Center the bullet vertically */
+    width: 12px; /* Adjust the size of the dots */
+    height: 12px; /* Adjust the size of the dots */
+    border-radius: 50%; /* Create a circular shape */
+    background-color: #005bc5; /* Set the color of the dots */
+}
+
+.triangle-list li a {
+    font-weight: bold;
+    font-size: 1.2rem; /* Increase font size as needed */
+    margin-left: 15px; /* Move the link text slightly right */
+}
+
+.triangle-list li .description {
+    font-size: 16px; /* Adjust the font size as needed */
+    color: #555; /* Adjust the color of the description text */
+    display: block; /* Ensure the description text is on a new line */
+    margin-top: 5px; /* Add more vertical space between link text and descriptive text */
+    margin-left: 20px; /* Indent the description text further right */
+}
+
+

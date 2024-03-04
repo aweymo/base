@@ -1,20 +1,39 @@
 ---
 layout: default
 headline: About
-description: Andrew Weymouth is a Digital Initiatives Librarian at the University of Idaho and writer with a background in archiving and design.
-summary: Andrew Weymouth is a Digital Initiatives Librarian at the University of Idaho and writer with a background in archiving and design.
-featured-img: andrew-stiefel-viola.jpg
+description: Andrew Weymouth is a Digital Initiatives Librarian at the University of Idaho and writer with a background in archives and design.
+summary: Andrew Weymouth is a Digital Initiatives Librarian at the University of Idaho and writer with a background in archives and design.
+featured-img: headshot_circle.png
 permalink: /
----
+--- 
 
-Andrew Stiefel is a composer and sound artist whose music explores the intersections between written and recorded sound. 
+Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has created digital scholarship work for the University of Oregon, Washington and the Tacoma Northwest Room archives, ranging from longform audio public history to regional architectural databases. He writes extensively about labor, film and architectural history, most recently contributing the opening chapter to Litwin Books Land in Libraries, on the development of pre-Carnegie libraries in the American West. 
 
-An experienced field recordist, he has worked with scientists at the Cornell Lab of Ornithology and has contributed field recordings to the Macaulay Library. In 2012 he was Artist in Residence at Crater Lake National Park and spent several weeks recording and documenting the park's ecosystems. Since then his work has centered around documenting and interpreting the changing soundscapes of the Pacific Northwest.
+{% include feature/nav-menu.html sections="Workshops and Presentations;Exhibits;Scholarly Publications;Other Writing;Press" %}
 
-His works have been performed by the Seatle Symphony, Eighth Blackbird, Third Angle New Music, Prism Saxophone Quartet, and soprano Estelí Gomez, among others. Awards include the Grand Prize in the Zvi Zeitlin Memorial International Composers Competition; fellowships at the University of Oregon and Brevard Music Festival; and grants and commissions from New Music USA and Third Angle New Music. 
+## Workshops and Presentations
 
-Previously, he co-founded and performed with the new music ensemble Sound of Late. His programs as curator have been called “intriguing” and “adventurous” (Oregon ArtsWatch) and have been recognized for their "singular focus on underrepresented composers” (Willamette Weekly). 
+<ul class="triangle-list">
+    <li>
+        <a href="https://aweymo-ui.github.io/ds_hr">Using Digital Scholarship to Conduct and Present Historical Research</a>
+        <span class="description">This workshop focuses on utilizing digital scholarship tools and methods to conduct and present historical research.</span>
+    </li>
+    <li>
+        <a href="https://aweymo-ui.github.io/source_cr_free">Sourcing Copyright Free Media Workshop</a>
+        <span class="description">Learn techniques for sourcing copyright-free media content for your projects, presentations, and publications.</span>
+    </li>
+</ul>
 
-He studied viola with Dr. Kathryn Steely and Dr. Leslie Straka and composition with Dr. Robert Kyr, Dr. David Crumb, and Dr. Edward Taylor.
+## Exhibits
 
-He lives near Seattle.
+<ul class="triangle-list">
+    <li><a href="https://aweymo1.wixsite.com/eba-visualization">Emma B. Andrews Diary Project Network Visualization Tools</a></li>
+    <li><a href="https://aweymo-ui.github.io/source_cr_free">Sourcing Copyright Free Media Workshop</a></li>
+</ul>
+
+## Scholarly Publications
+
+## Other Writing
+
+## Press
+
