@@ -1,8 +1,9 @@
 body {
-    font-family: 'Playfair', serif;
+    font-family: 'Montserrat', sans-serif; 
     color: #212121;
     font-size: 0.95rem; 
 }
+
 
 body a {
     color: #005bc5;
@@ -43,7 +44,7 @@ body a:hover {
 }
 
 .nav-link span {
-    font-family: 'Playfair', serif;
+    font-family: 'Montserrat', sans-serif; 
     font-size: 1.05rem;
     font-weight: 600;
 }
@@ -146,14 +147,51 @@ a.big-red-button:hover {
     font-weight: bold;
     font-size: 1.2rem; /* Increase font size as needed */
     margin-left: 15px; /* Move the link text slightly right */
+    display: inline-block; /* Ensure proper indentation of multi-line link text */
+    text-indent: -15px; /* Align multi-line link text with the first line */
 }
 
 .triangle-list li .description {
-    font-size: 16px; /* Adjust the font size as needed */
+    font-size: 14px; /* Adjust the font size as needed */
     color: #555; /* Adjust the color of the description text */
     display: block; /* Ensure the description text is on a new line */
     margin-top: 5px; /* Add more vertical space between link text and descriptive text */
     margin-left: 20px; /* Indent the description text further right */
 }
 
+@media (max-width: 768px) {
+    .triangle-list li:before {
+        left: -10px; /* Adjust the position of the bullets for mobile devices */
+    }
+    
+    .triangle-list li a {
+        margin-left: 10px; /* Adjust the position of the link text for mobile devices */
+        text-indent: -10px; /* Align multi-line link text with the first line for mobile devices */
+    }
+    
+    .triangle-list li .description {
+        margin-left: 15px; /* Adjust the position of the descriptive text for mobile devices */
+    }
+}
+
+.page-up-arrow {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgba(0, 91, 197, 0.75); /* Adjust the opacity to 90% */
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 24px;
+    border-radius: 20px;
+}
+
+.page-up-arrow a {
+    color: inherit;
+    text-decoration: none;
+}
+
+  
 
