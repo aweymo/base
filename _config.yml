@@ -23,6 +23,7 @@ social:
 #THEME SETTINGS
 
 navigation: # Navigation links
+  - {name: 'Home', link: '/home'}
   - {name: 'CV', link: '/cv'}
   - {name: 'Creative', link: '/creative'}
   - {name: 'Contact', link: '/contact'}
