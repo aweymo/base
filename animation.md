@@ -6,7 +6,11 @@ featured-img:
 permalink: /animation/
 ---
 
-<div class="wrap"><iframe title="vimeo-player" src="https://player.vimeo.com/video/328974250?h=503bf36d54" width="640" height="360" frameborder="0"    allowfullscreen></iframe><p class="caption">Animation of traditional structural and aesthetic brick bond designs.</p></div>
+<div class="wrap">
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/328974250?h=503bf36d54" frameborder="0" allowfullscreen></iframe>
+</div>
+<p class="caption">Animation of traditional structural and aesthetic brick bond designs.</p>
+
 
 <div class="wrap"><iframe title="vimeo-player" src="https://player.vimeo.com/video/316470344?h=0626b7dc39" width="640" height="360" frameborder="0"    allowfullscreen></iframe><p class="caption">Architectural elements of the Cushman Substation that was completed in 1926 in Tacoma, WA.</p></div>
 
