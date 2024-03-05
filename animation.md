@@ -29,3 +29,7 @@ permalink: /animation/
 <div class="wrap"><iframe title="vimeo-player" src="https://player.vimeo.com/video/313690220?h=590568af04" width="640" height="360" frameborder="0"    allowfullscreen></iframe></div>
 
 <div class="wrap"><iframe title="vimeo-player" src="https://player.vimeo.com/video/254146016?h=6e717e1de5" width="640" height="360" frameborder="0"    allowfullscreen></iframe></div>
+
+<div class="page-up-arrow">
+  <a href="#top">&#9650;</a>
+</div>

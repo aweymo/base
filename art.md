@@ -71,3 +71,7 @@ This involved origami, knot making and a little geometry; designing paper bracke
   <img src="/images/rise_of.png" alt="Abstract space landscape with the words Rise of Molten Rock in the left side" title="Rise of Molten Rock" style="width: 100%; height: auto;">
 </div>
 <p style="text-align: right;">Rise of Molten Rock, 2019</p>
+
+<div class="page-up-arrow">
+  <a href="#top">&#9650;</a>
+</div>

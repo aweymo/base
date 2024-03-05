@@ -45,3 +45,7 @@ permalink: /audio/
 <div class="iframe-container">
   <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1578740770/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://100tacks.bandcamp.com/album/staff-final-episode-of-100-tacks">Staff, Final Episode of 100 Tacks by Andrew Weymouth</a></iframe>
 </div>
+
+<div class="page-up-arrow">
+  <a href="#top">&#9650;</a>
+</div>
