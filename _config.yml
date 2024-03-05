@@ -3,8 +3,8 @@
 title: Andrew Weymouth
 description: Digital Initiatives Librarian, Writer
 repository: 
-baseurl: "/"
-url: "http://aweymo.github.io/base"
+baseurl: "/base"
+url: "https://aweymo.github.io"
 
 google_tag_manager: 
 
