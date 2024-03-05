@@ -6,8 +6,6 @@ featured-img:
 permalink: /art/
 ---
 
-## Art and Design
-
 **Panorama Paper Art Project**
 
 <div class="wrap"><iframe title="vimeo-player" src="https://player.vimeo.com/video/438211978?h=415f71443a" width="640" height="360" frameborder="0"    allowfullscreen></iframe></div>

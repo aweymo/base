@@ -196,5 +196,7 @@ a.big-red-button:hover {
     color: #007bff; /* Adjust the hover color as needed */
   }
   
-  
+  .caption {
+    text-align: center;
+  }
 

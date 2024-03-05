@@ -6,8 +6,6 @@ featured-img:
 permalink: /field/
 ---
 
-## Field Recordings
-
 <div class="iframe-container">
   <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1625333114/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://andrewweymouth.bandcamp.com/album/bathing-and-braying">Bathing and Braying by Andrew Weymouth</a></iframe>
 </div>

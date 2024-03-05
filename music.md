@@ -6,8 +6,6 @@ featured-img:
 permalink: /music/
 ---
 
-## Music
-
 **Old Tape**
 
 The score for the Mary Hillaire project noted in the audio docs section was created by implementing audio from the cassettes in the collection. They are the clicks and pops of the cassettes before the recording starts from six different tapes. This was inspired by Mary talking about finding musicality in "the clanging of an old, stupid machine," referring to her constant companion, the tape recorder. Spring 2020.

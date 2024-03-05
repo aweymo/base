@@ -1,8 +1,8 @@
 ---
 layout: default
 headline: About
-description: Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has created digital scholarship work for the University of Oregon, Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases. He writes extensively about labor, film and architectural history, most recently contributing the opening chapter to Litwin Books Land in Libraries, on the development of pre-Carnegie libraries in the American West.
-summary: Digital Initiatives Librarian, writer and artist.
+description: Digital Initiatives Librarian, writer and artist
+summary: Digital Initiatives Librarian, writer and artist
 featured-img: 
 permalink: /
 --- 
