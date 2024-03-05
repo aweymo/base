@@ -8,7 +8,9 @@ permalink: /art/
 
 **Panorama Paper Art Project**
 
-<div class="wrap"><iframe title="vimeo-player" src="https://player.vimeo.com/video/438211978?h=415f71443a" width="640" height="360" frameborder="0"    allowfullscreen></iframe></div>
+<div class="media"><iframe title="vimeo-player" src="https://player.vimeo.com/video/438211978?h=415f71443a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+<p class="caption">Panorama construction demonstration</p>
 
 When 2020 began to bear down, I started working on looser ink wash illustrations to try and get out of my head for a bit. Over time, these illustrations became  long panoramas of jumbled landscapes.
 
@@ -16,7 +18,9 @@ I thought about how I could best present panoramas since two dimensional formats
 
 This involved origami, knot making and a little geometry; designing paper brackets to join the inner and outer panels, creating a visual guide and a making a simple card to organize the wooden loop and string to suspend the panoramas. The template design also involved fitting all of these elements on two 11x17 sheets of paper. 
 
-<div class="wrap"><iframe title="vimeo-player" src="https://player.vimeo.com/video/450863825?h=e3d43a5309" width="640" height="360" frameborder="0"    allowfullscreen></iframe></div>
+<div class="media"><iframe title="vimeo-player" src="https://player.vimeo.com/video/450863825?h=e3d43a5309" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+<p class="caption">Close-up of illustrations and movement</p>
 
 **Illustration**
 
