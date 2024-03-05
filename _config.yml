@@ -18,12 +18,12 @@ social:
     - https://www.linkedin.com/in/andrew-weymouth/
     - https://github.com/aweymo
     - https://letterboxd.com/aweymo/
+    - https://andrewweymouth.bandcamp.com/
     
 #THEME SETTINGS
 
 navigation: # Navigation links
   - {name: 'CV', link: '/cv'}
-  - {name: 'Interactive Portfolio', link: '/portfolio'}
   - {name: 'Creative', link: '/creative'}
   - {name: 'Contact', link: '/contact'}
   

@@ -1,15 +1,31 @@
 ---
 layout: default
 headline: About
-description: Andrew Weymouth is a Digital Initiatives Librarian at the University of Idaho and writer with a background in archives and design.
-summary: Andrew Weymouth is a Digital Initiatives Librarian at the University of Idaho and writer with a background in archives and design.
+description: Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has created digital scholarship work for the University of Oregon, Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases. He writes extensively about labor, film and architectural history, most recently contributing the opening chapter to Litwin Books Land in Libraries, on the development of pre-Carnegie libraries in the American West.
+summary: Digital Initiatives Librarian, writer and artist.
 featured-img: headshot_circle.png
 permalink: /
 --- 
 
-{% include feature/nav-menu.html sections="Workshops and Presentations;Exhibits;Student Fellowship Projects;Scholarly Publications;Other Writing;Press" %}
+{% include feature/nav-menu.html sections="Interactive Portfolio;Workshops and Presentations;Exhibits;Student Fellowship Projects;Scholarly Publications;Other Writing;Press" %}
 
-Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has created digital scholarship work for the University of Oregon, Washington and the Tacoma Northwest Room archives, ranging from longform audio public history to architectural databases. He writes extensively about labor, film and architectural history, most recently contributing the opening chapter to Litwin Books <i>Land in Libraries</i>, on the development of pre-Carnegie libraries in the American West. 
+Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has created digital scholarship work for the University of Oregon, Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases. He writes extensively about labor, film and architectural history, most recently contributing the opening chapter to Litwin Books <i>Land in Libraries</i>, on the development of pre-Carnegie libraries in the American West.
+
+<div class="social-links">
+  <a href="https://github.com/aweymo" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+  <a href="https://www.linkedin.com/in/andrew-weymouth/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+  <a href="https://www.instagram.com/andrewrweymouth/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+  <a href="https://vimeo.com/andrewrainsweymouth" target="_blank" rel="noopener noreferrer"><i class="fab fa-vimeo"></i></a>
+  <a href="https://andrewweymouth.bandcamp.com/" target="_blank" rel="noopener noreferrer"><i class="fab fa-bandcamp"></i></a>
+  <a href="https://letterboxd.com/aweymo/" target="_blank" rel="noopener noreferrer"><i class="fas fa-film"></i></a>
+</div>
+
+
+## Interactive Portfolio
+
+<div class="iframe-container">
+  <iframe src="https://indd.adobe.com/view/22005a32-3d2a-439a-91be-dadd2eb723b1" frameborder="0"></iframe>
+</div>
 
 ## Workshops and Presentations
 
@@ -120,6 +136,19 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
         <span class="description">Article detailing my work with the Washington State Fair processing their visual resources and navigating the archives work during the first stages of the COVID-19 pandemic. <i>Archives Aware (SAA), Winter, 2021</i></span>
     </li>
 </ul>
+
+<script>
+  // Smooth scrolling for anchor links
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+      e.preventDefault();
+
+      document.querySelector(this.getAttribute('href')).scrollIntoView({
+        behavior: 'smooth'
+      });
+    });
+  });
+</script>
 
 <div class="page-up-arrow">
   <a href="#top">&#9650;</a>

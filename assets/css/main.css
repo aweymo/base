@@ -98,29 +98,6 @@ a.big-red-button:hover {
     text-decoration: none;
 }
 
-/* Social Media Buttons */
-
-.social__link {
-    font-size: 14px;
-    width: 28px;
-    height: 28px;
-    position: relative;
-    border-radius: 50%;
-    background: #000;
-    display: inline-block;
-    line-height: 1;
-    color: #fff;
-    margin: 0 3px;
-}
-
-.social__link:hover {
-    color: #fff;
-}
-
-.social .svg-inline--fa {
-    height: 28px;
-}
-
 .triangle-list {
     list-style-type: none;
     padding-left: 0;
@@ -193,5 +170,29 @@ a.big-red-button:hover {
     text-decoration: none;
 }
 
+.iframe-container {
+    margin-bottom: 40px; /* Adjust as needed */
+  }
+  
+  .iframe-container iframe {
+    width: 100%;
+    height: 500px; /* Adjust the height as needed */
+  }
+  .social-links {
+    display: flex;
+    justify-content: center; /* Adjust as needed */
+    margin-top: 20px; /* Adjust as needed */
+  }
+  
+  .social-links a {
+    color: #333; /* Adjust the color as needed */
+    font-size: 24px; /* Adjust the font size as needed */
+    margin: 0 10px; /* Adjust the spacing between icons */
+  }
+  
+  .social-links a:hover {
+    color: #007bff; /* Adjust the hover color as needed */
+  }
+  
   
 
