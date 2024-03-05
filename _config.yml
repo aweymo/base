@@ -23,9 +23,13 @@ social:
 #THEME SETTINGS
 
 navigation: # Navigation links
-  - {name: 'Home', link: '/home'}
+  - {name: 'Home', link: '/'}
   - {name: 'CV', link: '/cv'}
-  - {name: 'Creative', link: '/creative'}
+  - {name: 'Animation', link: '/animation'}
+  - {name: 'Art and Design', link: '/art'}
+  - {name: 'Audio Docs', link: '/audio'}
+  - {name: 'Field Recording', link: '/field'}
+  - {name: 'Music', link: '/music'}
   - {name: 'Contact', link: '/contact'}
   
 email: andrewrainsweymouth@gmail.com
