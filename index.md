@@ -13,7 +13,7 @@ permalink: /
 
 {% include feature/nav-menu.html sections="Interactive Portfolio;Workshops and Presentations;Exhibits;Student Fellowship Projects;Scholarly Publications;Other Writing;Press" %}
 
-Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has created digital scholarship work for the University of Oregon, Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases. He writes extensively about labor, film and architectural history, most recently contributing the opening chapter to Litwin Books <i>Land in Libraries</i>, on the development of pre-Carnegie libraries in the American West.
+Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has also created digital scholarship projects for University of Oregon, University of Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases. He writes extensively about labor, film, architecture and underrepresented communities, most recently contributing the opening chapter to Litwin Books <i>Land in Libraries</i>, on the development of pre-Carnegie libraries in the American West.
 
 <div class="social-links">
   <a href="https://github.com/aweymo" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
@@ -144,19 +144,6 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
         <span class="description">Article detailing my work with the Washington State Fair processing their visual resources and navigating the archives work during the first stages of the COVID-19 pandemic. <i>Archives Aware (SAA), Winter, 2021</i></span>
     </li>
 </ul>
-
-<script>
-  // Smooth scrolling for anchor links
-  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-      e.preventDefault();
-
-      document.querySelector(this.getAttribute('href')).scrollIntoView({
-        behavior: 'smooth'
-      });
-    });
-  });
-</script>
 
 <div class="page-up-arrow">
   <a href="#top">&#9650;</a>
