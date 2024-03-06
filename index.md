@@ -28,8 +28,9 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 ## Interactive Portfolio
 
 <div class="iframe-container">
-  <iframe src="https://indd.adobe.com/view/22005a32-3d2a-439a-91be-dadd2eb723b1" frameborder="0"></iframe>
+  <iframe src="https://indd.adobe.com/view/22005a32-3d2a-439a-91be-dadd2eb723b1" frameborder="0" allowfullscreen></iframe>
 </div>
+
 
 ## Workshops and Presentations
 
