@@ -1,8 +1,8 @@
 ---
 layout: default
 headline: About
-description: Digital Initiatives Librarian, writer and artist
-summary: Digital Initiatives Librarian, writer and artist
+description: Digital Initiatives Librarian, Writer and Artist
+summary: Digital Initiatives Librarian, Writer and Artist
 featured-img: 
 permalink: /
 --- 
@@ -47,6 +47,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 ## Exhibits
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://thecdil.github.io/taylor-archive/">The Taylor Wilderness Research Station Archive</a>
+        <span class="description">Scientific archive of the University of Idaho's Taylor Wilderness Research Station, featuring oral histories, bibliometric visualizations and geographic / oral history hybrid animation. <i>Spring, 2024</i></span>
+    </li>
     <li>
         <a href="https://andrewweymouth.bandcamp.com/album/the-tideflats">The Tideflats</a>
         <span class="description">Long form audio documentary about distance and civic infrastructure, examining the history and present use of the Tacoma Tideflats, created for the University of Washington Storytelling Fellows.  <i>Summer, 2022</i></span>
