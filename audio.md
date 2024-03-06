@@ -17,10 +17,6 @@ permalink: /audio/
 </div>
 
 <div class="iframe-container">
-  <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=639390990/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://100tacks.bandcamp.com/album/cribbings-episode-1">Cribbings, Episode 1 by 100 Tacks</a></iframe>
-</div>
-
-<div class="iframe-container">
   <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4132438650/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://100tacks.bandcamp.com/album/the-portland-rowing-clubhouse-episode-two">The Portland Rowing Clubhouse, Episode Two by Andrew Weymouth</a></iframe>
 </div>
 
