@@ -7,6 +7,14 @@ featured-img:
 permalink: /
 --- 
 
+<style>
+    /* Add margin-bottom: 100px to all h2 elements */
+    h2 {
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+</style>
+
 <div style="max-width: 100%; overflow: hidden; text-align: center;">
   <img src="/base/images/headshot_circle.png" alt="Photo of the Author with a bad pandemic haircut" title="Andrew Weymouth" style="width: 25%; height: auto; margin: 0 auto;">
 </div>
