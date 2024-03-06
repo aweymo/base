@@ -40,7 +40,7 @@ This involved origami, knot making and a little geometry; designing paper bracke
 <p style="text-align: right;">Making Space, 2020</p>
 
 <div style="max-width: 100%; overflow: hidden;">
-  <img src="/base/images/triptychs.png" alt="Illustration of a three panel surface with the word tryptics" title="Triptychs Logo Design" style="width: 100%; height: auto;">
+  <img src="/base/images/Triptychs.png" alt="Illustration of a three panel surface with the word tryptics" title="Triptychs Logo Design" style="width: 100%; height: auto;">
 </div>
 <p style="text-align: right;">Triptychs Logo Design, 2020</p>
 
@@ -55,7 +55,7 @@ This involved origami, knot making and a little geometry; designing paper bracke
 <p style="text-align: right;">Repository Logo Design, 2018</p>
 
 <div style="max-width: 100%; overflow: hidden;">
-  <img src="/base/images/surf.png" alt="Two balls of string with the word surf over them" title="Surf Logo Design" style="width: 100%; height: auto;">
+  <img src="/base/images/Surf.png" alt="Two balls of string with the word surf over them" title="Surf Logo Design" style="width: 100%; height: auto;">
 </div>
 <p style="text-align: right;">Surf Logo Design, 2019</p>
 
