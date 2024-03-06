@@ -10,8 +10,8 @@
             </span>
         {% endif %}
         <a href="{{ post.url | relative_url }}">
-            <img class="card-img-top lazyload blur" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg", data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb@2x.jpg 2x" class="lazyload blur" alt="{{post.title}}"
-            /><noscript><img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript>
+            <img class="card-img-top lazyload blur" src="{{ site.url }}{{ site.baseurl }}/images/{{post.featured-img}}_placehold.jpg", data-srcset="{{ site.url }}{{ site.baseurl }}/images/{{post.featured-img}}_thumb.jpg, {{ site.url }}{{ site.baseurl }}/images/{{post.featured-img}}_thumb@2x.jpg 2x" class="lazyload blur" alt="{{post.title}}"
+            /><noscript><img class="card-img-top" src="{{ site.url }}{{ site.baseurl }}/images/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript>
             <div class="card-body">
                 <h5 class="card-title">{{ post.title | strip_html | truncate: 50 }}</h5>
                 {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}

@@ -8,7 +8,7 @@ permalink: /
 --- 
 
 <div style="max-width: 100%; overflow: hidden; text-align: center;">
-  <img src="/images/headshot_circle.png" alt="Photo of the Author with a bad pandemic haircut" title="Andrew Weymouth" style="width: 25%; height: auto; margin: 0 auto;">
+  <img src="/base/images/headshot_circle.png" alt="Photo of the Author with a bad pandemic haircut" title="Andrew Weymouth" style="width: 25%; height: auto; margin: 0 auto;">
 </div>
 
 {% include feature/nav-menu.html sections="Interactive Portfolio;Workshops and Presentations;Exhibits;Student Fellowship Projects;Scholarly Publications;Other Writing;Press" %}
