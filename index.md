@@ -10,8 +10,8 @@ permalink: /
 <style>
     /* Add margin-bottom: 100px to all h2 elements */
     h2 {
-        margin-bottom: 75px;
-        margin-top: 75px;
+        margin-bottom: 85px;
+        margin-top: 85px;
     }
 </style>
 
