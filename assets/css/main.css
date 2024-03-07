@@ -214,3 +214,6 @@ a.big-red-button:hover {
     height: 100%;
   }
   
+  body {
+    background-color: #F0F8FF;
+}

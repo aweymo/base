@@ -13,6 +13,7 @@ permalink: /
         margin-bottom: 90px;
         margin-top: 90px;
     }
+    
 </style>
 
 <div style="max-width: 100%; overflow: hidden; text-align: center;">
@@ -21,7 +22,7 @@ permalink: /
 
 {% include feature/nav-menu.html sections="Portfolio;Workshops and Presentations;Exhibits;Student Fellowship Projects;Scholarly Publications;Other Writing;Press" %}
 
-Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has also created digital scholarship projects for University of Oregon, University of Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases. He writes extensively about labor, film, architecture and underrepresented communities, most recently contributing the opening chapter to Litwin Books <i>Land in Libraries</i>, on the development of pre-Carnegie libraries in the American West.
+Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has also created digital scholarship projects for the universities of Oregon, Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases and network visualizations. He writes about labor, architecture, underrepresented communities and using digital scholarship methods to survey equity in archival collections.
 
 <div class="social-links">
   <a href="https://github.com/aweymo" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>

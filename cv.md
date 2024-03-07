@@ -58,7 +58,7 @@ Graduate Student Fellowship, 2023
 
 (teaching resources shared for access and re-use; created as part of librarian’s Teaching area of responsibility)
 
-<i>"How to Find Copyright Free Photos, Audio or Video of Almost Anything" </i>[workshop for Exploring the Information
+- <i>"How to Find Copyright Free Photos, Audio or Video of Almost Anything" </i>[workshop for Exploring the Information
 Landscape hosted on customized CB Instructional template], https://aweymo-ui.github.io/source_cr_free, 2024
 
 
@@ -110,13 +110,13 @@ Workshop”, [Invited to host a workshop on utilizing bibliographic software Zot
 
 **Invited Lectures**
 
-“Humanizing Nature Research History with Static Web Design", Presentation as a part of <i>Captivity: Assembling Nature’s Histories</i> at the UCLA William Andrews Clark Memorial Library, 2024
+- “Humanizing Nature Research History with Static Web Design", Presentation as a part of <i>Captivity: Assembling Nature’s Histories</i> at the UCLA William Andrews Clark Memorial Library, 2024
 
-"Collaborating with Community Archives to Increase Access to At-Risk Collections", as a part of the 2024 Northwest Archivist convention, 2024
+- "Collaborating with Community Archives to Increase Access to At-Risk Collections", as a part of the 2024 Northwest Archivist convention, 2024
 
-"Using Digital Scholarship to Conduct and Present Historical Research", Presentation for Ellen Kittell's History 290 Class, https://aweymo-ui.github.io/ds_hr/, University of Idaho, 2024
+- "Using Digital Scholarship to Conduct and Present Historical Research", Presentation for Ellen Kittell's History 290 Class, https://aweymo-ui.github.io/ds_hr/, University of Idaho, 2024
 
-“Mapping Language”, Community Archives Panel, City of Tacoma Historic Preservation Month, 2022
+- “Mapping Language”, Community Archives Panel, City of Tacoma Historic Preservation Month, 2022
 
 ## Scholarship Accomplishments
 
@@ -198,7 +198,7 @@ of-the-washington-state-fair
 
 **Community Service**
 
-Crafts Program Volunteer, St. John Public Library, Portland, Oregon, 2019
+- Crafts Program Volunteer, St. John Public Library, Portland, Oregon, 2019
 
 ## Professional Development
 
