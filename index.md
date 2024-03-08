@@ -20,7 +20,7 @@ permalink: /
   <img src="/base/images/headshot_circle.png" alt="Photo of the Author with a bad pandemic haircut" title="Andrew Weymouth" style="width: 25%; height: auto; margin: 0 auto;">
 </div>
 
-{% include feature/nav-menu.html sections="Portfolio;Workshops and Presentations;Exhibits;Student Fellowship Projects;Scholarly Publications;Other Writing;Press" %}
+{% include feature/nav-menu.html sections="Workshops and Presentations;Exhibits;Student Fellowship Projects;Scholarly Publications;Other Writing;Press" %}
 
 Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has also created digital scholarship projects for the universities of Oregon, Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases and network visualizations. He writes about labor, architecture, underrepresented communities and using digital scholarship methods to survey equity in archival collections.
 
@@ -32,14 +32,6 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
   <a href="https://andrewweymouth.bandcamp.com/" target="_blank" rel="noopener noreferrer"><i class="fab fa-bandcamp"></i></a>
   <a href="https://letterboxd.com/aweymo/" target="_blank" rel="noopener noreferrer"><i class="fas fa-film"></i></a>
 </div>
-
-
-## Portfolio
-
-<div class="iframe-container">
-  <iframe src="https://indd.adobe.com/view/22005a32-3d2a-439a-91be-dadd2eb723b1" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 ## Workshops and Presentations
 
