@@ -45,8 +45,12 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/humanizing" target="_blank">Humanizing Nature Research History with Static Web Technology</a>
+        <span class="description">Presentation for UCLA Library's <i>Captivity: Assembling Nature’s Histories, Spring 2024</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/ds_hr" target="_blank">Using Digital Scholarship to Conduct and Present Historical Research</a>
-        <span class="description">Workshop created for Ellen Kittell's History 209 class. <i>University of Idaho, Spring 2024</i>.</span>
+        <span class="description">A revised version of the Humanizing Nature Research History presentation for Ellen Kittell's History 209 class, to introduce undergraduate students to digital scholarship concepts. <i>University of Idaho, Spring 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/source_cr_free" target="_blank">Sourcing Copyright Free Media Workshop</a>
