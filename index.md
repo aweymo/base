@@ -126,7 +126,7 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
     </li>
     <li>
         <a href="https://www.tacomalibrary.org/blogs/post/above-the-clouds-the-tacoma-mountaineers-records/" target="_blank">Above the Clouds, The Tacoma Mountaineers Records</a>
-        <span class="description">Post on the Tacoma Public Library's site about my time processing the Tacoma Mountaineers archive material,focusing on a female member’s scrapbook which documented expeditions during 1906.<i> Winter, 2022</i></span>
+        <span class="description">Post on the Tacoma Public Library's site about my time processing the Tacoma Mountaineers archive material, focusing on a female member’s scrapbook which documented expeditions during 1906.<i> Winter, 2022</i></span>
     </li>
         <li>
         <a href="https://mydigitalpublication.com/publication/?i=690860&p=11&ver=html5" target="_blank">Capturing the Oral History of a Historic African American Community in the Pacific Northwest</a>
