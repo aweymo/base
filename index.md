@@ -41,7 +41,7 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
         <span class="description">Presentation for UCLA Library's <i>Captivity: Assembling Nature’s Histories</i> detailing my experience creating interpretive materials for the Taylor Wilderness Research Station digital collection, <i>Spring 2024</i>.</span>
     </li>
     <li>
-        <a href="https://aweymo-ui.github.io/community" target="_blank">Collaborating with Community Archives to Increase Access to At-Risk Collections</a>
+        <a href="https://aweymo-ui.github.io/community" target="_blank">Collaborating with Community Archives to Increase Access to Collections</a>
         <span class="description">Created for the 2024 Northwest Archivist conference, this presentation details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when engaging with community heritage spaces that don't look or function like formal archives, <i>Spring 2024</i>.</span>
     </li>
     <li>
