@@ -58,7 +58,7 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
-        <a href="https://thecdil.github.io/taylor-archive/" target="_blank">The Taylor Wilderness Research Station Archive</a>
+        <a href="https://www.lib.uidaho.edu/digital/taylor-archive/" target="_blank">The Taylor Wilderness Research Station Archive</a>
         <span class="description">Scientific archive of the University of Idaho's Taylor Wilderness Research Station, featuring oral histories, bibliometric visualizations and geographic / oral history hybrid animation. <i>Spring, 2024</i></span>
     </li>
     <li>
