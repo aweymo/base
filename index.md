@@ -1,6 +1,6 @@
 ---
 layout: default
-headline: About
+headline: 
 description: Digital Initiatives Librarian, Writer and Artist
 summary: Digital Initiatives Librarian, Writer and Artist
 featured-img: 
@@ -43,6 +43,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
     <li>
         <a href="https://aweymo-ui.github.io/community" target="_blank">Collaborating with Community Archives to Increase Access to Collections</a>
         <span class="description">Created for the 2024 Northwest Archivist conference, this presentation details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when engaging with community heritage spaces that don't look or function like institutional archives, <i>Spring 2024</i>.</span>
+    </li>
+        <li>
+        <a href="https://aweymo-ui.github.io/tideflats" target="_blank">The Tideflats: Distance and Environmental Psychology</a>
+        <span class="description">Presentation for the Society of Architectural Historians 2024 conference on the history of land use in the industrial Tacoma, Washington Tideflats, exploring themes of urban development and environmental psychology, <i>Fall 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/ds_hr" target="_blank">Using Digital Scholarship to Conduct and Present Historical Research</a>
