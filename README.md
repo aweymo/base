@@ -1,3 +1,3 @@
 # Andrew Weymouth Professional Site
 
-This site is a modification of Andrew Stiefel's Music Portfolio repository: https://github.com/andrewstiefel/music-portfolio, under CC license. 
+Professional and scholarly site for Andrew Weymouth under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
