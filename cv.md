@@ -52,11 +52,17 @@ Digital Scholarship, Web Development, Digital Preservation, Web Archiving, Exhib
 - Nick Koenig, CDIL
 Graduate Student Fellowship, 2023
 
+**Undergraduate Students**
+
+- Irene Koreski, Berry Fellowship, 2024
+
 ## Materials Developed
 
 **Open Educational Resources**
 
 (teaching resources shared for access and re-use; created as part of librarian’s Teaching area of responsibility)
+
+- <i>Using Digital Scholarship to Conduct and Present Historical Research</i> [workshop for Ellen Kittell’s History 290 Class hosted on static workshop template], https://aweymo-ui.github.io/ds_hr, 2024
 
 - <i>"How to Find Copyright Free Photos, Audio or Video of Almost Anything" </i>[workshop for Exploring the Information
 Landscape hosted on customized CB Instructional template], https://aweymo-ui.github.io/source_cr_free, 2024
@@ -65,6 +71,10 @@ Landscape hosted on customized CB Instructional template], https://aweymo-ui.git
 ## Website and Database Development
 (specific digital collection and web projects completed as part of librarian’s “Teaching” area of responsibility)
 
+- <i>Alice Coltrane, Jazz Spiritualism</i> [Oral history centered profile of musician Alice Coltrane, implementing U of I Oral History as Metadata visualization for Berry Fellows Irene Koreski], 2024, https://www.lib.uidaho.edu/digital/coltrane
+
+- <i>Taylor Wilderness Reserarch Station Archive</i> [Extended project to clean metadata, create contextual digital scholarship elements and merge a scientific repository with an oral history project], 2024, https://www.lib.uidaho.edu/digital/taylor-archive
+
 - <i>Chestnut Collective</i>, [Exhibit design and network visualization for CDIL Graduate Student Fellowship], 2023,
 https://github.com/thecdil/chestnutcollective
 
@@ -72,22 +82,21 @@ https://github.com/thecdil/chestnutcollective
 https://www.lib.uidaho.edu/digital/vandalvideo/about.html
 
 - <i>The Genesee News</i>, [Corrected metadata and redesigned site that wasn’t available to the public], 2023,
-https://www.lib.uidaho.edu/digital/genesee-news/
+https://www.lib.uidaho.edu/digital/genesee-news
 
-- University of Idaho Data Migration, [Participated as a group of four in the creation, quality control or deployment of
-around 125 collections from ContentDM based storage to a local platform], 2023
+- University of Idaho Data Migration, [Participated as a group of four in the creation, quality control or deployment of around 125 collections from ContentDM based storage to a local platform], 2023
 
 - <i>Lost Tacoma</i>, [Architectural database created on behalf of the Tacoma Public Library Northwest Room], 2022,
-https://aweymo.github.io/losttacoma/
+https://aweymo.github.io/losttacoma
 
 - <i>Mapping Language</i>, [Database and pedagogical tool created for University of Washington capstone], 2022,
-https://aweymo.github.io/mappinglanguage/
+https://aweymo.github.io/mappinglanguage
 
 - <i>Middle East and North Africa Illustrated</i>, [Database created for the University of Washington’s Near Eastern
-Languages department], 2022, https://gnmedatabase.github.io/site/
+Languages department], 2022, https://gnmedatabase.github.io/site
 
 - <i>Richards Studio VRAF Grant</i>, [Forestry.io Git site created to showcase grant work with the Tacoma Public Library
-Northwest Room], 2022, https://aweymo.github.io/VRAF_RC.2/
+Northwest Room], 2022, https://aweymo.github.io/VRAF_RC.2
 
 - <i>Emma B. Andrews Diary Project Network Visualization Tools</i>, [University of Washington directed fieldwork site],
 2021, https://aweymo1.wixsite.com/eba-visualization
@@ -99,11 +108,18 @@ during under graduate fieldwork for the Evergreen State College, 2019,https://co
 
 **Workshops**
 
-- “Collection Builder Workshop”, [Two hour workshop concluding my Research Assistant position with Selim Kuru at the University of
-Washington recapping how to maintain and expand the CB database for future use], 2022, https://gnmedatabase.github.io/site/
+- “Humanizing Nature Research History with Static Web Technology”, [Presentation for UCLA Library’s Captivity: Assembling Nature’s Histories detailing my experience creating interpretive materials for the Taylor Wilderness Research Station digital collection], 2024, https://aweymo-ui.github.io/humanizing
 
-- “Omeka Workshop”, [Designed curriculum and taught a three part workshop with Elliot Stevens and the University
-of Washington’s Digital Humanities department], 2021
+- “Collaborating with Community Archives to Increase Access to Collections”, [Created for the 2024 Northwest Archivist conference, this presentation details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when 
+engaging with community heritage spaces that don’t look or function like institutional archives], 2024, https://aweymo-ui.github.io/community
+
+- “The Tideflats: Distance and Environmental Psychology”, [Presentation for the Society of Architectural Historians 2024 conference on the history of land use in the industrial Tacoma, Washington Tideflats, exploring themes of urban development and environmental psychology], 2024, 
+https://aweymo-ui.github.io/tideflats
+
+- “Collection Builder Workshop”, [Two hour workshop concluding my Research Assistant position with Selim Kuru at the University of
+Washington recapping how to maintain and expand the CB database for future use], 2022, https://gnmedatabase.github.io/site
+
+- “Omeka Workshop”, [Designed curriculum and taught a three part workshop with Elliot Stevens and the University of Washington’s Digital Humanities department], 2021
 
 - “Bibliographic Mobile Platforms
 Workshop”, [Invited to host a workshop on utilizing bibliographic software Zotero, Papership and Zoo for Zotero to make coursework more accessible for adult learners], 2019
@@ -204,6 +220,8 @@ of-the-washington-state-fair
 
 **Scholarship**
 
+- Proposal Development Academy, [10 part U of I course], Spring 2024
+
 - “The Impact of Crowd-sourced Transcriptions from the Library of Congress”, DLF Conference, 2023
 
 - “Balancing Curation and Copyright”, DLF Conference, 2023
@@ -223,8 +241,6 @@ Workflows for HTR to TEI Conversions for Cultural Institutions”, DLF Conferenc
 - “Transforming Digital Collections into OER”, DLF Conference, 2023
 
 - “Challenges of Open Source Migrations: Perspectives from an Early Career Librarian”, DLF Conference, 2023
-
-- Grant Writing Proposal Development Academy, [10 part class] Winter, 2024
 
 <div class="page-up-arrow">
   <a href="#top">&#9650;</a>
