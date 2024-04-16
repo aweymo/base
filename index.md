@@ -99,6 +99,13 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
+        <a href="https://www.lib.uidaho.edu/digital/coltrane" target="_blank">Alice Coltrane, Jazz Spiritualism</a>
+        <span class="description">Guidance and Oral History as Data audio visualization for 2024 Berry Fellow Irene Koreski, on the life of Alice Coltrane Turiyasangitananda, an American jazz pianist, organist, harpist, singer and composer. <i>University of Idaho, Spring, 2024</i>.</span>
+    </li>
+</ul>
+
+<ul class="triangle-list">
+    <li>
         <a href="https://github.com/thecdil/chestnutcollective" target="_blank">Chestnut Collective</a>
         <span class="description">Exhibit design and network visualization for Nick Koenig's CDIL Graduate Student Fellowship. <i>University of Idaho, Winter, 2023</i>.</span>
     </li>
