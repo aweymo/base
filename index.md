@@ -32,10 +32,6 @@ permalink: /
 
 Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has also created digital scholarship projects for the universities of Oregon, Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases and network visualizations. He writes about labor, architecture, underrepresented communities and using digital scholarship methods to survey equity in archival collections.
 
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
 <div class="social-links">
   <a href="https://github.com/aweymo" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/andrew-weymouth/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
