@@ -179,10 +179,13 @@ Washington, 2020-2021
 **Search Committees**
 
 - Research Impact Librarian Search Committee, 2023
+- Instruction and User Services Librarian, 2024
+- Digital Projects Manager, 2024 
 
 **Library Organizations**
 
 - Library Social Organization, 2023
+- Safety and Loss Committee, 2024
 
 **Professional and Scholarly Organizations**
 
@@ -193,6 +196,10 @@ Washington, 2020-2021
 **Outreach Service**
 
 **Articles and Posts**
+
+- Andrew Weymouth, “North Idaho Cultural Heritage Institutions Survey,” U of I Special Collections Idaho Harvester (June 23, 2024), https://harvester.lib.uidaho.edu/posts/2024/06/23/survey.html
+
+- Andrew Weymouth, “UI’s Berry Fellow once again breaks the mold in 2024,” *Moscow Pullman Daily News* (June 15, 2024), https://dnews.com/local/ui-s-berry-fellow-once-again-breaks-the-mold-in-2024/article_397754fb-642d-535d-85e2-be98f01be913.html
 
 - Andrew Weymouth, “Above the Clouds, The Tacoma Mountaineers Records,” Tacoma Public Library Northwest Room Blog (December 2022), https://www.tacomalibrary.org/blogs/post/above-the-clouds-the-tacoma-mountaineers-records/
 
@@ -220,27 +227,14 @@ of-the-washington-state-fair
 
 **Scholarship**
 
-- Proposal Development Academy, [10 part U of I course], Spring 2024
+- Captivity: Assembling Nature’s Histories, UCLA Symposium, Spring 2023
 
-- “The Impact of Crowd-sourced Transcriptions from the Library of Congress”, DLF Conference, 2023
+- Northwest Archivist Conference, Spring 2023
 
-- “Balancing Curation and Copyright”, DLF Conference, 2023
+- Proposal Development Academy, [10 part Grant Writing U of I course], Spring 2024
 
-- “The Long Game: Maximizing Access with Iterative Description of Digitized Archives”, DLF Conference 2023
+- DLF Conference, Fall 2023
 
-- “What Can’t We Pay For?: Findings from the Cost Assessment Interest Group’s Best Practices Survey”, DLF Conference, 2023
-
-- “Diversifying Digital Literacy through Access and Inclusion”, DLF Conference, 2023
-
-- “The Holy Grail of Inventorying : Expediting Spreadsheet Workflow through Python Scripts”, DLF Conference,
-2023
-
-- “The Evolving Hands Project: Building
-Workflows for HTR to TEI Conversions for Cultural Institutions”, DLF Conference, 2023
-
-- “Transforming Digital Collections into OER”, DLF Conference, 2023
-
-- “Challenges of Open Source Migrations: Perspectives from an Early Career Librarian”, DLF Conference, 2023
 
 <div class="page-up-arrow">
   <a href="#top">&#9650;</a>
