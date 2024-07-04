@@ -137,10 +137,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 <ul class="triangle-list">
     <li>
         <a href="https://harvester.lib.uidaho.edu/posts/2024/06/23/survey.html" target="_blank">North Idaho Cultural Heritage Institutions Survey</a>
-        <span class="description">Article detailing a survey I created and conducted with the participation of twelve institutions discusses rethinking traditional practices of archival accessions and digital initiatives. It also explores the similar challenges and successes of these smaller cultural heritage centers.<i> University of Idaho Special Collections Idaho Harvester, Spring 2024</i></span>
+        <span class="description">Article detailing a survey I created and conducted with the participation of twelve institutions, rethinking traditional practices of archival accessions and digital initiatives and exploring the similar challenges and successes of these smaller cultural heritage centers.<i> University of Idaho Special Collections Idaho Harvester, Spring 2024</i></span>
     </li>
     <li>
-        <a href="https://dnews.com/local/ui-s-berry-fellow-once-again-breaks-the-mold-in-2024/article_397754fb-642d-535d-85e2-be98f01be913.html"  target="_blank"> UI’s Berry Fellow once again breaks the mold in 2024</a>
+        <a href="https://dnews.com/local/ui-s-berry-fellow-once-again-breaks-the-mold-in-2024/article_397754fb-642d-535d-85e2-be98f01be913.html"  target="_blank"> UI’s Berry Fellow Once Again Breaks the Mold in 2024</a>
         <span class="description">Article detailing my experience working with the 2024 Berry Fellowship recipient Irene Koreski to create a digital exhibit around a rare, unpublished oral history interview with jazz pioneer and eastern spiritualist Alice Coltrane.  <i>Pullman Moscow Daily New, Spring 2024</i></span>
     </li>
     <li>
