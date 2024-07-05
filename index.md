@@ -170,7 +170,7 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 <ul class="triangle-list">
     <li>
         <a href="https://www.tacomalibrary.org/blogs/post/richards-revisited-2/" target="_blank">Richards Revisited</a>
-        <span class="description">Interview on the Tacoma Public Library's site about my time processing the Richards Studio Collection, focusing on working with unusual film formats, twentieth century fraternities and diversity in the historical record<i>Spring, 2022</i></span>
+        <span class="description">Interview on the Tacoma Public Library's site about my time processing the Richards Studio Collection, focusing on working with unusual film formats, twentieth century fraternities and diversity in the historical record. <i>Spring, 2022</i></span>
     </li>
     <li>
         <a href="https://www.knkx.org/arts-culture/2022-03-04/digitization-and-archival-projects-help-fill-in-gaps-in-tacomas-history" target="_blank">Digitization and archival projects help 'fill in gaps' in Tacoma's History</a>
