@@ -45,6 +45,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/distant_listening" target="_blank">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
+        <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Currently under review at Code4Lib, <i>submitted Summer 2024</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/humanizing" target="_blank">Humanizing Nature Research History with Static Web Technology</a>
         <span class="description">Presentation for UCLA Library's <i>Captivity: Assembling Nature’s Histories</i> detailing my experience creating interpretive materials for the Taylor Wilderness Research Station digital collection, <i>Spring 2024</i>.</span>
     </li>
