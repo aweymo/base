@@ -6,7 +6,7 @@
     <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        /* Your CSS styles here */
+        /* General Styles */
         body {
             font-family: 'EB Garamond', serif;
             color: #212121;
@@ -75,11 +75,6 @@
         .carousel-control-prev, .carousel-control-next {
             color: white;
         }
-        @media (max-width: 768px) {
-            .film-entry .body {
-                flex-direction: column;
-            }
-        }
         .symbol-container {
             display: flex;
             justify-content: center;
@@ -114,6 +109,7 @@
             text-align: center;
             color: #000;
             margin: 2rem auto;
+            width: 90%;
         }
         .divider-line {
             border-top: 1px solid #000;
@@ -146,6 +142,43 @@
         }
         .social-links a:hover {
             color: #000;
+        }
+
+        /* Mobile Styles */
+        @media (max-width: 768px) {
+            body {
+                font-size: 1rem;
+            }
+            .title-main {
+                font-size: 1.75rem;
+            }
+            .title-main .divider {
+                font-size: 2rem;
+                margin-left: 1rem;
+                margin-right: 0.5rem;
+            }
+            .film-entry {
+                padding: 1rem;
+            }
+            .film-entry .header .title {
+                font-size: 1.25rem;
+            }
+            .film-entry .header .details {
+                font-size: 1.25rem;
+            }
+            .carousel-frame {
+                height: auto; /* Auto height to adjust with image size */
+            }
+            .description-container {
+                font-size: 1rem;
+                margin: 1rem auto;
+            }
+            .divider-line {
+                width: 90%;
+            }
+            .symbol {
+                font-size: 1.25rem;
+            }
         }
     </style>    
 </head>
@@ -237,7 +270,7 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
 </body>
 </html>
