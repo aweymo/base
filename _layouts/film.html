@@ -6,38 +6,33 @@
     <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
     <style>
+        /* Your CSS styles here */
         body {
             font-family: 'EB Garamond', serif;
             color: #212121;
             font-size: 1.15rem;
             line-height: 1.7;
-            background-color: #F0F8FF; /* Background color */
+            background-color: #F0F8FF;
         }
-        
         body a {
             color: #00448c;
         }
-        
         body a:hover {
             color: #000;
         }
-        
         h1, h2, h3, h4, h5, h6 {
             font-family: 'Playfair', serif;
             color: #000;
         }
-        
         h1, h2 {
             margin: 1.5rem 0;
             font-weight: 750;
             letter-spacing: -.02em;
         }
-        
         h3 {
             font-weight: 600;
             letter-spacing: -.02em;
         }
-        
         .film-entry {
             display: flex;
             flex-direction: column;
@@ -45,87 +40,76 @@
             max-width: 1000px;
             margin: 0 auto;
         }
-        
         .film-entry .header {
             margin-bottom: 2rem;
             font-family: 'Playfair', serif;
         }
-        
         .film-entry .header .title {
-            font-size: 1.5rem; /* Ensuring consistent size */
+            font-size: 1.5rem;
             font-weight: 750;
-            letter-spacing: -.02em; /* Adjust letter-spacing if needed */
+            letter-spacing: -.02em;
         }
-        
         .film-entry .header .details {
-            font-size: 1.5rem; /* Ensuring consistent size */
+            font-size: 1.5rem;
             font-weight: 750;
         }
-        
         .film-entry .body {
             display: flex;
             flex-direction: column;
-            margin-top: 1.5rem;
         }
-        
         .film-entry .carousel-container {
             width: 100%;
-            margin-bottom: 1.5rem;
+            margin-bottom: 1rem;
         }
-        
         .carousel-item img {
             width: 100%;
             height: auto;
         }
-        
         .carousel-frame {
-            height: 468px; /* Increased height by 25% */
+            height: 468px;
             overflow: hidden;
         }
-        
         .carousel-inner {
             height: 100%;
         }
-        
         .carousel-control-prev, .carousel-control-next {
             color: white;
         }
-    
         @media (max-width: 768px) {
             .film-entry .body {
                 flex-direction: column;
             }
         }
-    
         .symbol-container {
             display: flex;
-            justify-content: center; /* Center the symbol horizontally */
-            align-items: center; /* Center the symbol vertically */
-            width: 100%; /* Ensure full width */
+            justify-content: center;
+            align-items: center;
+            width: 100%;
         }
-    
         .symbol {
             font-size: 1.5rem;
-            margin: 0; /* Remove default margin */
-            color: #00448c; /* Set the color of the symbols */
+            margin: 0;
+            color: #00448c;
         }
-    
         .title-container {
             text-align: left;
             padding: 1.5rem;
         }
-        
         .title-main {
             font-size: 2.5rem;
             font-weight: bold;
             display: flex;
             align-items: center;
         }
-
         .title-main .divider {
-            margin-left: 3rem; /* Space between title and divider */
-            margin-right: 0.5rem; /* Space between divider and subtitle */
-            font-size: 4rem; /* Size of the divider */
+            margin-left: 3rem;
+            margin-right: 0.5rem;
+            font-size: 4rem;
+        }
+        .divider-line {
+            border-top: 1px solid #000;
+            width: 80%;
+            margin: 2rem auto;
         }
     </style>    
 </head>
@@ -153,7 +137,6 @@
                     <div class="film-entry" id="{{ film.title | slugify }}">
                         <!-- Header with Film Title and Details -->
                         <div class="header">
-                            <!-- Display the formatted date posted without "Posted on" -->
                             <p class="date-posted" style="font-style: italic;">{{ film.date_posted | date: "%B %d, %Y" }}</p>
                             <h2 class="title">
                                 {{ film.title }} ({{ film.date | date: "%Y" }}) 
@@ -186,9 +169,11 @@
                                     </div>
                                 {% endif %}
                             </div>
+                            <!-- Add the divider line between carousel and text -->
+                            <div class="divider-line"></div>
                             <!-- Description -->
                             <div class="description">
-                                <p>{{ film.description }}</p>
+                                {{ film.content | markdownify }}
                             </div>
                         </div>
                         <!-- Separator -->
@@ -205,7 +190,7 @@
     
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+1Ktv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
     <script>
