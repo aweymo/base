@@ -25,18 +25,18 @@
             color: #000;
         }
         
-        .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+        h1, h2, h3, h4, h5, h6 {
             font-family: 'Playfair', serif;
             color: #000;
         }
         
-        .h1, .h2, h1, h2 {
+        h1, h2 {
             margin: 1.5rem 0;
             font-weight: 750;
             letter-spacing: -.02em;
         }
         
-        .h3, h3 {
+        h3 {
             font-weight: 600;
             letter-spacing: -.02em;
         }
@@ -55,19 +55,20 @@
         }
         
         .film-entry .header .title {
-            font-size: 1.5rem;
+            font-size: 1.5rem; /* Ensuring consistent size */
             font-weight: 750;
+            letter-spacing: -.02em; /* Adjust letter-spacing if needed */
         }
         
         .film-entry .header .details {
-            font-family: 'Playfair', serif;
-            font-size: 1.5rem;
+            font-size: 1.5rem; /* Ensuring consistent size */
             font-weight: 750;
         }
         
         .film-entry .body {
             display: flex;
             flex-direction: column;
+            margin-top: 1.5rem;
         }
         
         .film-entry .carousel-container {
@@ -92,32 +93,70 @@
         .carousel-control-prev, .carousel-control-next {
             color: white;
         }
-
+    
         @media (max-width: 768px) {
             .film-entry .body {
                 flex-direction: column;
             }
         }
-
+    
         .symbol-container {
             display: flex;
             justify-content: center; /* Center the symbol horizontally */
             align-items: center; /* Center the symbol vertically */
             width: 100%; /* Ensure full width */
         }
-
+    
         .symbol {
             font-size: 1.5rem;
             margin: 0; /* Remove default margin */
             color: #00448c; /* Set the color of the symbols */
         }
-    </style>
+    
+        .title-container {
+            text-align: left;
+            padding: 1.5rem;
+        }
+        
+        .title-main {
+            font-size: 3rem;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+        }
+
+        .title-main .divider {
+            margin-left: 2rem; /* Space between title and divider */
+            margin-right: 0.5rem; /* Space between divider and subtitle */
+            font-size: 4rem; /* Size of the divider */
+        }
+        
+        .title-sub {
+            font-size: 3rem;
+            font-weight: bold;
+            margin-top: 0.5rem; /* Space below the title */
+            padding-left: calc(8.5rem + 8.5rem); /* Indent to align with |||| */
+            display: inline-block;
+        }
+    </style>    
 </head>
 <body>
 
     {% include header.html %}
 
     <main>
+        <!-- Page title above the content -->
+        <header class="mt-5">
+            <div class="container title-container">
+                <h1 class="title-main">
+                    Four Frame <span class="divider">||||</span>
+                </h1>
+                <h1 class="title-sub">
+                    Film
+                </h1>
+            </div>
+        </header>
+
         <!-- Film Navigation Menu -->
         {% include film-nav-menu.html %}
 
@@ -129,7 +168,7 @@
                         <!-- Header with Film Title and Details -->
                         <div class="header">
                             <h2 class="title">
-                                {{ film.title }} ({{ film.date | date: "%Y" }}), 
+                                {{ film.title }} ({{ film.date | date: "%Y" }}) 
                                 <span class="details">Dir. {{ film.director }}, DP. {{ film.cinematographer }}</span>
                             </h2>
                         </div>
@@ -175,24 +214,23 @@
     </main>
 
     {% include footer.html %}
-
+    
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <!-- Lightbox2 JS -->
+    <!-- Add Lightbox2 JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
     <script>
         // Disable automatic sliding
         $('.carousel').carousel({
-            interval: false
+          interval: false
         });
 
-        // Initialize Lightbox
+        // Initialize Lightbox2
         lightbox.option({
-            'resizeDuration': 200,
-            'wrapAround': true,
-            'disableScrolling': true
+          'resizeDuration': 200,
+          'wrapAround': true
         });
     </script>
 </body>
