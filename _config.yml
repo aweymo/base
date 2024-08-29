@@ -56,3 +56,8 @@ compress_html:
 plugins: 
   - jekyll-sitemap
   - jekyll-seo-tag
+
+collections:
+  films:
+    output: true
+    
