@@ -223,21 +223,21 @@
                             <!-- Carousel -->
                             <div class="carousel-container">
                                 {% if film.images %}
-                                    <div id="carousel{{ forloop.index }}" class="carousel slide carousel-frame">
+                                    <div id="carousel-{{ forloop.index }}" class="carousel slide carousel-frame" data-interval="false">
                                         <div class="carousel-inner">
                                             {% for image in film.images %}
                                                 <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                                                    <a href="{{ '/images/' | append: image.url | relative_url }}" data-lightbox="carousel-{{ forloop.index }}" data-title="{{ film.title }}">
+                                                    <a href="{{ '/images/' | append: image.url | relative_url }}" data-lightbox="film-{{ film.title | slugify }}" data-title="{{ film.title }}">
                                                         <img src="{{ '/images/' | append: image.url | relative_url }}" alt="{{ film.title }}">
                                                     </a>
                                                 </div>
                                             {% endfor %}
                                         </div>
-                                        <a class="carousel-control-prev" href="#carousel{{ forloop.index }}" role="button" data-slide="prev">
+                                        <a class="carousel-control-prev" href="#carousel-{{ forloop.index }}" role="button" data-slide="prev">
                                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                             <span class="sr-only">Previous</span>
                                         </a>
-                                        <a class="carousel-control-next" href="#carousel{{ forloop.index }}" role="button" data-slide="next">
+                                        <a class="carousel-control-next" href="#carousel-{{ forloop.index }}" role="button" data-slide="next">
                                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                             <span class="sr-only">Next</span>
                                         </a>
@@ -267,10 +267,20 @@
     <div class="page-up-arrow">
         <a href="#top">&#8679;</a>
     </div>
-
+    
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-
+    <script>
+        $(document).ready(function(){
+            // Initialize Lightbox
+            lightbox.option({
+                'resizeDuration': 200,
+                'wrapAround': true,
+                'albumLabel': "Image %1 of %2"
+            });
+        });
+    </script>
 </body>
 </html>
