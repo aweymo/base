@@ -133,7 +133,6 @@
             font-size: 24px;
             border-radius: 20px;
         }
-
         .page-up-arrow a {
             color: inherit;
             text-decoration: none;
@@ -147,6 +146,31 @@
         }
         .social-links a:hover {
             color: #000;
+        }
+        /* Updated tag menu styles */
+        .film-tag-menu {
+            margin-top: 2rem;
+            font-size: 1.15rem;
+            text-align: center;
+            color: #333;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 1rem;
+        }
+        .film-tag-menu ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .film-tag-menu ul li {
+            display: inline;
+            margin-right: 1rem;
+        }
+        .film-tag-menu ul li a {
+            color: #00448c;
+            text-decoration: none;
+        }
+        .film-tag-menu ul li a:hover {
+            text-decoration: underline;
         }
     </style>    
 </head>
@@ -172,6 +196,9 @@
 
         <!-- Film Navigation Menu -->
         {% include film-nav-menu.html %}
+
+        <!-- Film Tag Menu -->
+        {% include film-tag-menu.html %}
 
         <!-- Film Entries -->
         <section class="film-entries mt-5">
@@ -233,19 +260,12 @@
     
     <!-- Page Up Arrow -->
     <div class="page-up-arrow">
-        <a href="#top">&#8593;</a>
+        <a href="#top">&#8679;</a>
     </div>
-    
-    <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzm7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+1Ktv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyRkU7m5z5Pp4oCZ" crossorigin="anonymous"></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-    <script>
-        lightbox.option({
-            'resizeDuration': 200,
-            'wrapAround': true
-        })
-    </script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </body>
 </html>
