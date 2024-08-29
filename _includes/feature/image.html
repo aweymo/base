@@ -1,50 +1,79 @@
-{% comment %}
+<!doctype html>
+<html lang="en">
+<head>
+    {% include head.html %}
+    <!-- Add Lightbox2 CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+</head>
+<body>
 
-    Image embed from an item's objectid or external link.
-    This include adds a figure to the page styled using bootstrap, https://getbootstrap.com/docs/5.1/content/figures/
+    {% include header.html %}
 
-    It requires an "objectid" with the include, which is used to find the object title and image (for collection items). If multiple collection objectids are included (separated by ; ), they will be added to a "col-md" in a row which will automatically divided equally. 
-    Alternatively, a URL to an external image can be used in "objectid".
+    <main>
+        <!-- Alphabetical Menu -->
+        <section class="alphabetical-menu mt-5">
+            <div class="container">
+                <ul class="list-inline">
+                    {% assign alphabets = 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z' | split: ',' %}
+                    {% for letter in alphabets %}
+                        <li class="list-inline-item">
+                            <a href="#{{ letter }}">{{ letter }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </section>
 
-    E.G. --> {% include feature/image.html objectid="demo_001" %}
+        <!-- Film Entries -->
+        <section class="film-entries mt-5">
+            <div class="container">
+                <div class="row">
+                    {% for film in site.films %}
+                        <div class="col-md-6 col-lg-4 mb-4" id="{{ film.title | first | upcase }}">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">{{ film.title }} ({{ film.date }})</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Director: {{ film.director }} | Cinematographer: {{ film.cinematographer }}</h6>
 
-    Options: 
-    - "objectid" = several options below (required)
-        1. one or more objectids from this collection, separated by semicolon, e.g. "demo_001" or "demo_001;demo_005"
-        2. a full URL to an external image file, e.g. "https://www.lib.uidaho.edu/digital/images/fluffyclouds.jpg"
-        3. a relative link to an image file stored in this repository (that is not included in the collection), i.e. "/assets/img/evan.jpg"  
-        IMPORTANT NOTE: Options 2 and 3 require you to add an "alt" option (or "alt" options for multiple images) in order to allow for the accessibility enabled by the "alt" tag
-    - "alt" = alternative text describing the image. This is a required accessibility feature IF you are using an external URL or a relative link (options 2 and 3 above)--it will be automatically filled if providing an objectid. For multiple alts, split using a semi-colon. If you do not fill this in but fill in the "caption" option, the "caption" will be included as the images alt value. (optional)
-    - "caption" = for option 1 above, the figure include automatically adds the title of the item from your metadata. The caption option allows you to manually add a different caption for that option, or give the value false ('caption=false' - no quotes around false) for none. For options 2 and 3, captions will only be added if the caption variable is set. For multiple images of any option, you can also use multiple captions, by splitting them with a semi-colons (optional)
-    - "link" = for option 1 above, the figure include automatically links to the item from your metadata. The link option allows you to manually add a different link for that image. For options 2 and 3, link will only be added if the link variable is set; otherwise, the link will be set to the external or relative image file. For multiple images of any option, you can also use multiple links, by splitting them with a semi-colons (optional)
-    - "width" = will use responsive sizing to set the % size on desktop (will be 100% on mobile), choose from "25", "50", "75", or "100" (optional)
-    
-{%- endcomment -%}
-{%- assign figures = include.objectid | split: ";" %}
-{%- assign figcount = figures | size -%}
-{%- assign captions = include.caption | split: ";" %}
-{%- assign alts = include.alt | split: ";" -%}
-{%- assign links = include.link | split: ";" -%}
-<div class="row">
-    {% for i in figures %}
-    {% if i contains "/" %}
-        {%- capture image_src -%}{{ i | relative_url }}{%- endcapture -%}
-        {%- capture image_caption -%}{{ captions[forloop.index0] }}{%- endcapture -%}
-        {%- capture image_alt -%}{{ alts[forloop.index0] }}{%- endcapture -%}
-        {%- capture image_link -%}{{ links[forloop.index0] | default: image_src }}{%- endcapture -%}
-    {% else %}
-        {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
-        {%- capture image_link -%}{{ '/items/' | relative_url }}{% if figure.parentid %}{{ figure.parentid }}.html#{{ figure.objectid }}{% else %}{{ figure.objectid }}.html{% endif %}{% endcapture %}
-        {%- capture image_caption -%}{{ captions[forloop.index0] | default: figure.title }}{%- endcapture -%}
-        {%- capture image_alt -%}{{ alts[forloop.index0] | default: figure.image_alt_text | default: figure.description | default: figure.title }}{%- endcapture -%}
-        {%- capture image_src -%}{{ figure.image_small | default: figure.object_location | relative_url }}{% endcapture %}
-    {% endif %}
-    <div class="col-md {% if figcount == 1 %}text-center{% elsif forloop.first %}text-md-end{% elsif forloop.last %}text-md-start{% else %}text-center{% endif %}">
-        <figure class="figure mx-3{% if include.width %} feature-w-{{ include.width }}{% endif %}">
-            <a href="{{ image_link | default: image_src }}">
-                <img class="figure-img img-fluid rounded lazyload" alt="{{ image_alt | default: image_caption | escape }}"  title="click to see item" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ image_src }}" >
-            </a>
-            {% unless include.caption == false %}<figcaption class="figure-caption text-center">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</figcaption>{% endunless %}
-        </figure>
-    </div>{% endfor %}
-</div>
+                                    <!-- Image Carousel -->
+                                    <div id="carousel{{ forloop.index }}" class="carousel slide" data-ride="carousel">
+                                        <div class="carousel-inner">
+                                            {% for image in film.images %}
+                                                <div class="carousel-item {% if forloop.first %}active{% endif %}">
+                                                    <a href="{{ '/images/' | append: image.url | replace: '.jpg', '' | replace: '.jpeg', '' | replace: '.png', '' | replace: '.tiff', '' }}" data-lightbox="image-{{ forloop.index }}" data-title="{{ film.title }}">
+                                                        <img src="{{ '/images/' | append: image.url | replace: '.jpg', '' | replace: '.jpeg', '' | replace: '.png', '' | replace: '.tiff', '' }}" class="d-block w-100" alt="{{ film.title }}">
+                                                    </a>
+                                                </div>
+                                            {% endfor %}
+                                        </div>
+                                        <a class="carousel-control-prev" href="#carousel{{ forloop.index }}" role="button" data-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Previous</span>
+                                        </a>
+                                        <a class="carousel-control-next" href="#carousel{{ forloop.index }}" role="button" data-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Next</span>
+                                        </a>
+                                    </div>
+
+                                    <!-- Body Text -->
+                                    <p class="card-text mt-3">{{ film.description }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </section>
+    </main>
+
+    {% include footer.html %}
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <!-- Lightbox2 JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>

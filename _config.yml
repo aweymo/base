@@ -29,6 +29,7 @@ navigation: # Navigation links
   - {name: 'Art and Design', link: '/art'}
   - {name: 'Audio Docs', link: '/audio'}
   - {name: 'Field Recording', link: '/field'}
+  - {name: 'Four Frames', link: '/film'}
   - {name: 'Music', link: '/music'}
   - {name: 'Contact', link: '/contact'}
   
@@ -60,4 +61,3 @@ plugins:
 collections:
   films:
     output: true
-    

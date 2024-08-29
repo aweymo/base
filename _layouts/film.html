@@ -1,7 +1,3 @@
----
-layout: compress
----
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -44,8 +40,8 @@ layout: compress
                                         <div class="carousel-inner">
                                             {% for image in film.images %}
                                                 <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                                                    <a href="{{ '/images/' | append: image.url }}" data-lightbox="image-{{ forloop.index }}" data-title="{{ film.title }}">
-                                                        <img src="{{ '/images/' | append: image.url }}" class="d-block w-100" alt="{{ film.title }}">
+                                                    <a href="{{ image.url | prepend: '/images/' | relative_url }}" data-lightbox="image-{{ forloop.index }}" data-title="{{ film.title }}">
+                                                        <img src="{{ image.url | prepend: '/images/' | relative_url }}" class="d-block w-100" alt="{{ film.title }}">
                                                     </a>
                                                 </div>
                                             {% endfor %}
