@@ -190,7 +190,7 @@
                             <!-- Carousel -->
                             <div class="carousel-container">
                                 {% if film.images %}
-                                    <div id="carousel{{ forloop.index }}" class="carousel slide carousel-frame" data-ride="carousel">
+                                    <div id="carousel{{ forloop.index }}" class="carousel slide carousel-frame">
                                         <div class="carousel-inner">
                                             {% for image in film.images %}
                                                 <div class="carousel-item {% if forloop.first %}active{% endif %}">
