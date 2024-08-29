@@ -1,6 +1,6 @@
 ---
 layout: film
-title: Four Frame |||| Film
+title: Four Frame ||||
 permalink: /film/
 ---
 

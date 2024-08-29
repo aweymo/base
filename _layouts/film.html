@@ -2,11 +2,8 @@
 <html lang="en">
 <head>
     {% include head.html %}
-    <!-- Add Lightbox2 CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-    <!-- Include main.css for consistent styling -->
     <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
-    <!-- Include Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
@@ -119,24 +116,16 @@
         }
         
         .title-main {
-            font-size: 3rem;
+            font-size: 2.5rem;
             font-weight: bold;
             display: flex;
             align-items: center;
         }
 
         .title-main .divider {
-            margin-left: 2rem; /* Space between title and divider */
+            margin-left: 3rem; /* Space between title and divider */
             margin-right: 0.5rem; /* Space between divider and subtitle */
             font-size: 4rem; /* Size of the divider */
-        }
-        
-        .title-sub {
-            font-size: 3rem;
-            font-weight: bold;
-            margin-top: 0.5rem; /* Space below the title */
-            padding-left: calc(8.5rem + 8.5rem); /* Indent to align with |||| */
-            display: inline-block;
         }
     </style>    
 </head>
@@ -149,10 +138,7 @@
         <header class="mt-5">
             <div class="container title-container">
                 <h1 class="title-main">
-                    Four Frame <span class="divider">||||</span>
-                </h1>
-                <h1 class="title-sub">
-                    Film
+                    Four Frames <span class="divider">||||</span>
                 </h1>
             </div>
         </header>
@@ -164,9 +150,11 @@
         <section class="film-entries mt-5">
             <div class="container">
                 {% for film in site.films %}
-                    <div class="film-entry" id="{{ film.title | first | upcase }}">
+                    <div class="film-entry" id="{{ film.title | slugify }}">
                         <!-- Header with Film Title and Details -->
                         <div class="header">
+                            <!-- Display the formatted date posted without "Posted on" -->
+                            <p class="date-posted" style="font-style: italic;">{{ film.date_posted | date: "%B %d, %Y" }}</p>
                             <h2 class="title">
                                 {{ film.title }} ({{ film.date | date: "%Y" }}) 
                                 <span class="details">Dir. {{ film.director }}, DP. {{ film.cinematographer }}</span>
@@ -219,15 +207,12 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <!-- Add Lightbox2 JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
     <script>
-        // Disable automatic sliding
         $('.carousel').carousel({
           interval: false
         });
 
-        // Initialize Lightbox2
         lightbox.option({
           'resizeDuration': 200,
           'wrapAround': true
