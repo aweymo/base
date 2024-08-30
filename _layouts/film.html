@@ -208,7 +208,8 @@
         <!-- Film Entries -->
         <section class="film-entries mt-5">
             <div class="container">
-                {% for film in site.films %}
+                {% assign films = site.films | sort: "date_posted" | reverse %}
+                {% for film in films %}
                     <div class="film-entry" id="{{ film.title | slugify }}">
                         <!-- Header with Film Title and Details -->
                         <div class="header">
@@ -270,17 +271,7 @@
     
     <!-- Scripts -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-    <script>
-        $(document).ready(function(){
-            // Initialize Lightbox
-            lightbox.option({
-                'resizeDuration': 200,
-                'wrapAround': true,
-                'albumLabel': "Image %1 of %2"
-            });
-        });
-    </script>
 </body>
 </html>
