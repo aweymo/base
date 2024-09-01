@@ -6,6 +6,4 @@ summary: Want to say hello? Send me a note!
 permalink: /contact/
 ---
 
-**Email:** andrewrainsweymouth@gmail.com 
-
 {% include form.html %}
