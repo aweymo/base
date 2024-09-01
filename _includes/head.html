@@ -8,7 +8,7 @@
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="{{ page.title | escape }}">
     <meta property="og:description" content="{% if page.summary %}{{ page.summary | escape }}{% else %}{{ site.description | escape }}{% endif %}">
-    <meta property="og:image" content="{% if page.image %}{{ page.image | relative_url }}{% else %}{{ '/images/dip_pen_illo.png' | relative_url }}{% endif %}">
+    <meta property="og:image" content="{% if page.image %}{{ page.image | relative_url }}{% else %}{{ '/images/social_image.jpeg' | relative_url }}{% endif %}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:type" content="website">
 
@@ -17,7 +17,7 @@
     <meta name="twitter:site" content="@{{ site.twitter_username }}">
     <meta name="twitter:title" content="{{ page.title | escape }}">
     <meta name="twitter:description" content="{% if page.summary %}{{ page.summary | escape }}{% else %}{{ site.description | escape }}{% endif %}">
-    <meta name="twitter:image" content="{% if page.image %}{{ page.image | relative_url }}{% else %}{{ '/images/dip_pen_illo.png' | relative_url }}{% endif %}">
+    <meta name="twitter:image" content="{% if page.image %}{{ page.image | relative_url }}{% else %}{{ '/images/social_image.jpeg' | relative_url }}{% endif %}">
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="{{ '/images/favicon.png' | relative_url }}">
