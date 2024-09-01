@@ -31,7 +31,7 @@ navigation: # Navigation links
   - {name: 'Field Recording', link: '/field'}
   - {name: 'Four Frames', link: '/film'}
   - {name: 'Music', link: '/music'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Subscribe and Contact', link: '/contact'}
   
 email: andrewrainsweymouth@gmail.com
 github_username: aweymo

@@ -210,6 +210,40 @@ a.big-red-button:hover {
   .social-links a:hover {
     color: #00448c; /* Adjust the hover color as needed */
   }
+
+  .subscription-section {
+    margin-top: 40px; /* Adds space above the subscription section */
+    margin-bottom: 60px; /* Increase space below the section */
+    padding: 20px;
+    background-color: #F0F8FF; /* Background color for the section */
+    border: 1px solid #CCC; /* Border to define the section */
+    border-radius: 8px; /* Rounded corners for the section */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a clean look */
+    max-width: 600px; /* Max width to keep it from getting too wide */
+    margin-left: 0; /* Align to the left */
+    margin-right: auto; /* Center-align to the right */
+    text-align: left; /* Align text to the left */
+}
+
+.subscription-section h2 {
+    font-family: 'Playfair', serif;
+    font-size: 1.75rem; /* Adjust as needed */
+    color: #000; /* Match color with your theme */
+    margin-bottom: 10px;
+}
+
+.subscription-section p {
+    font-size: 1.15rem;
+    color: #555; /* Slightly darker color for the text */
+    margin-bottom: 20px;
+}
+
+.subscription-section iframe {
+    width: 100%; /* Make iframe responsive */
+    height: auto; /* Adjust height proportionally */
+    max-width: 300px; /* Max width for the iframe */
+    border: none; /* Remove default border */
+}
   
   .caption {
   text-align: center;
