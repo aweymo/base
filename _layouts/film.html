@@ -180,7 +180,20 @@
                 font-size: 1.25rem;
             }
         }
-    </style>    
+    </style> 
+    <!-- Open Graph Meta Tags for Facebook -->
+    <meta property="og:title" content="{{ page.title | escape }}">
+    <meta property="og:description" content="{{ page.description | escape }}">
+    {% if page.images.size > 0 %}
+        <meta property="og:image" content="{{ '/images/' | append: page.images[0].url | relative_url }}">
+    {% endif %}
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title | escape }}">
+    <meta name="twitter:description" content="{{ page.description | escape }}">
+    {% if page.images.size > 0 %}
+        <meta name="twitter:image" content="{{ '/images/' | append: page.images[0].url | relative_url }}">
+    {% endif %}
 </head>
 <body>
 
@@ -265,15 +278,49 @@
     </main>
 
     {% include footer.html %}
-    
+
     <!-- Page Up Arrow -->
     <div class="page-up-arrow">
         <a href="#top">&#9650;</a>
-      </div>
-    
-    <!-- Scripts -->
+    </div>
+
+    <!-- JavaScript -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+    <script>
+        document.getElementById('subscribe-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const email = event.target.email.value;
+
+            // Submit the email to Google Apps Script
+            fetch('https://script.google.com/macros/s/AKfycbxI0CFmq_0dHR2lKkq09iB0FSH3l6SvavhU4JzENfE7On1yPtIZe0pqCN9VDLdonMLH/exec', {
+                method: 'POST',
+                mode: 'cors',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({email: email})
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok ' + response.statusText);
+                }
+                return response.json();
+            })
+            .then(data => {
+                if (data.result === 'success') {
+                    alert('Subscription successful!');
+                } else {
+                    alert('Subscription failed. Please try again.');
+                }
+            })
+            .catch(error => {
+                console.error('There was a problem with the fetch operation:', error);
+                alert('An error occurred: ' + error.message);
+            });
+        });
+    </script>
 </body>
 </html>
