@@ -45,6 +45,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/geolocation" target="_blank">Digital Geolocation Tools for Archival Research</a>
+        <span class="description">Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. The presentation covers text analysis, landmark identification and creating aerial time lapse videos. Created for the U of I Information Landscape series, <i>Fall 2024</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/distant_listening" target="_blank">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
         <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Currently under review at Code4Lib, <i>submitted Summer 2024</i>.</span>
     </li>
