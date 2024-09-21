@@ -44,6 +44,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 ## Workshops and Presentations
 
 <ul class="triangle-list">
+        <li>
+        <a href="https://aweymo-ui.github.io/five_ways" target="_blank">Presenting Research in Five Ways to Increase Understanding and Uncover Connections</a>
+        <span class="description">Workshop for history undergraduates on framing research five different ways using various digital scholarship approaches. Created for Alyssa Kreikemeier's HIST 320 course 20th-century America: The Colossus, <i>Fall 2024</i>.</span>
+    </li>
     <li>
         <a href="https://aweymo-ui.github.io/geolocation" target="_blank">Digital Geolocation Tools for Archival Research</a>
         <span class="description">Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. The presentation covers text analysis, landmark identification and creating aerial time lapse videos. Created for the U of I Information Landscape series, <i>Fall 2024</i>.</span>
