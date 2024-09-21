@@ -1,5 +1,5 @@
 ---
-layout: film
+layout: redirect
 title: Four Frames
 permalink: /film/
 ---
