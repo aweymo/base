@@ -29,7 +29,7 @@ navigation: # Navigation links
   - {name: 'Art and Design', link: '/art'}
   - {name: 'Audio Docs', link: '/audio'}
   - {name: 'Field Recording', link: '/field'}
-  - {name: 'Four Frames', link: '/film'}
+  - {name: 'Four Frames', link: 'https://aweymo.github.io/four-frames'}
   - {name: 'Music', link: '/music'}
   - {name: 'Subscribe and Contact', link: '/contact'}
   
