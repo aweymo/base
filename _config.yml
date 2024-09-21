@@ -1,10 +1,10 @@
 #SITE CONFIGURATION
 
-title: Four Frames by Andrew Weymouth
-description: A collection of four-frame film analyses by Andrew Weymouth
+title: Andrew Weymouth
+description: Digital Initiatives Librarian, Writer
 repository: 
-baseurl: "/four-frames/"
-url: "https://aweymo.github.io/four-frames"
+baseurl: "/base/"
+url: "https://aweymo.github.io"
 
 google_tag_manager: 
 
@@ -23,15 +23,15 @@ social:
 #THEME SETTINGS
 
 navigation: # Navigation links
-  - {name: 'Home', link: 'https://aweymo.github.io/base'}
-  - {name: 'CV', link: 'https://aweymo.github.io/base/cv'}
-  - {name: 'Animation', link: 'https://aweymo.github.io/base/animation'}
-  - {name: 'Art and Design', link: 'https://aweymo.github.io/base/art'}
-  - {name: 'Audio Docs', link: 'https://aweymo.github.io/base/audio'}
-  - {name: 'Field Recording', link: 'https://aweymo.github.io/base/field'}
-  - {name: 'Four Frames', link: 'https://aweymo.github.io/four-frames'}
-  - {name: 'Music', link: 'https://aweymo.github.io//base/music'}
-  - {name: 'Subscribe and Contact', link: 'https://aweymo.github.io/base/contact'}
+  - {name: 'Home', link: '/'}
+  - {name: 'CV', link: '/cv'}
+  - {name: 'Animation', link: '/animation'}
+  - {name: 'Art and Design', link: '/art'}
+  - {name: 'Audio Docs', link: '/audio'}
+  - {name: 'Field Recording', link: '/field'}
+  - {name: 'Four Frames', link: '/film'}
+  - {name: 'Music', link: '/music'}
+  - {name: 'Subscribe and Contact', link: '/contact'}
   
 email: andrewrainsweymouth@gmail.com
 github_username: aweymo
