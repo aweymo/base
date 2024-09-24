@@ -6,6 +6,13 @@ featured-img:
 permalink: /art/
 ---
 
+**2024 U of I Digital Poster Template**
+
+<div class="media"><iframe title="vimeo-player" src="https://player.vimeo.com/video/1012555193" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+
+Template I designed to help promote new and older digital collections in my work as the Digital Initiatives Librarian. Images are separated into fore, middle and background and angled slightly using Adobe After Effects to create a slightly three dimensional, diorama like effect. I realized at some point that this is almost exactly halfway between my previous work in collage and more recent work archiving stereoscopic images.
+
 **Panorama Paper Art Project**
 
 <div class="media"><iframe title="vimeo-player" src="https://player.vimeo.com/video/438211978?h=415f71443a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
