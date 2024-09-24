@@ -44,6 +44,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 ## Workshops and Presentations
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://aweymo-ui.github.io/distant_tech_talk" target="_blank">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
+        <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Created for the 2024 U of I <i>Tech Talk</i> series, <i>Fall 2024</i>.</span>
+    </li>
         <li>
         <a href="https://aweymo-ui.github.io/five_ways" target="_blank">Presenting Research in Five Ways to Increase Understanding and Uncover Connections</a>
         <span class="description">Workshop for history undergraduates on framing research five different ways using various digital scholarship approaches. Created for Alyssa Kreikemeier's HIST 320 course, <i>Fall 2024</i>.</span>
@@ -51,10 +55,6 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
     <li>
         <a href="https://aweymo-ui.github.io/geolocation" target="_blank">Digital Geolocation Tools for Archival Research</a>
         <span class="description">Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. The presentation covers text analysis, landmark identification and creating aerial time lapse videos. Created for the U of I Information Landscape series, <i>Fall 2024</i>.</span>
-    </li>
-    <li>
-        <a href="https://aweymo-ui.github.io/distant_listening" target="_blank">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
-        <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Currently under review at Code4Lib, <i>submitted Summer 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/humanizing" target="_blank">Humanizing Nature Research History with Static Web Technology</a>
@@ -134,6 +134,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 ## Scholarly Publications
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://aweymo-ui.github.io/distant_listening" target="_blank">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
+        <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Currently under review at Code4Lib, <i>submitted Summer 2024</i>.</span>
+    </li>
     <li>
         <a href="https://litwinbooks.com/books/land-in-libraries" target="_blank">Civilizing, Separating and Organizing: The Geographic Influence on Nineteenth Century Western Libraries</a>
         <span class="description">Opening chapter to <i>Land in Libraries</i> Litwin Publishing. <i>Fall, 2023</i></span>
