@@ -45,6 +45,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/python_obsidian" target="_blank">Using Python Tools and Obsidian to Connect and Visualize Research</a>
+        <span class="description">Presentation on using custom Python tools to correct optical character recognition layers and extract annotations from digitized text and contextualizing these notes with Obsidian detailed tagging methods to enrich scholarly research, <i>Fall 2024</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/distant_seven" target="_blank">Distant Listening, Seven Minute Scholarship Presentation</a>
         <span class="description">Presentation on text mining oral history collections created for the Seven Minute Scholarship segment of the 2024 Loyola Marymount University Digital Commons conference, <i>Fall 2024</i>.</span>
     </li>
