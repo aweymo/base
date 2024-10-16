@@ -24,7 +24,7 @@ permalink: /
     <p class="symbol">&#10042;</p>
 </div>
 
-{% include feature/nav-menu.html sections="Workshops and Presentations;Exhibits;Student Fellowship Projects;Scholarly Publications;Other Writing;Press" %}
+{% include feature/nav-menu.html sections="Workshops and Presentations;Scholarly Publications;Other Writing;Exhibits;Digital Scholarship Tools;Student Fellowship Projects;Press" %}
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
@@ -86,59 +86,6 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
     </li>
 </ul>
 
-## Exhibits
-
-<ul class="triangle-list">
-    <li>
-        <a href="https://www.lib.uidaho.edu/digital/taylor-archive/" target="_blank">The Taylor Wilderness Research Station Archive</a>
-        <span class="description">Scientific archive of the University of Idaho's Taylor Wilderness Research Station, featuring oral histories, bibliometric visualizations and geographic / oral history hybrid animation. <i>Spring, 2024</i></span>
-    </li>
-    <li>
-        <a href="https://andrewweymouth.bandcamp.com/album/the-tideflats" target="_blank">The Tideflats</a>
-        <span class="description">Long form audio documentary about distance and civic infrastructure, examining the history and present use of the Tacoma Tideflats, created for the University of Washington Storytelling Fellows.  <i>Summer, 2022</i></span>
-    </li>
-        <li>
-        <a href="https://aweymo.github.io/losttacoma/" target="_blank">Lost Tacoma; Demolished and Unbuilt Architecture on the Puget Sound</a>
-        <span class="description">Project with the Tacoma Northwest Room archive to curate a series of blueprints for buildings in Pierce County that were designed and never built or built and have since been demolished. <i>Spring, 2022</i></span>
-    </li>
-        <li>
-        <a href="https://aweymo.github.io/mappinglanguage/" target="_blank">Mapping Language: Representation of Immigrant Communities in the Pacific Northwest, 1880-1930</a>
-        <span class="description">Capstone project for the University of Washington MLIS, created in sponsorship with the Tacoma Public Library Northwest Room on changing ethnic representation in mass media. <i>Spring, 2022</i></span>
-    </li>
-        <li>
-        <a href="https://gnmedatabase.github.io/site/" target="_blank">Middle East and North Africa Illustrated</a>
-        <span class="description">Site created for University of Washington Near Eastern Languages professor Selim Kuru to curate a database of graphic novels. <i>Spring, 2022</i></span>
-    </li>
-        <li>
-        <a href="https://aweymo.github.io/VRAF_RC.2/" target="_blank">Richards Studio Collection</a>
-        <span class="description">Site created for the 2021 Visual Resources Association Foundation grant to survey and highlight the Tacoma Public Library's 500,000+ item Richards Studio Collection. <i>Fall, 2021</i></span>
-    </li>
-    <li>
-        <a href="https://aweymo1.wixsite.com/eba-visualization" target="_blank">Emma B. Andrews Diary Project Network Visualization Tools</a>
-        <span class="description">Collaborative fieldwork with Sarah Ketchley at the University of Washington and the University of Toronto to create a network visualization of a multi-volume text repository. <i>Summer, 2021</i>.</span>
-    </li>
-        <li>
-        <a href="https://collections.evergreen.edu/s/selfdetermination/page/Introduction" target="_blank">Mary Hillaire and the Lummi Nation: Self Determination</a>
-        <span class="description">Digital Exhibit and long form audio documentary on the life of Lummi higher education reformer Mary Hillaire. <i>Spring, 2019</i></span>
-    </li>
-</ul>
-
-## Student Fellowship Projects
-
-<ul class="triangle-list">
-    <li>
-        <a href="https://www.lib.uidaho.edu/digital/coltrane" target="_blank">Alice Coltrane, Jazz Spiritualism</a>
-        <span class="description">Guidance and Oral History as Data audio visualization for 2024 Berry Fellow Irene Koreski, on the life of Alice Coltrane Turiyasangitananda, an American jazz pianist, organist, harpist, singer and composer. <i>University of Idaho, Spring, 2024</i>.</span>
-    </li>
-</ul>
-
-<ul class="triangle-list">
-    <li>
-        <a href="https://github.com/thecdil/chestnutcollective" target="_blank">Chestnut Collective</a>
-        <span class="description">Exhibit design and network visualization for Nick Koenig's CDIL Graduate Student Fellowship. <i>University of Idaho, Winter, 2023</i>.</span>
-    </li>
-</ul>
-
 ## Scholarly Publications
 
 <ul class="triangle-list">
@@ -186,6 +133,106 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
         <li>
         <a href="https://mydigitalpublication.com/publication/?i=690860&p=11&ver=html5" target="_blank">Capturing the Oral History of a Historic African American Community in the Pacific Northwest</a>
         <span class="description">Reflection on a displaced African American community south of Seattle, oral history, and equity in historic preservation, published by the Society of American Archivist's <i> Archival Outlook.</i><i> Winter, 2021</i></span>
+    </li>
+</ul>
+
+## Exhibits
+
+<ul class="triangle-list">
+    <li>
+        <a href="https://www.lib.uidaho.edu/digital/taylor-archive/" target="_blank">The Taylor Wilderness Research Station Archive</a>
+        <span class="description">Scientific archive of the University of Idaho's Taylor Wilderness Research Station, featuring oral histories, bibliometric visualizations and geographic / oral history hybrid animation. <i>Spring, 2024</i></span>
+    </li>
+    <li>
+        <a href="https://andrewweymouth.bandcamp.com/album/the-tideflats" target="_blank">The Tideflats</a>
+        <span class="description">Long form audio documentary about distance and civic infrastructure, examining the history and present use of the Tacoma Tideflats, created for the University of Washington Storytelling Fellows.  <i>Summer, 2022</i></span>
+    </li>
+        <li>
+        <a href="https://aweymo.github.io/losttacoma/" target="_blank">Lost Tacoma; Demolished and Unbuilt Architecture on the Puget Sound</a>
+        <span class="description">Project with the Tacoma Northwest Room archive to curate a series of blueprints for buildings in Pierce County that were designed and never built or built and have since been demolished. <i>Spring, 2022</i></span>
+    </li>
+        <li>
+        <a href="https://aweymo.github.io/mappinglanguage/" target="_blank">Mapping Language: Representation of Immigrant Communities in the Pacific Northwest, 1880-1930</a>
+        <span class="description">Capstone project for the University of Washington MLIS, created in sponsorship with the Tacoma Public Library Northwest Room on changing ethnic representation in mass media. <i>Spring, 2022</i></span>
+    </li>
+        <li>
+        <a href="https://gnmedatabase.github.io/site/" target="_blank">Middle East and North Africa Illustrated</a>
+        <span class="description">Site created for University of Washington Near Eastern Languages professor Selim Kuru to curate a database of graphic novels. <i>Spring, 2022</i></span>
+    </li>
+        <li>
+        <a href="https://aweymo.github.io/VRAF_RC.2/" target="_blank">Richards Studio Collection</a>
+        <span class="description">Site created for the 2021 Visual Resources Association Foundation grant to survey and highlight the Tacoma Public Library's 500,000+ item Richards Studio Collection. <i>Fall, 2021</i></span>
+    </li>
+    <li>
+        <a href="https://aweymo1.wixsite.com/eba-visualization" target="_blank">Emma B. Andrews Diary Project Network Visualization Tools</a>
+        <span class="description">Collaborative fieldwork with Sarah Ketchley at the University of Washington and the University of Toronto to create a network visualization of a multi-volume text repository. <i>Summer, 2021</i>.</span>
+    </li>
+        <li>
+        <a href="https://collections.evergreen.edu/s/selfdetermination/page/Introduction" target="_blank">Mary Hillaire and the Lummi Nation: Self Determination</a>
+        <span class="description">Digital Exhibit and long form audio documentary on the life of Lummi higher education reformer Mary Hillaire. <i>Spring, 2019</i></span>
+    </li>
+</ul>
+
+## Digital Scholarship Tools
+
+{% include feature/blockquote.html quote="All tools except Read_Image developed independently" %}
+
+<ul class="triangle-list">
+    <li>
+        <a href="https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e" target="_blank">Read_Image OCR Python Tool</a>
+        <span class="description">Iteration of an OCR tool developed by Luke Sheneman, Director of the IBEST Northwest Knowledge Network (NKN) at University of Idaho. This tool was developed to help extract text from images files in an effort to enrich alt text metadata and make digital collections more accessible. Private repository but link is pointed to introductory presentation for Digital Collections group. <i>Fall, 2024</i>.</span>
+    </li>
+</ul>
+<ul class="triangle-list">
+    <li>
+        <a href="https://github.com/Scholarly-Projects/trello_export" target="_blank">Trello_Export Tool</a>
+        <span class="description">Tool for exporting archived Trello cards, categorized by label to help track activity for liaison reports and annual reviews. <i>Fall, 2024</i>.</span>
+    </li>
+</ul>
+<ul class="triangle-list">
+    <li>
+        <a href="https://github.com/Scholarly-Projects/book_splitter" target="_blank">Book_Splitter Tool</a>
+        <span class="description">Python tool for quickly splitting two page scans to increase accuracy of OCR. <i>Fall, 2024</i>.</span>
+    </li>
+</ul>
+<ul class="triangle-list">
+    <li>
+        <a href="https://github.com/Scholarly-Projects/annotation_extraction" target="_blank">Annotation_Extraction Tool</a>
+        <span class="description">Created to help code PDF files and extract the text of those annotations to export categorically and chronologically to markdown files so they can be visualized and make connections within Obsidian. To use, add your annotated PDF to the A folder, run the script and categorical and chronological files will generate in the B folder. Adjust color values and names of categories by adjusting data in lines 63-83. Future improvements include adding annotated text, shapes or underlined text. <i>Summer, 2024</i>.</span>
+    </li>
+</ul>
+<ul class="triangle-list">
+    <li>
+        <a href="https://github.com/Scholarly-Projects/web_scraper" target="_blank">Web_Scraper Tool</a>
+        <span class="description">Created to help extract contact information across multiple areas of the University of Idaho CALS directory for liaison work. <i>Summer, 2024</i>.</span>
+    </li>
+</ul>
+<ul class="triangle-list">
+    <li>
+        <a href="https://github.com/Scholarly-Projects/image_extraction" target="_blank">Image_Extraction Tool</a>
+        <span class="description">Created to extract and name individual images from overhead scans of archival scrapbooks containing multiple photos. <i>Summer, 2024</i>.</span>
+    </li>
+</ul>
+<ul class="triangle-list">
+    <li>
+        <a href="https://github.com/Scholarly-Projects/transcript_mining_base" target="_blank">Transcript_Mining Tool</a>
+        <span class="description">Tool developed for the University of Idaho to increase efficiency and accuracy of the Digital Scholarship and Open Strategies department Oral History as Data tagging process. This template can be iterated on by dropping new sets of transcriptions into the CSV folder and running Python within the hello.py file. Future iterations of this template will modularize the text mining categories into General, Geographic and Custom categories. <i>Winter, 2023</i>.</span>
+    </li>
+</ul>
+
+## Student Fellowship Projects
+
+<ul class="triangle-list">
+    <li>
+        <a href="https://www.lib.uidaho.edu/digital/coltrane" target="_blank">Alice Coltrane, Jazz Spiritualism</a>
+        <span class="description">Guidance and Oral History as Data audio visualization for 2024 Berry Fellow Irene Koreski, on the life of Alice Coltrane Turiyasangitananda, an American jazz pianist, organist, harpist, singer and composer. <i>University of Idaho, Spring, 2024</i>.</span>
+    </li>
+</ul>
+
+<ul class="triangle-list">
+    <li>
+        <a href="https://github.com/thecdil/chestnutcollective" target="_blank">Chestnut Collective</a>
+        <span class="description">Exhibit design and network visualization for Nick Koenig's CDIL Graduate Student Fellowship. <i>University of Idaho, Winter, 2023</i>.</span>
     </li>
 </ul>
 
