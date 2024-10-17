@@ -174,13 +174,14 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 </ul>
 
 ## Digital Scholarship Tools
+_All tools except Read_Image developed independently_
 
-{% include feature/blockquote.html quote="All tools except Read_Image developed independently" %}
+<br>
 
 <ul class="triangle-list">
     <li>
-        <a href="https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e" target="_blank">Read_Image OCR Python Tool</a>
-        <span class="description">Iteration of an OCR tool developed by Luke Sheneman, Director of the IBEST Northwest Knowledge Network (NKN) at University of Idaho. This tool was developed to help extract text from images files in an effort to enrich alt text metadata and make digital collections more accessible. Private repository but link is pointed to introductory presentation for Digital Collections group. <i>Fall, 2024</i>.</span>
+        <a href="https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e" target="_blank">Read_Image Optical Character Recognition Tool</a>
+        <span class="description">Iteration of an OCR tool developed by Luke Sheneman, Director of the IBEST Northwest Knowledge Network (NKN) at University of Idaho. This extension was developed to help extract text from images files in an effort to enrich alt text metadata and make digital collections more accessible. Private repository but link is pointed to introductory presentation for Digital Collections group. <i>Fall, 2024</i>.</span>
     </li>
 </ul>
 <ul class="triangle-list">
