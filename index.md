@@ -45,6 +45,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/aerial_timelapse/" target="_blank">Aerial Time Lapse Tools Survey</a>
+        <span class="description">Survey of five platforms that researchers can use to generate aerial time lapse visualizations, highlighting their unique strengths, weaknesses and the technical skills required for each. Created for the 25th annual University of Idaho GIS Day Short Talk series, <i>Fall 2024</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/python_obsidian" target="_blank">Using Python Tools and Obsidian to Connect and Visualize Research</a>
         <span class="description">Presentation on using custom Python tools to correct optical character recognition layers and extract annotations from digitized text and contextualizing these notes with Obsidian detailed tagging methods to enrich scholarly research, <i>Fall 2024</i>.</span>
     </li>
