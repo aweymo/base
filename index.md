@@ -45,6 +45,14 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/or_standardize/" target="_blank">Using OpenRefine to Standardize Metadata Language</a>
+        <span class="description">Practical guide to using OpenRefine for metadata language standardization intended for faculty, staff, patrons and students at U of I. The focus of this workshop is to provide only the steps you need to perform to work through language standardization and not the many other OpenRefine capabilities. <i>Fall 2024</i>.</span>
+    </li>
+        <li>
+        <a href="https://aweymo-ui.github.io/cals_intro/" target="_blank">College of Agricultural & Life Sciences Liaison Introduction</a>
+        <span class="description">Reference site for introducing undergraduate students of the College of Agricultural & Life Sciences to myself, how my work corresponds with their studies and the various library resources on hand that they can use for producing scholarly work. <i>Fall 2024</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/aerial_timelapse/" target="_blank">Aerial Time Lapse Tools Survey</a>
         <span class="description">Survey of five platforms that researchers can use to generate aerial time lapse visualizations, highlighting their unique strengths, weaknesses and the technical skills required for each. Created for the 25th annual University of Idaho GIS Day Short Talk series, <i>Fall 2024</i>.</span>
     </li>
