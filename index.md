@@ -68,9 +68,13 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
         <a href="https://aweymo-ui.github.io/distant_tech_talk" target="_blank">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
         <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Created for the 2024 U of I <i>Tech Talk</i> series, <i>Fall 2024</i>.</span>
     </li>
-        <li>
+    <li>
         <a href="https://aweymo-ui.github.io/five_ways" target="_blank">Presenting Research in Five Ways to Increase Understanding and Uncover Connections</a>
         <span class="description">Workshop for history undergraduates on framing research five different ways using various digital scholarship approaches. Created for Alyssa Kreikemeier's HIST 320 course, <i>Fall 2024</i>.</span>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/watch?v=pPaxfRajpcU" target="_blank">Analytics Workshop</a>
+        <span class="description">Introductory workshop for U of I library faculty about how GA4 is set up across the library site, getting access to analytics, reading and refining the series of Looker Studio templates I created for the many library teams and the limitations and misconceptions of what this data can tell us. Co-created with Digital Infrastructure Librarian Evan Williamson, <i>Fall 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/geolocation" target="_blank">Digital Geolocation Tools for Archival Research</a>
