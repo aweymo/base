@@ -45,6 +45,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/verso_intro/" target="_blank">University of Idaho VERSO Guide</a>
+        <span class="description">Introductory presentation for students, staff and faculty engaging with University of Idaho Library's VERSO institutional repository platform. The guide walks through how VERSO functions, how to create a profile if data harvesting hasn't done so already, how to add scholarly work, edit your author profile and hide any work you don't want to have public. <i>Fall 2024</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/or_standardize/" target="_blank">Using OpenRefine to Standardize Metadata Language</a>
         <span class="description">Practical guide to using OpenRefine for metadata language standardization intended for faculty, staff, patrons and students at U of I. The focus of this workshop is to provide only the steps you need to perform to work through language standardization and not the many other OpenRefine capabilities. <i>Fall 2024</i>.</span>
     </li>
@@ -107,7 +111,7 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 <ul class="triangle-list">
     <li>
         <a href="https://aweymo-ui.github.io/distant_listening" target="_blank">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
-        <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Currently under review at Code4Lib, <i>submitted Summer 2024</i>.</span>
+        <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Currently under review at Code4Lib, <i>Submitted Summer 2024</i>.</span>
     </li>
     <li>
         <a href="https://litwinbooks.com/books/land-in-libraries" target="_blank">Civilizing, Separating and Organizing: The Geographic Influence on Nineteenth Century Western Libraries</a>
