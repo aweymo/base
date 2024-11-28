@@ -81,7 +81,7 @@ Graduate Student Fellowship, 2023
 - <i>Digital Geolocation Tools for Archival Research</i> [Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. Created for the U of I Information Landscape series] 2024,<br>
 [https://aweymo-ui.github.io/geolocation](https://aweymo-ui.github.io/geolocation){:target="_blank" rel="noopener"}
 
-- <i>Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</i> [Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Created for the Datahub Tech Talk series] 2024,<br>
+- <i>Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</i> [Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copy editing process. Created for the Datahub Tech Talk series] 2024,<br>
 [https://aweymo-ui.github.io/distant_listening](https://aweymo-ui.github.io/distant_listening){:target="_blank" rel="noopener"}
 
 - <i>Using Digital Scholarship to Conduct and Present Historical Research</i> [workshop for Ellen Kittell’s History 290 Class hosted on static workshop template], 2024,<br>
@@ -167,7 +167,7 @@ Landscape hosted on customized CB Instructional template], 2024,<br>
 - *Digital Geolocation Tools for Archival Research* [Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. Created for the U of I Information Landscape series], 2024<br>
 [https://aweymo-ui.github.io/geolocation](https://aweymo-ui.github.io/geolocation){:target="_blank" rel="noopener"}
 
-- <i>Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</i> [Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Created for the Datahub Tech Talk series], 2024<br> 
+- <i>Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</i> [Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copy editing process. Created for the Datahub Tech Talk series], 2024<br> 
 [https://aweymo-ui.github.io/distant_listening](https://aweymo-ui.github.io/distant_listening){:target="_blank" rel="noopener"}
 
 - <i>Collection Builder Workshop</i> [Two hour workshop concluding my Research Assistant position with Selim Kuru at the University of Washington recapping how to maintain and expand the CB database for future use], 2022<br> 
@@ -341,7 +341,7 @@ Amidst a Crisis”, <i>The Serials Librarian</i> 2021<br>
 - *Library Analytics Infrastructure* [Developed and standardized GA4 analytics dashboards in Looker Studio to support internal reporting and optimize library management workflows. Currently in its fourth iteration and continues to be improved], 2023-present<br>
 [https://docs.google.com/spreadsheets/d/1jNO9C98iFFMAaPuyJixzR0vKf9ShnSe8W5vv4lPJktY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jNO9C98iFFMAaPuyJixzR0vKf9ShnSe8W5vv4lPJktY/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-- *Transcription Processes* [Developed processes and documentation outlining the approach, technical procedure, and copyediting of audio material in the CDIL], 2024<br>
+- *Transcription Processes* [Developed processes and documentation outlining the approach, technical procedure, and copy editing of audio material in the CDIL], 2024<br>
 [https://uidaholib.github.io/digital-collections-docs/content/transcription/00-intro.html](https://uidaholib.github.io/digital-collections-docs/content/transcription/00-intro.html){:target="_blank" rel="noopener"}
 
 - *Internal Documentation Update* [Collaborated with Evan Williamson and Devin Becker to update and expand external documentation of digitization and transcription processes], 2024<br> 
