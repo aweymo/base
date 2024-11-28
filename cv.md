@@ -156,7 +156,7 @@ Landscape hosted on customized CB Instructional template], 2024,<br>
 
 **Workshops**
 
-- *Premier Workshop* [Informal presentation with members of Special Collections on using Adobe Premier for audio transcription, how it works, privacy considerations, and how to format output for the Oral History as Data template], 2024<br>
+- *Premiere Workshop* [Informal presentation with members of Special Collections on using Adobe Premiere for audio transcription, how it works, privacy considerations, and how to format output for the Oral History as Data template], 2024<br>
 
 - *Analytics Workshop* [Introductory workshop for U of I library faculty about how GA4 is set up across the library site, getting access to analytics, reading and refining the series of Looker Studio templates I created for the many library teams, and the limitations and misconceptions of what this data can tell us. Co-created with Digital Infrastructure Librarian Evan Williamson], 2024<br>
 [video](https://www.youtube.com/watch?v=pPaxfRajpcU){:target="_blank" rel="noopener"}
