@@ -72,7 +72,7 @@ Graduate Student Fellowship, 2023
 - *Using Python Tools and Obsidian to Connect and Visualize Research* [Presentation on using custom Python tools to correct optical character recognition layers, extract annotations from digitized text, and contextualize these notes using Obsidian’s detailed tagging methods to enrich scholarly research.] 2024,<br>
 [https://aweymo-ui.github.io/python_obsidian](https://aweymo-ui.github.io/python_obsidian){:target="_blank" rel="noopener"}
 
-- *Using OpenRefine to Standardize Metadata Language* [Practical guide to using OpenRefine for metadata language standardization, intended for faculty, staff, patrons, and students at the University of Idaho. This workshop focuses on the necessary steps to perform language standardization without covering OpenRefine’s other capabilities.] 2024,<br>
+- *Using OpenRefine to Standardize Metadata Language* [Practical guide to using OpenRefine for metadata language standardization, intended for faculty, staff, patrons, and students at the University of Idaho.] 2024,<br>
 [https://aweymo-ui.github.io/or_standardize](https://aweymo-ui.github.io/or_standardize){:target="_blank" rel="noopener"}
 
 - *College of Agricultural & Life Sciences Liaison Introduction* [Reference site for introducing undergraduate students of the College of Agricultural & Life Sciences to myself, how my work corresponds with their studies, and the various library resources available to help them produce scholarly work.] 2024,<br>
@@ -84,11 +84,10 @@ Graduate Student Fellowship, 2023
 - <i>Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</i> [Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copy editing process. Created for the Datahub Tech Talk series] 2024,<br>
 [https://aweymo-ui.github.io/distant_listening](https://aweymo-ui.github.io/distant_listening){:target="_blank" rel="noopener"}
 
-- <i>Using Digital Scholarship to Conduct and Present Historical Research</i> [workshop for Ellen Kittell’s History 290 Class hosted on static workshop template], 2024,<br>
+- <i>Using Digital Scholarship to Conduct and Present Historical Research</i> [Workshop for Ellen Kittell’s History 290 Course.], 2024,<br>
 [https://aweymo-ui.github.io/ds_hr](https://aweymo-ui.github.io/ds_hr){:target="_blank" rel="noopener"}
 
-- <i>How to Find Copyright Free Photos, Audio or Video of Almost Anything </i>[workshop for Exploring the Information
-Landscape hosted on customized CB Instructional template], 2024,<br>
+- <i>How to Find Copyright Free Photos, Audio or Video of Almost Anything </i>[Created for the Information Landscape series], 2024,<br>
 [https://aweymo-ui.github.io/source_cr_free](https://aweymo-ui.github.io/source_cr_free){:target="_blank" rel="noopener"} 
 
 
@@ -179,10 +178,10 @@ Landscape hosted on customized CB Instructional template], 2024,<br>
 
 **Invited Lectures**
 
-- *Aerial Time Lapse Tools Survey* [Survey of five platforms that researchers can use to generate aerial time-lapse visualizations, highlighting their unique strengths, weaknesses, and the technical skills required for each. Created for the 25th annual University of Idaho GIS Day Short Talk series], 2024<br>
+- *Aerial Time Lapse Tools Survey* [Survey of five platforms that researchers can use to generate aerial time-lapse visualizations, highlighting their unique strengths, weaknesses, and the technical skills required for each. Created for the 25th annual University of Idaho *GIS Day* Short Talk series], 2024<br>
 [https://aweymo-ui.github.io/aerial_timelapse](https://aweymo-ui.github.io/aerial_timelapse){:target="_blank" rel="noopener"}
 
-- <i>Text Mining Strategies for Transcribing and Tagging Oral History Collections</i> [Part of the Seven Minute Scholarship Presentations for the Institute for Research Design in Librarianship (IRDL) Online Research Conference], November 2024<br>
+- <i>Text Mining Strategies for Transcribing and Tagging Oral History Collections</i> [Part of the Seven Minute Scholarship Presentations for the Loyola Marymount University Digital Commons Conference], November 2024<br>
 [https://digitalcommons.lmu.edu/irdlconference/2024/](https://digitalcommons.lmu.edu/irdlconference/2024/)
 
 - <i>Humanizing Nature Research History with Static Web Technology</i> [Presentation for UCLA Library’s Captivity: Assembling Nature’s Histories detailing my experience creating interpretive materials for the Taylor Wilderness Research Station digital collection], 2024<br>
@@ -225,9 +224,9 @@ Amidst a Crisis”, <i>The Serials Librarian</i> 2021<br>
 - Andrew Weymouth, “Book_Splitter Tool” [Python tool for quickly splitting two-page scans to increase OCR accuracy], 2024<br>
 [https://github.com/Scholarly-Projects/trello_export](https://github.com/Scholarly-Projects/trello_export){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Annotation_Extraction Tool” [Tool created to extract text from annotated PDFs and export it categorically and chronologically to markdown files for visualization and connection-building within Obsidian. To use: add the annotated PDF to the A folder, run the script, and the output will generate in the B folder. Customize categories by adjusting lines 63–83. Future improvements include support for shapes and underlined text], 2024<br> [https://github.com/Scholarly-Projects/annotation_extraction](https://github.com/Scholarly-Projects/annotation_extraction){:target="_blank" rel="noopener"}
+- Andrew Weymouth, “Annotation_Extraction Tool” [Tool created to extract text from annotated PDFs and export it categorically and chronologically to markdown files for visualization and connection-building within Obsidian.], 2024<br> [https://github.com/Scholarly-Projects/annotation_extraction](https://github.com/Scholarly-Projects/annotation_extraction){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Transcript_Mining Tool” [Developed to increase the efficiency and accuracy of the University of Idaho Digital Scholarship and Open Strategies department's Oral History as Data tagging process. Users can iterate by dropping new transcription sets into the CSV folder and running the Python script. Future iterations will modularize text mining into General, Geographic, and Custom categories], 2024<br>
+- Andrew Weymouth, “Transcript_Mining Tool” [Developed to increase the efficiency and accuracy of the University of Idaho Digital Scholarship and Open Strategies department's Oral History as Data tagging process. Users can iterate by dropping new transcription sets into the CSV folder and running the Python script.], 2024<br>
 [https://github.com/Scholarly-Projects/transcript_mining_base](https://github.com/Scholarly-Projects/transcript_mining_base){:target="_blank" rel="noopener"}
 
 - Andrew Weymouth, “Web Scraper” [Python tool to extract contact information from the web to expedite liaison work], 2024<br>
