@@ -45,6 +45,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/zotero_intro/" target="_blank" rel="noopener noreferrer">Introduction to Zotero</a>
+        <span class="description">Introductory guide to using the citation manager Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference. Created for the Spring 2025 U of I Information Landscape series. <i>Winter 2025</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/verso_intro/" target="_blank" rel="noopener noreferrer">University of Idaho VERSO Guide</a>
         <span class="description">Introductory presentation for students, staff and faculty engaging with University of Idaho Library's VERSO institutional repository platform. The guide walks through how VERSO functions, how to create a profile if data harvesting hasn't done so already, how to add scholarly work, edit your author profile and hide any work you don't want to have public. <i>Fall 2024</i>.</span>
     </li>
