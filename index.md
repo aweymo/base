@@ -46,7 +46,7 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, pri
 <ul class="triangle-list">
     <li>
         <a href="https://aweymo-ui.github.io/zotero_intro/" target="_blank" rel="noopener noreferrer">Introduction to Zotero</a>
-        <span class="description">Introductory guide to using the citation manager Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference. Created for the Spring 2025 U of I Information Landscape series. <i>Winter 2025</i>.</span>
+        <span class="description">Introductory guide to using the citation manager Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference. Created for the Spring 2025 U of I Information Landscape series. <i>Winter 2025</i>. </span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/verso_intro/" target="_blank" rel="noopener noreferrer">University of Idaho VERSO Guide</a>
