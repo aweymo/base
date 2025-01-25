@@ -208,6 +208,10 @@ _All tools except Read_Image developed independently_
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/eap_proto/" target="_blank" rel="noopener noreferrer">Prototype for Encoded Audio Player</a>
+        <span class="description">Developed alongside the <i>Using Embodiment and Audio Narrative to Present Historical Research</i> workshop for practical application in graduate, undergraduate and independent research projects in environmental history, archaeology, geology, humanities, journalism and interdisciplinary science to showcase long form audio narratives, presentations and oral history material. <i>Winter 2025.</i></span>
+    </li>
+    <li>
         <a href="https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e" target="_blank" rel="noopener noreferrer">Read_Image Optical Character Recognition Tool</a>
         <span class="description">Iteration of an OCR tool developed by Luke Sheneman, Director of the IBEST Northwest Knowledge Network (NKN) at University of Idaho. This extension was developed to help extract text from images files in an effort to enrich alt text metadata and make digital collections more accessible. Private repository but link is pointed to introductory presentation for Digital Collections group. <i>Fall, 2024</i>.</span>
     </li>
