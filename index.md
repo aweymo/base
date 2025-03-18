@@ -47,6 +47,10 @@ Previously, he has created digital scholarship projects for the University of Wa
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/cals_liaison/" target="_blank" rel="noopener noreferrer">CALS Liaison Presentation</a>
+        <span class="description">Presentation on the College of Agriculture and Life Science for the Library Liaison Committee. <i>Spring 2025</i>. </span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/embody_audio/" target="_blank" rel="noopener noreferrer">Using Embodiment and Audio Narrative to Present Historical Research</a>
         <span class="description">A presentation created for Alyssa Kreikemeier’s HIST424 Environmental History course on using embodiment in field recording, interviewing and utilizing oral history recordings to restructure scholarly work to the audio narrative medium and enrich your research. <i>Winter 2025</i>. </span>
     </li>
