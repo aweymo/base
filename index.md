@@ -47,6 +47,10 @@ Previously, he has created digital scholarship projects for the University of Wa
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/thesis/" target="_blank" rel="noopener noreferrer">University of Idaho History Thesis Materials</a>
+        <span class="description">Materials related to my 2024-2026 History Thesis Project, including Thesis Prospectus and Syllabus. <i>Spring 2025</i>. </span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/cals_liaison/" target="_blank" rel="noopener noreferrer">CALS Liaison Presentation</a>
         <span class="description">Presentation on the College of Agriculture and Life Science for the Library Liaison Committee. <i>Spring 2025</i>. </span>
     </li>
