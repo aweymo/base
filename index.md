@@ -47,6 +47,10 @@ Previously, he has created digital scholarship projects for the University of Wa
 
 <ul class="triangle-list">
     <li>
+        <a href=" https://www.youtube.com/watch?v=Um2QX9Y2zj8" target="_blank" rel="noopener noreferrer">Preserving and Enriching Podcast Projects: A Workflow for Small Teams</a>
+        <span class="description">Poster presentation for the 2025 Northwest Archivist Conferences, Virtual. <i>Spring 2025</i>. </span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/thesis/" target="_blank" rel="noopener noreferrer">University of Idaho History Thesis Materials</a>
         <span class="description">Materials related to my 2024-2026 History Thesis Project, including Thesis Prospectus and Syllabus. <i>Spring 2025</i>. </span>
     </li>
@@ -128,8 +132,12 @@ Previously, he has created digital scholarship projects for the University of Wa
 
 <ul class="triangle-list">
     <li>
-        <a href="https://aweymo-ui.github.io/distant_listening" target="_blank" rel="noopener noreferrer">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
-        <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Currently under review at Code4Lib, <i>Submitted Summer 2024</i>.</span>
+        <a href="https://aweymo-ui.github.io/humanizing" target="_blank" rel="noopener noreferrer">A Sense of Place: Visualizing Oral History</a>
+        <span class="description">Chapter of an edited volume from the University of Toronto Press, under the UCLA Clark Memorial Library Series exploring data visualization to add geographic context to oral history interviews. Originally a part of UCLA Library's <i>Captivity: Assembling Nature’s Histories</i> conference, May 2024. <i>Forthcoming</i>.</span>
+    </li>
+    <li>
+        <a href="https://journal.code4lib.org/articles/18286" target="_blank" rel="noopener noreferrer">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
+        <span class="description">Guide to using Python and Google Apps Scripts to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Code4Lib, Issue 60 <i>April 2025</i>.</span>
     </li>
     <li>
         <a href="https://litwinbooks.com/books/land-in-libraries" target="_blank" rel="noopener noreferrer">Civilizing, Separating and Organizing: The Geographic Influence on Nineteenth Century Western Libraries</a>
@@ -178,8 +186,12 @@ Previously, he has created digital scholarship projects for the University of Wa
 
 <ul class="triangle-list">
     <li>
+        <a href="https://www.lib.uidaho.edu/digital/context/" target="_blank" rel="noopener noreferrer">Context Podcast Digital Collection</a>
+        <span class="description">Collaboration with the Idaho Humanities Council to preserve, transcribe and host their pandemic-era podcast, representing the largest oral history collection so far and improved workflows for small teams. <i>Spring, 2025</i></span>
+    </li>
+    <li>
         <a href="https://www.lib.uidaho.edu/digital/taylor-archive/" target="_blank" rel="noopener noreferrer">The Taylor Wilderness Research Station Archive</a>
-        <span class="description">Scientific archive of the University of Idaho's Taylor Wilderness Research Station, featuring oral histories, bibliometric visualizations and geographic / oral history hybrid animation. <i>Spring, 2024</i></span>
+        <span class="description">Scientific archive of the University of Idaho's Taylor Wilderness Research Station, featuring oral histories, bibliometric visualizations and geographic oral history visualizations. <i>Spring, 2025</i></span>
     </li>
     <li>
         <a href="https://andrewweymouth.bandcamp.com/album/the-tideflats" target="_blank" rel="noopener noreferrer">The Tideflats</a>
@@ -263,16 +275,21 @@ _All tools except Read_Image developed independently_
     </li>
 </ul>
 
-## Student Fellowship Projects
+## Student Fellowship and Consultation Projects
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://github.com/aweymo-ui/echoes-past-teacher" target="_blank" rel="noopener noreferrer">Echo Washington Public History Curriculum Site</a>
+        <span class="description">Custom template for graduate archaeology student Megan Caves. <i>University of Idaho, Spring, 2025</i>.</span>
+    </li>
+        <li>
+        <a href="https://github.com/aweymo-ui/inuit_story" target="_blank" rel="noopener noreferrer">Inuit Story</a>
+        <span class="description">Custom digital exhibit template for Undergraduate history student Jacob Kuenning. <i>University of Idaho, Spring, 2025</i>.</span>
+    </li>
     <li>
         <a href="https://www.lib.uidaho.edu/digital/coltrane" target="_blank" rel="noopener noreferrer">Alice Coltrane, Jazz Spiritualism</a>
         <span class="description">Guidance and Oral History as Data audio visualization for 2024 Berry Fellow Irene Koreski, on the life of Alice Coltrane Turiyasangitananda, an American jazz pianist, organist, harpist, singer and composer. <i>University of Idaho, Spring, 2024</i>.</span>
     </li>
-</ul>
-
-<ul class="triangle-list">
     <li>
         <a href="https://github.com/thecdil/chestnutcollective" target="_blank" rel="noopener noreferrer">Chestnut Collective</a>
         <span class="description">Exhibit design and network visualization for Nick Koenig's CDIL Graduate Student Fellowship. <i>University of Idaho, Winter, 2023</i>.</span>
