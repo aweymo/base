@@ -52,19 +52,32 @@ Digital Scholarship, Web Development, Digital Preservation, Project Management, 
 
 **Graduate Students**
 
-- Nick Koenig, CDIL
-Graduate Student Fellowship, 2023
+- Megan Caves, 
+  - Custom Curriculum Template, 2025.
+    - <a href="https://github.com/aweymo-ui/echoes-past-teacher" target="_blank" rel="noopener noreferrer">Project Site</a>
+- Nick Koenig,
+  - CDIL Graduate Student Fellowship, 2023.
+    - <a href="https://github.com/thecdil/chestnutcollective" target="_blank" rel="noopener noreferrer">Project Site</a>
 
 **Undergraduate Students**
 
-- Irene Koreski, Berry Fellowship, 2024
-- Dakota Steffen, CDIL Fellowship, 2024
+- Jacob Kuenning  
+    - Custom digital exhibit template, 2025.  
+        - <a href="https://github.com/aweymo-ui/inuit_story" target="_blank" rel="noopener noreferrer">Project Site</a>
+- Dakota Steffen, 
+  - CDIL Fellowship, 2024.
+- Irene Koreski, 
+  - Berry Fellowship, 2024.
+    - <a href="https://www.lib.uidaho.edu/digital/coltrane/" target="_blank" rel="noopener noreferrer">Project Site</a>
 
 ## Materials Developed
 
 **Open Educational Resources**
 
-(teaching resources shared for access and re-use; created as part of librarian’s Teaching area of responsibility)
+(teaching resources shared for access and re-use; created as part of librarian’s __Teaching__ area of responsibility)
+
+- *Introduction to Zotero* [Introductory guide to using the citation manager Zotero to organize scholarly materials, create bibliographies, summarize annotations, collaborate on group projects and preserve your research for future reference. Created for the Spring 2025 U of I Information Landscape series.] 2025,<br>
+[https://aweymo-ui.github.io/zotero_intro/](https://aweymo-ui.github.io/zotero_intro/){:target="_blank" rel="noopener"}
 
 - *University of Idaho VERSO Guide* [Introductory presentation for students, staff, and faculty engaging with the University of Idaho Library’s VERSO institutional repository platform. The guide walks through how VERSO functions, how to create a profile if data harvesting hasn’t done so already, how to add scholarly work, edit your author profile, and hide any work you don’t want to be public.] 2024,<br>
 [https://aweymo-ui.github.io/verso_intro](https://aweymo-ui.github.io/verso_intro){:target="_blank" rel="noopener"}
@@ -78,76 +91,79 @@ Graduate Student Fellowship, 2023
 - *College of Agricultural & Life Sciences Liaison Introduction* [Reference site for introducing undergraduate students of the College of Agricultural & Life Sciences to myself, how my work corresponds with their studies, and the various library resources available to help them produce scholarly work.] 2024,<br>
 [https://aweymo-ui.github.io/cals_intro](https://aweymo-ui.github.io/cals_intro){:target="_blank" rel="noopener"}
 
-- <i>Digital Geolocation Tools for Archival Research</i> [Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. Created for the U of I Information Landscape series] 2024,<br>
+- <i>Digital Geolocation Tools for Archival Research</i> [Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. Created for the U of I Information Landscape series.] 2024,<br>
 [https://aweymo-ui.github.io/geolocation](https://aweymo-ui.github.io/geolocation){:target="_blank" rel="noopener"}
 
-- <i>Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</i> [Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copy editing process. Created for the Datahub Tech Talk series] 2024,<br>
+- <i>Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</i> [Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copy editing process. Created for the Datahub <i>Tech Talk</i> series.] 2024,<br>
 [https://aweymo-ui.github.io/distant_listening](https://aweymo-ui.github.io/distant_listening){:target="_blank" rel="noopener"}
 
-- <i>Using Digital Scholarship to Conduct and Present Historical Research</i> [Workshop for Ellen Kittell’s History 290 Course.], 2024,<br>
+- <i>Using Digital Scholarship to Conduct and Present Historical Research</i> [Workshop for Ellen Kittell’s History 290 Course.] 2024,<br>
 [https://aweymo-ui.github.io/ds_hr](https://aweymo-ui.github.io/ds_hr){:target="_blank" rel="noopener"}
 
-- <i>How to Find Copyright Free Photos, Audio or Video of Almost Anything </i>[Created for the Information Landscape series], 2024,<br>
+- <i>How to Find Copyright Free Photos, Audio or Video of Almost Anything </i>[Created for the Information Landscape series.] 2024,<br>
 [https://aweymo-ui.github.io/source_cr_free](https://aweymo-ui.github.io/source_cr_free){:target="_blank" rel="noopener"} 
 
 
 ## Website and Database Development
 (specific digital collection and web projects completed as part of librarian’s “Teaching” area of responsibility)
 
-- <i>WWAMI Scrapbook</i> [digital collection project], 2024<br> 
+- <i>Context Podcast Digital Collection</i> [digital collection project.] 2025,<br> 
+[https://www.lib.uidaho.edu/digital/context/](https://www.lib.uidaho.edu/digital/context/){:target="_blank" rel="noopener"}
+
+- <i>WWAMI Scrapbook</i> [digital collection project.] 2024,<br> 
 [https://www.lib.uidaho.edu/digital/wwami/](https://www.lib.uidaho.edu/digital/wwami/){:target="_blank" rel="noopener"}
 
-- <i>Plant, Soil, and Entomological Sciences Records</i> [digital collection project], 2024<br> 
+- <i>Plant, Soil, and Entomological Sciences Records</i> [digital collection project.] 2024,<br> 
 [https://www.lib.uidaho.edu/digital/pses/](https://www.lib.uidaho.edu/digital/pses/){:target="_blank" rel="noopener"}
 
-- <i>Cougar Dave Collection</i> [digital collection project], 2024<br> 
+- <i>Cougar Dave Collection</i> [digital collection project.] 2024,<br> 
 [https://www.lib.uidaho.edu/digital/cougar-dave/](https://www.lib.uidaho.edu/digital/cougar-dave/){:target="_blank" rel="noopener"}
 
-- <i>Latah County Historic Places</i> [digital collection project], 2024<br> 
+- <i>Latah County Historic Places</i> [digital collection project.] 2024,<br> 
 [https://www.lib.uidaho.edu/digital/latahsites/](https://www.lib.uidaho.edu/digital/latahsites/){:target="_blank" rel="noopener"}
 
-- <i>Other Faces, Other Lives: Asian Americans in Idaho</i> [digital collection project], 2024<br> 
+- <i>Other Faces, Other Lives: Asian Americans in Idaho</i> [digital collection project.] 2024,<br> 
 [https://www.lib.uidaho.edu/digital/otherfaces/](https://www.lib.uidaho.edu/digital/otherfaces/){:target="_blank" rel="noopener"}
 
-- <i>Hispanic Oral History Project Interviews</i> [digital collection project], 2024<br> 
+- <i>Hispanic Oral History Project Interviews</i> [digital collection project.] 2024,<br> 
 [https://www.lib.uidaho.edu/digital/hohp/](https://www.lib.uidaho.edu/digital/hohp/){:target="_blank" rel="noopener"}
 
-- <i>Rural Women’s History Project</i> [digital collection project], 2024<br> 
+- <i>Rural Women’s History Project</i> [digital collection project.] 2024,<br> 
 [https://www.lib.uidaho.edu/digital/rwhp/](https://www.lib.uidaho.edu/digital/rwhp/){:target="_blank" rel="noopener"}
 
-- <i>Alice Coltrane, Jazz Spiritualism</i> [Oral history centered profile of musician Alice Coltrane, implementing U of I Oral History as Metadata visualization for Berry Fellows Irene Koreski], 2024,<br>
+- <i>Alice Coltrane, Jazz Spiritualism</i> [Oral history centered profile of musician Alice Coltrane, implementing U of I Oral History as Metadata visualization for Berry Fellows Irene Koreski.] 2024,<br>
 [https://www.lib.uidaho.edu/digital/coltrane](https://www.lib.uidaho.edu/digital/coltrane)
 
-- <i>Taylor Wilderness Research Station Archive</i> [Extended project to clean metadata, create contextual digital scholarship elements and merge a scientific repository with an oral history project], 2024,<br>
+- <i>Taylor Wilderness Research Station Archive</i> [Extended project to clean metadata, create contextual digital scholarship elements and merge a scientific repository with an oral history project.] 2024,<br>
 [https://www.lib.uidaho.edu/digital/taylor-archive](https://www.lib.uidaho.edu/digital/taylor-archive){:target="_blank" rel="noopener"}
 
-- <i>Chestnut Collective</i> [Exhibit design and network visualization for CDIL Graduate Student Fellowship], 2023,<br>
+- <i>Chestnut Collective</i> [Exhibit design and network visualization for CDIL Graduate Student Fellowship.] 2023,<br>
 [https://github.com/thecdil/chestnutcollective](https://github.com/thecdil/chestnutcollective){:target="_blank" rel="noopener"}
 
-- <i>Vandal Video Collection</i> [Corrected metadata and redesigned site that wasn’t available to the public], 2023,<br>
+- <i>Vandal Video Collection</i> [Corrected metadata and redesigned site that wasn’t available to the public.] 2023,<br>
 [https://www.lib.uidaho.edu/digital/vandalvideo/about.html](https://www.lib.uidaho.edu/digital/vandalvideo/about.html){:target="_blank" rel="noopener"}
 
-- <i>The Genesee News</i> [Corrected metadata and redesigned site that wasn’t available to the public], 2023,<br>
+- <i>The Genesee News</i> [Corrected metadata and redesigned site that wasn’t available to the public.] 2023,<br>
 [https://www.lib.uidaho.edu/digital/genesee-news](https://www.lib.uidaho.edu/digital/genesee-news){:target="_blank" rel="noopener"}
 
 - __University of Idaho Data Migration__ [Participated as a group of four in the creation, quality control or deployment of around 125 collections from ContentDM based storage to a local platform], 2023-2024
 
-- <i>Lost Tacoma</i> [Architectural database created on behalf of the Tacoma Public Library Northwest Room], 2022,<br>
+- <i>Lost Tacoma</i> [Architectural database created on behalf of the Tacoma Public Library Northwest Room.] 2022,<br>
 [https://aweymo.github.io/losttacoma](https://aweymo.github.io/losttacoma){:target="_blank" rel="noopener"}
 
-- <i>Mapping Language</i> [Database and pedagogical tool created for University of Washington capstone], 2022,<br>
+- <i>Mapping Language</i> [Database and pedagogical tool created for University of Washington capstone.] 2022,<br>
 [https://aweymo.github.io/mappinglanguage](https://aweymo.github.io/mappinglanguage){:target="_blank" rel="noopener"}
 
-- <i>Middle East and North Africa Illustrated</i> [Database created for the University of Washington’s Near Eastern Languages department], 2022,<br>
+- <i>Middle East and North Africa Illustrated</i> [Database created for the University of Washington’s Near Eastern Languages department.] 2022,<br>
 [https://gnmedatabase.github.io/site](https://gnmedatabase.github.io/site){:target="_blank" rel="noopener"}
 
-- <i>Richards Studio VRAF Grant</i> [Forestry.io Git site created to showcase grant work with the Tacoma Public Library Northwest Room], 2022,<br>
+- <i>Richards Studio VRAF Grant</i> [Forestry.io Git site created to showcase grant work with the Tacoma Public Library Northwest Room.] 2022,<br>
 [https://aweymo.github.io/VRAF_RC.2](https://aweymo.github.io/VRAF_RC.2){:target="_blank" rel="noopener"}
 
-- <i>Emma B. Andrews Diary Project Network Visualization Tools</i> [University of Washington directed fieldwork site], 2021,<br>
+- <i>Emma B. Andrews Diary Project Network Visualization Tools</i> [University of Washington directed fieldwork site.] 2021,<br>
 [https://aweymo1.wixsite.com/eba-visualization](https://aweymo1.wixsite.com/eba-visualization){:target="_blank" rel="noopener"}
 
-- <i>Mary Hillaire and the Lummi Nation: Self-Determination</i> [Omeka site curating oral history research assembled during undergraduate fieldwork for the Evergreen State College], 2019,<br>
+- <i>Mary Hillaire and the Lummi Nation: Self-Determination</i> [Omeka site curating oral history research assembled during undergraduate fieldwork for the Evergreen State College.] 2019,<br>
 [https://collections.evergreen.edu/s/selfdetermination](https://collections.evergreen.edu/s/selfdetermination){:target="_blank" rel="noopener"}
 
 
@@ -155,45 +171,47 @@ Graduate Student Fellowship, 2023
 
 **Workshops**
 
-- *Premiere Workshop* [Informal presentation with members of Special Collections on using Adobe Premiere for audio transcription, how it works, privacy considerations, and how to format output for the Oral History as Data template], 2024<br>
+- *Using Embodiment and Audio Narrative to Present Historical Research* [Presentation created for Alyssa Kreikemeier’s HIST424 Environmental History course on using embodiment in field recording, interviewing and utilizing oral history recordings to restructure scholarly work to the audio narrative medium and enrich your research.] 2024,<br>
 
-- *Analytics Workshop* [Introductory workshop for U of I library faculty about how GA4 is set up across the library site, getting access to analytics, reading and refining the series of Looker Studio templates I created for the many library teams, and the limitations and misconceptions of what this data can tell us. Co-created with Digital Infrastructure Librarian Evan Williamson], 2024<br>
+- *Premiere Workshop* [Informal presentation with members of Special Collections on using Adobe Premiere for audio transcription, how it works, privacy considerations, and how to format output for the Oral History as Data template.] 2024,<br>
+
+- *Analytics Workshop* [Introductory workshop for U of I library faculty about how GA4 is set up across the library site, getting access to analytics, reading and refining the series of Looker Studio templates I created for the many library teams, and the limitations and misconceptions of what this data can tell us. Co-created with Digital Infrastructure Librarian Evan Williamson.] 2024,<br>
 [video](https://www.youtube.com/watch?v=pPaxfRajpcU){:target="_blank" rel="noopener"}
 
-- *AVS 463 Library Resources Presentation* [Updating workshop site originally created by Hanwen Dong for Amy Skibiel’s Animal and Veterinary Science 463 Growth and Lactation class], 2024<br>
+- *AVS 463 Library Resources Presentation* [Updating workshop site originally created by Hanwen Dong for Amy Skibiel’s Animal and Veterinary Science 463 Growth and Lactation class.] 2024,<br>
 [site](https://hanwendong1.github.io/avs463/){:target="_blank" rel="noopener"}
 
-- *Digital Geolocation Tools for Archival Research* [Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. Created for the U of I Information Landscape series], 2024<br>
+- *Digital Geolocation Tools for Archival Research* [Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. Created for the U of I Information Landscape series.] 2024,<br>
 [https://aweymo-ui.github.io/geolocation](https://aweymo-ui.github.io/geolocation){:target="_blank" rel="noopener"}
 
-- <i>Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</i> [Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copy editing process. Created for the Datahub Tech Talk series], 2024<br> 
+- <i>Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</i> [Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copy editing process. Created for the Datahub Tech Talk series.] 2024,<br> 
 [https://aweymo-ui.github.io/distant_listening](https://aweymo-ui.github.io/distant_listening){:target="_blank" rel="noopener"}
 
-- <i>Collection Builder Workshop</i> [Two hour workshop concluding my Research Assistant position with Selim Kuru at the University of Washington recapping how to maintain and expand the CB database for future use], 2022<br> 
+- <i>Collection Builder Workshop</i> [Two hour workshop concluding my Research Assistant position with Selim Kuru at the University of Washington recapping how to maintain and expand the CB database for future use.] 2022,<br> 
 [https://gnmedatabase.github.io/site/](https://gnmedatabase.github.io/site/){:target="_blank" rel="noopener"}
 
-- <i>Omeka Workshop</i> [Designed curriculum and taught a three part workshop with Elliot Stevens and the University of Washington’s Digital Humanities department], 2021
+- <i>Omeka Workshop</i> [Designed curriculum and taught a three part workshop with Elliot Stevens and the University of Washington’s Digital Humanities department.] 2021.
 
-- <i>Bibliographic Mobile Platforms Workshop</i> [Invited to host a workshop on utilizing bibliographic software Zotero, Papership, and Zoo for Zotero to make coursework more accessible for adult learners], 2019
+- <i>Bibliographic Mobile Platforms Workshop</i> [Invited to host a workshop on utilizing bibliographic software Zotero, Papership, and Zoo for Zotero to make coursework more accessible for adult learners.] 2019.
 
 **Invited Lectures**
 
-- *Aerial Time Lapse Tools Survey* [Survey of five platforms that researchers can use to generate aerial time-lapse visualizations, highlighting their unique strengths, weaknesses, and the technical skills required for each. Created for the 25th annual University of Idaho *GIS Day* Short Talk series], 2024<br>
+- *Preserving and Enriching Podcast Projects: A Workflow for Small Teams* [Poster presentation for the 2025 Northwest Archivist Conference outlining process developed over the course of creating the Context Podcast Digital Collection.] 2024,<br>
+[ https://www.youtube.com/watch?v=Um2QX9Y2zj8]( https://www.youtube.com/watch?v=Um2QX9Y2zj8){:target="_blank" rel="noopener"}
+
+- *Aerial Time Lapse Tools Survey* [Survey of five platforms that researchers can use to generate aerial time-lapse visualizations, highlighting their unique strengths, weaknesses, and the technical skills required for each. Created for the 25th annual University of Idaho *GIS Day* Short Talk series.] 2024,<br>
 [https://aweymo-ui.github.io/aerial_timelapse](https://aweymo-ui.github.io/aerial_timelapse){:target="_blank" rel="noopener"}
 
-- <i>Text Mining Strategies for Transcribing and Tagging Oral History Collections</i> [Part of the Seven Minute Scholarship Presentations for the Loyola Marymount University Digital Commons Conference], November 2024<br>
+- <i>Text Mining Strategies for Transcribing and Tagging Oral History Collections</i> [Part of the Seven Minute Scholarship Presentations for the Loyola Marymount University Digital Commons Conference.] 2024,<br>
 [https://digitalcommons.lmu.edu/irdlconference/2024/](https://digitalcommons.lmu.edu/irdlconference/2024/)
 
-- <i>Humanizing Nature Research History with Static Web Technology</i> [Presentation for UCLA Library’s Captivity: Assembling Nature’s Histories detailing my experience creating interpretive materials for the Taylor Wilderness Research Station digital collection], 2024<br>
+- <i>Humanizing Nature Research History with Static Web Technology</i> [Presentation for UCLA Library’s Captivity: Assembling Nature’s Histories detailing my experience creating interpretive materials for the Taylor Wilderness Research Station digital collection.] 2024,<br>
 [https://aweymo-ui.github.io/humanizing](https://aweymo-ui.github.io/humanizing){:target="_blank" rel="noopener"}
 
-- <i>Collaborating with Community Archives to Increase Access to Collections</i> [Created for the 2024 Northwest Archivist conference, this presentation details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when engaging with community heritage spaces that don’t look or function like institutional archives], 2024<br>
+- <i>Collaborating with Community Archives to Increase Access to Collections</i> [Created for the 2024 Northwest Archivist conference, this presentation details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when engaging with community heritage spaces that don’t look or function like institutional archives.] 2024,<br>
 [https://aweymo-ui.github.io/community](https://aweymo-ui.github.io/community){:target="_blank" rel="noopener"}
 
-- <i>The Tideflats: Distance and Environmental Psychology</i> [Presentation for the Society of Architectural Historians 2024 conference on the history of land use in the industrial Tacoma, Washington Tideflats, exploring themes of urban development and environmental psychology], Group packet rejected, 2024<br>
-[https://aweymo-ui.github.io/tideflats](https://aweymo-ui.github.io/tideflats){:target="_blank" rel="noopener"}
-
-- <i>Mapping Language</i> [Community Archives Panel, City of Tacoma Historic Preservation Month], 2022
+- <i>Mapping Language</i> [Community Archives Panel, City of Tacoma Historic Preservation Month.] 2022.
 
 ## Scholarship Accomplishments
 
