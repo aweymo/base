@@ -11,13 +11,16 @@ permalink: /cv/
 ## Degrees:
 
 - __MHIS, University of Idaho__
-Moscow, Idaho, 2024, In Progress
+  - Moscow, Idaho
+    - 2024-Present
 
 - __MLIS, University of Washington__
-Seattle, Washington, 2022, Masters in Library and Information Science
+  - Seattle, Washington 
+    - 2022
 
 - __BA, Evergreen State College__
-Olympia, Washington, 2019, English
+  - Olympia, Washington 
+    - 2019
 
 
 ## Experience:
