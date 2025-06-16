@@ -224,43 +224,56 @@ Digital Scholarship, Web Development, Digital Preservation, Project Management, 
 
 **Peer Reviewed/Evaluated**
 
-- Andrew Weymouth, "Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections" [Under review with <i>Code4Lib</i>] Submitted Summer 2024<br>
-[https://aweymo-ui.github.io/distant_listening](https://aweymo-ui.github.io/distant_listening){:target="_blank" rel="noopener"}
+- Andrew Weymouth, “A Sense of Place: Visualizing Oral History”, [Forthcoming chapter of edited volume from the University of Toronto Press, under the UCLA Clark Memorial Library Series.]<br>
+[https://www.1718.ucla.edu/events/assembling-natures-histories/](https://www.1718.ucla.edu/events/assembling-natures-histories/){:target="_blank" rel="noopener"}
+
+- Andrew Weymouth, "Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections", <i>Code4Lib,</i> April 14, 2025.<br>
+[https://journal.code4lib.org/articles/18286](https://journal.code4lib.org/articles/18286){:target="_blank" rel="noopener"}
 
 - Andrew Weymouth, “Civilizing, Separating and Organizing: The Geographic Influence on Nineteenth Century
-Western Libraries”, [Opening chapter to] <i>Land in Libraries</i>, Litwin Publishing, 2023<br>
+Western Libraries”, [Opening chapter to] <i>Land in Libraries</i>, Litwin Publishing, 2023.<br>
 [https://litwinbooks.com/books/land-in-libraries](https://litwinbooks.com/books/land-in-libraries){:target="_blank" rel="noopener"}
 
 - Mary McDonald, Alyssa Puddicombe, Andrew Weymouth, Aubrey Williams, “Methods for Collecting Oral Histories
-Amidst a Crisis”, <i>The Serials Librarian</i> 2021<br>
+Amidst a Crisis”, <i>The Serials Librarian,</i> 2021.<br>
 [https://doi.org/10.1080/0361526X.2021.1985685](https://doi.org/10.1080/0361526X.2021.1985685){:target="_blank" rel="noopener"}
 
 **Software Development (generalized code developed and published for re-use)**
 
-- Andrew Weymouth, “Read_Image Optical Character Recognition Tool” [Iteration of an OCR tool developed by Luke Sheneman, Director of the IBEST Northwest Knowledge Network (NKN) at the University of Idaho. This extension was developed to help extract text from image files to enrich alt text metadata and make digital collections more accessible. Private repository, but link points to an introductory presentation for the Digital Collections Team], 2024<br> [https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e](https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e){:target="_blank" rel="noopener"}
+- Andrew Weymouth, “Edge_Detector” [Python tool implementing rembg[isnet] salient object detection models created for University of Idaho to facilitate web hosting special collections and archeological projects. Images are detected, extracted and batch processed into subsequent folders with transparent, white or black backgrounds.] 2025,<br>
+[https://github.com/Scholarly-Projects/edge_detector](https://github.com/Scholarly-Projects/edge_detector){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Trello_Export Tool” [Tool for exporting archived Trello cards, categorized by label to help track activity for liaison reports and annual reviews], 2024<br>
+- Andrew Weymouth, “Read_Image Optical Character Recognition Tool” [Iteration of an OCR tool developed by Luke Shaneman, Director of the IBEST Northwest Knowledge Network (NKN) at the University of Idaho. This extension was developed to help extract text from image files to enrich alt text metadata and make digital collections more accessible. Private repository, but link points to an introductory presentation for the Digital Collections Team.] 2024,
+<br> [https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e](https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e){:target="_blank" rel="noopener"}
+
+- Andrew Weymouth, “Trello_Export Tool” [Tool for exporting archived Trello cards, categorized by label to help track activity for liaison reports and annual reviews.] 2024,<br>
 [https://github.com/Scholarly-Projects/book_splitter](https://github.com/Scholarly-Projects/book_splitter){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Book_Splitter Tool” [Python tool for quickly splitting two-page scans to increase OCR accuracy], 2024<br>
+- Andrew Weymouth, “Book_Splitter Tool” [Python tool for quickly splitting two-page scans to increase OCR accuracy.] 2024,<br>
 [https://github.com/Scholarly-Projects/trello_export](https://github.com/Scholarly-Projects/trello_export){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Annotation_Extraction Tool” [Tool created to extract text from annotated PDFs and export it categorically and chronologically to markdown files for visualization and connection-building within Obsidian.], 2024<br> [https://github.com/Scholarly-Projects/annotation_extraction](https://github.com/Scholarly-Projects/annotation_extraction){:target="_blank" rel="noopener"}
+- Andrew Weymouth, “Annotation_Extraction Tool” [Tool created to extract text from annotated PDFs and export it categorically and chronologically to markdown files for visualization and connection-building within Obsidian.] 2024,<br> 
+[https://github.com/Scholarly-Projects/annotation_extraction](https://github.com/Scholarly-Projects/annotation_extraction){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Transcript_Mining Tool” [Developed to increase the efficiency and accuracy of the University of Idaho Digital Scholarship and Open Strategies department's Oral History as Data tagging process. Users can iterate by dropping new transcription sets into the CSV folder and running the Python script.], 2024<br>
+- Andrew Weymouth, “Transcript_Mining Tool” [Developed to increase the efficiency and accuracy of the University of Idaho Digital Scholarship and Open Strategies department's Oral History as Data tagging process. Users can iterate by dropping new transcription sets into the CSV folder and running the Python script.] 2024,<br>
 [https://github.com/Scholarly-Projects/transcript_mining_base](https://github.com/Scholarly-Projects/transcript_mining_base){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Web Scraper” [Python tool to extract contact information from the web to expedite liaison work], 2024<br>
+- Andrew Weymouth, “Web Scraper” [Python tool to extract contact information from the web to expedite liaison work.] 2024.<br>
 [https://github.com/Scholarly-Projects/web_scraper](https://github.com/Scholarly-Projects/web_scraper){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Image Extraction Tool” [Python tool for extracting multiple images within single images and assigning archival naming conventions for overhead scans of scrapbook material], 2024<br>
+- Andrew Weymouth, “Image Extraction Tool” [Python tool for extracting multiple images within single images and assigning archival naming conventions for overhead scans of scrapbook material.] 2024,<br>
 [https://github.com/Scholarly-Projects/image_extraction](https://github.com/Scholarly-Projects/image_extraction){:target="_blank" rel="noopener"}
 
  **Grants and Contracts Awarded:**
 
-- PI: Devin Becker, Traci Craig, Evan Williamson, Heather Taff, Sarah Campbell, Chelsea Franklin, Mindy Flick, Erica Frazier, Kate Powers-Kusio, “Digital Dramaturgy” National Endowment for the Humanities - Digital Humanities Advancement Grant, Summer 2024, pending approval [named co-investigator]
+ _Other_
 
-**Other**
+- CLASS-AFS Travel Grant [Research trip to Spokane’s Northwest Museum of Arts and Culture to digitize materials for history thesis on the progression of early commercial imagery in the Inland Empire.] Spring 2025.
+
+- PI: Devin Becker, Traci Craig, Evan Williamson, Heather Taff, Sarah Campbell, Chelsea Franklin, Mindy Flick, Erica Frazier, Kate Powers-Kusio, “Digital Dramaturgy” National Endowment for the Humanities - Digital Humanities Advancement Grant, Awarded and postponed indefinitely Spring 2025 [named co-investigator]
+
+
+**Other Writing**
 
 - Andrew Weymouth, [“North Idaho Cultural Heritage Institutions Survey,”](https://docs.google.com/document/d/1_uImcsAv_V5PugV02INRrmIDBUbCGTk1ic7e0VXFzJo/edit?usp=sharing){:target="_blank" rel="noopener"} 2024
 
