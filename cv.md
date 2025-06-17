@@ -199,7 +199,7 @@ Digital Scholarship, Web Development, Digital Preservation, Project Management, 
 
 **Invited Lectures**
 
-- *Preserving and Enriching Podcast Projects: A Workflow for Small Teams* [Poster presentation for the 2025 Northwest Archivist Conference outlining process developed over the course of creating the Context Podcast Digital Collection.] 2024,<br>
+- *Preserving and Enriching Podcast Projects: A Workflow for Small Teams* [Poster presentation for the 2025 Northwest Archivist Conference outlining process developed over the course of creating the Context Podcast Digital Collection.] 2025,<br>
 [ https://www.youtube.com/watch?v=Um2QX9Y2zj8]( https://www.youtube.com/watch?v=Um2QX9Y2zj8){:target="_blank" rel="noopener"}
 
 - *Aerial Time Lapse Tools Survey* [Survey of five platforms that researchers can use to generate aerial time-lapse visualizations, highlighting their unique strengths, weaknesses, and the technical skills required for each. Created for the 25th annual University of Idaho *GIS Day* Short Talk series.] 2024,<br>
@@ -243,8 +243,17 @@ Amidst a Crisis”, <i>The Serials Librarian,</i> 2021.<br>
 - Andrew Weymouth, “Edge_Detector” [Python tool implementing rembg[isnet] salient object detection models created for University of Idaho to facilitate web hosting special collections and archeological projects. Images are detected, extracted and batch processed into subsequent folders with transparent, white or black backgrounds.] 2025,<br>
 [https://github.com/Scholarly-Projects/edge_detector](https://github.com/Scholarly-Projects/edge_detector){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Read_Image Optical Character Recognition Tool” [Iteration of an OCR tool developed by Luke Shaneman, Director of the IBEST Northwest Knowledge Network (NKN) at the University of Idaho. This extension was developed to help extract text from image files to enrich alt text metadata and make digital collections more accessible. Private repository, but link points to an introductory presentation for the Digital Collections Team.] 2024,
-<br> [https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e](https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e){:target="_blank" rel="noopener"}
+- Andrew Weymouth, “PII_Scanner” [Python tool which vets batches of PDF file OCR for sensitive information such as social security numbers, addresses and phone numbers using regular expressions and outputting CSV files with corresponding filenames.] 2025,<br>
+[https://github.com/Scholarly-Projects/pii_scanner](https://github.com/Scholarly-Projects/pii_scanner){:target="_blank" rel="noopener"}
+
+- Andrew Weymouth, "Assess_Differences_CSV" [Developed for long-term static web projects with large datasets, this tool offers a more readable and targeted alternative to GitHub’s diff view by comparing changes between versions of metadata files and generating a minimal CSV of only pertinent lines and changes.] 2025,<br>
+[https://github.com/Scholarly-Projects/assess_differences_csv](https://github.com/Scholarly-Projects/assess_differences_csv){:target="_blank" rel="noopener"}
+
+- Andrew Weymouth, "RSS Scraper" [Python tool developed to collect and format metadata into CSVs after filtering out programmatic language and import both audio and video files included in the feed. Media files are converted to MP4 and MP3 and formatted CSVs are generated with the scraped RSS metadata and corresponding sequential file names.] 2024,<br>
+[https://github.com/Scholarly-Projects/rss_scraper](https://github.com/Scholarly-Projects/rss_scraper){:target="_blank" rel="noopener"}
+
+- Andrew Weymouth, “Read_Image Optical Character Recognition Tool” [Iteration of an OCR tool developed by Luke Sheneman, Director of the IBEST Northwest Knowledge Network (NKN) at the University of Idaho to help extract text from image files to enrich alt text metadata.] 2024,<br> 
+[https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e](https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e){:target="_blank" rel="noopener"}
 
 - Andrew Weymouth, “Trello_Export Tool” [Tool for exporting archived Trello cards, categorized by label to help track activity for liaison reports and annual reviews.] 2024,<br>
 [https://github.com/Scholarly-Projects/book_splitter](https://github.com/Scholarly-Projects/book_splitter){:target="_blank" rel="noopener"}
@@ -270,20 +279,24 @@ Amidst a Crisis”, <i>The Serials Librarian,</i> 2021.<br>
 
 - CLASS-AFS Travel Grant [Research trip to Spokane’s Northwest Museum of Arts and Culture to digitize materials for history thesis on the progression of early commercial imagery in the Inland Empire.] Spring 2025.
 
-- PI: Devin Becker, Traci Craig, Evan Williamson, Heather Taff, Sarah Campbell, Chelsea Franklin, Mindy Flick, Erica Frazier, Kate Powers-Kusio, “Digital Dramaturgy” National Endowment for the Humanities - Digital Humanities Advancement Grant, Awarded and postponed indefinitely Spring 2025 [named co-investigator]
+- PI: Devin Becker, Traci Craig, Evan Williamson, Heather Taff, Sarah Campbell, Chelsea Franklin, Mindy Flick, Erica Frazier, Kate Powers-Kusio, “Digital Dramaturgy” National Endowment for the Humanities - Digital Humanities Advancement Grant, Awarded and postponed indefinitely Spring 2025 [named co-investigator].
 
 
 **Other Writing**
 
-- Andrew Weymouth, [“North Idaho Cultural Heritage Institutions Survey,”](https://docs.google.com/document/d/1_uImcsAv_V5PugV02INRrmIDBUbCGTk1ic7e0VXFzJo/edit?usp=sharing){:target="_blank" rel="noopener"} 2024
+- Andrew Weymouth, "Assembling the Taylor Wilderness Research Station Archive", <i>University of Idaho Harvester Post</i> (Spring 2025) <br>
+[https://harvester.lib.uidaho.edu/posts/2025/04/03/taylor.html](https://harvester.lib.uidaho.edu/posts/2025/04/03/taylor.html){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Through a Filipino Lens: Washington State Cannery Workers in Alaska,” Maritime Washington (October 2023)<br>
+- Andrew Weymouth, “North Idaho Cultural Heritage Institutions Survey", <i>University of Idaho Harvester Post</i> (Summer 2024) <br>
+[https://harvester.lib.uidaho.edu/posts/2024/06/23/survey.html](https://harvester.lib.uidaho.edu/posts/2024/06/23/survey.html){:target="_blank" rel="noopener"}
+
+- Andrew Weymouth, “Through a Filipino Lens: Washington State Cannery Workers in Alaska”, <i>Maritime Washington</i> (October 2023)<br>
 [https://maritimewa.org/story/through-a-filipino-lens-washington-state-cannery-workers-in-alaska/](https://maritimewa.org/story/through-a-filipino-lens-washington-state-cannery-workers-in-alaska/){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Tacoma’s Northern Pacific Hospital and the History of Railway Insurance,” HistoryLink (June 2023)<br>
+- Andrew Weymouth, “Tacoma’s Northern Pacific Hospital and the History of Railway Insurance”, <i>HistoryLink</i> (June 2023)<br>
 [https://historylink.org/File/22732](https://historylink.org/File/22732){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “Capturing the Oral History of a Historic African American Community in the Pacific Northwest,” Archival Outlook (January 2021)<br>
+- Andrew Weymouth, “Capturing the Oral History of a Historic African American Community in the Pacific Northwest”, <i>Archival Outlook</i> (January 2021)<br>
 [https://mydigitalpublication.com/publication/?m=30305&i=690860&p=10](https://mydigitalpublication.com/publication/?m=30305&i=690860&p=10){:target="_blank" rel="noopener"}
 
 **Awards and Internships**
