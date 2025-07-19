@@ -47,7 +47,11 @@ Previously, he has created digital scholarship projects for the University of Wa
 
 <ul class="triangle-list">
     <li>
-        <a href=" https://www.youtube.com/watch?v=Um2QX9Y2zj8" target="_blank" rel="noopener noreferrer">Preserving and Enriching Podcast Projects: A Workflow for Small Teams</a>
+        <a href="https://aweymo-ui.github.io/geo_viz_oh/" target="_blank" rel="noopener noreferrer">Using Geographic Visualizations to Enrich Oral History Recordings</a>
+        <span class="description">Presentation for the 2025 Western Association of Map Libraries Conference. <i>Fall 2025</i>. </span>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/watch?v=Um2QX9Y2zj8" target="_blank" rel="noopener noreferrer">Preserving and Enriching Podcast Projects: A Workflow for Small Teams</a>
         <span class="description">Poster presentation for the 2025 Northwest Archivist Conferences outlining the process developed during the course of creating the <a href="https://www.lib.uidaho.edu/digital/context/" style="font-weight: normal;font-size: inherit;" target="_blank" rel="noopener noreferrer">Context Podcast Digital Collection.</a> <i>Spring 2025</i>. </span>
     </li>
     <li>
