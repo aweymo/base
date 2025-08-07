@@ -47,6 +47,10 @@ Previously, he has created digital scholarship projects for the University of Wa
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/vra_2025/" target="_blank" rel="noopener noreferrer">Image Extraction for Overhead Scans and Archeological Photographs</a>
+        <span class="description">Presentation for the 2025 Visual Resources Association Conference.<i> Fall 2025</i>. </span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/ges_geo_vis/" target="_blank" rel="noopener noreferrer">Creating Geographic Animation Using Google Earth Studio</a>
         <span class="description">Presentation for the 2025 University of Idaho Library Tech Talk Series.<i> Fall 2025</i>. </span>
     </li>
