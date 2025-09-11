@@ -47,6 +47,10 @@ Previously, he has created digital scholarship projects for the University of Wa
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/tideflats" target="_blank" rel="noopener noreferrer">The Tideflats: Distance and Environmental Psychology</a>
+        <span class="description">Paper for <i>Resist, Reclaim, Restore: Preserving an Inclusive Heritage</i> Society of Architectural Historians 2025 mini-conference. The paper examines the history of land use in the Tideflats, an industrial area in Tacoma, Washington. <i>Fall, 2025</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/vra_2025/" target="_blank" rel="noopener noreferrer">Image Extraction for Overhead Scans and Archeological Photographs</a>
         <span class="description">Presentation for the 2025 Visual Resources Association Conference.<i> Fall 2025</i>. </span>
     </li>
@@ -125,10 +129,6 @@ Previously, he has created digital scholarship projects for the University of Wa
     <li>
         <a href="https://aweymo-ui.github.io/community" target="_blank" rel="noopener noreferrer">Collaborating with Community Archives to Increase Access to Collections</a>
         <span class="description">Created for the 2024 Northwest Archivist conference, this presentation details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when engaging with community heritage spaces that don't look or function like institutional archives, <i>Spring, 2024</i>.</span>
-    </li>
-        <li>
-        <a href="https://aweymo-ui.github.io/tideflats" target="_blank" rel="noopener noreferrer">The Tideflats: Distance and Environmental Psychology</a>
-        <span class="description">Presentation for the Society of Architectural Historians 2024 conference on the history of land use in the industrial Tacoma, Washington Tideflats, exploring themes of urban development and environmental psychology, <i>Fall, 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/ds_hr" target="_blank" rel="noopener noreferrer">Using Digital Scholarship to Conduct and Present Historical Research</a>
