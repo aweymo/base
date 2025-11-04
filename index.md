@@ -47,6 +47,10 @@ Previously, he has created digital scholarship projects for the University of Wa
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/remediate_pdfs/" target="_blank" rel="noopener noreferrer">Adobe PDF Accessibility Remediation Workshop</a>
+        <span class="description">Open educational resource for U of I staff, faculty and students for manually remediating PDF documents using Adobe Acrobat. <i>Fall, 2025</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/tideflats" target="_blank" rel="noopener noreferrer">The Tideflats: Distance and Environmental Psychology</a>
         <span class="description">Paper for <i>Resist, Reclaim, Restore: Preserving an Inclusive Heritage</i> Society of Architectural Historians 2025 mini-conference. The paper examines the history of land use in the Tideflats, an industrial area in Tacoma, Washington. <i>Fall, 2025</i>.</span>
     </li>
