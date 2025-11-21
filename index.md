@@ -32,8 +32,6 @@ permalink: /
 
 Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. In this position, he focuses on using static web technology to curate the institution’s special collections and partners with faculty and students to create custom fellowship projects. He also develops digital tools and workflows to enhance transcription, tagging, and image processing, making the university’s audio, text, and visual resources more discoverable for researchers. 
 
-Previously, he has created digital scholarship projects for the University of Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases and interactive network visualizations. Recent research includes using material history methodologies to reexamine early commercial imagery, as well as using field recording and embodiment techniques to make new connections in environmental history. His recent publications explore the formation of libraries in the American Far West, the history of Filipino Alaskero cannery workers and implementing new digital tools and workflows to text mine and tag oral history collections. 
-
 <div class="social-links">
   <a href="https://github.com/aweymo" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
   <a href="https://www.linkedin.com/in/andrew-weymouth/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
@@ -250,8 +248,20 @@ _All tools except Read_Image developed independently_
 
 <ul class="triangle-list">
     <li>
+        <a href="https://github.com/Scholarly-Projects/timestamp_generator_site" target="_blank" rel="noopener noreferrer">Timestamp Generator</a>
+        <span class="description">This site was created so student workers can easily copy time codes to enrich oral history transcripts. Students can access the page, drop their audio or visual files in and every time the user pauses the media, that time stamp is generated in a box below, which can be copied to their clipboard by select a button to the right. Created for enhancing legacy transcripts from the <i>Rural Women's History Project</i>, so they can be utilized in the CDIL's <i>Oral History as Data</i> platform. Andrew Weymouth, <i>Fall, 2025.</i></span>
+    </li>
+    <li>
+        <a href="https://github.com/Scholarly-Projects/convert_legacy_transcript" target="_blank" rel="noopener noreferrer">Convert_Legacy_Transcript</a>
+        <span class="description">Python tool created to identify speaker names, transcript and dialogue of legacy printed transcripts and convert them into individual rows of within a CSV file format. Created to utilize work done during the 70s and 80s for the <i>Rural Women's History Project</i> oral history initiative, to ultimately migrate them to U of I's <i>Oral History as Data</i> platform. Andrew Weymouth, <i>Fall, 2025.</i></span>
+    </li>
+    <li>
+        <a href="https://github.com/Scholarly-Projects/ocr_scanner" target="_blank" rel="noopener noreferrer">OCR_Scanner</a>
+        <span class="description">Python tool that scans specific folders and identifies all of the PDF files lacking a layer of optical character recognition. Identified PDF files are generated in a CSV file alongside their parent folder. Created to have U of I digital collections meet accessibility standards for patrons using screen readers. Andrew Weymouth, <i>Fall, 2025.</i></span>
+    </li>
+    <li>
         <a href="https://github.com/Scholarly-Projects/illustration_extraction" target="_blank" rel="noopener noreferrer">Illustration_Extraction</a>
-        <span class="description">Python tool utilizing rembg to identify and extract musical notation from Huo Becker's Mechanik und Aesthetik des Violoncellspiels (1922) for use in Miranda Wilson's CDIL project, School of Cello Music</a>. Andrew Weymouth, <i>Fall, 2025.</i></span>
+        <span class="description">Python tool utilizing the rembg computer vision model to identify and extract musical notation from Huo Becker's <i>Mechanik und Aesthetik des Violoncellspiels</i> (1922) for use in Miranda Wilson's CDIL project, <i>School of Cello Music</i>. Andrew Weymouth, <i>Fall, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/edge_detector" target="_blank" rel="noopener noreferrer">Edge_Detector</a>
