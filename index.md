@@ -250,6 +250,10 @@ _All tools except Read_Image developed independently_
 
 <ul class="triangle-list">
     <li>
+        <a href="https://github.com/Scholarly-Projects/illustration_extraction" target="_blank" rel="noopener noreferrer">Illustration_Extraction</a>
+        <span class="description">Python tool utilizing rembg to identify and extract musical notation from Huo Becker's Mechanik und Aesthetik des Violoncellspiels (1922) for use in Miranda Wilson's CDIL project, School of Cello Music</a>. Andrew Weymouth, <i>Fall, 2025.</i></span>
+    </li>
+    <li>
         <a href="https://github.com/Scholarly-Projects/edge_detector" target="_blank" rel="noopener noreferrer">Edge_Detector</a>
         <span class="description">Python tool implementing rembg[isnet] salient object detection models created for University of Idaho to facilitate web hosting special collections and archeological projects. Images are detected, extracted and batch processed into subsequent folders with transparent, white or black backgrounds. <i>Summer, 2025.</i></span>
     </li>
