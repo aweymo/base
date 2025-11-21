@@ -248,7 +248,7 @@ _All tools except Read_Image developed independently_
 
 <ul class="triangle-list">
     <li>
-        <a href="https://github.com/Scholarly-Projects/timestamp_generator_site" target="_blank" rel="noopener noreferrer">Timestamp Generator</a>
+        <a href="https://scholarly-projects.github.io/timestamp_generator_site/" target="_blank" rel="noopener noreferrer">Timestamp Generator</a>
         <span class="description">This site was created so student workers can easily copy time codes to enrich oral history transcripts. Students can access the page, drop their audio or visual files in and every time the user pauses the media, that time stamp is generated in a box below, which can be copied to their clipboard by select a button to the right. Created for enhancing legacy transcripts from the <i>Rural Women's History Project</i>, so they can be utilized in the CDIL's <i>Oral History as Data</i> platform. Andrew Weymouth, <i>Fall, 2025.</i></span>
     </li>
     <li>
