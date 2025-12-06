@@ -30,7 +30,7 @@ permalink: /
     <p class="symbol">&#10042;</p>
 </div>
 
-Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. In this position, he focuses on using static web technology to curate the institution’s special collections and partners with faculty and students to create custom fellowship projects. He also develops digital tools and workflows to enhance transcription, tagging, and image processing, making the university’s audio, text, and visual resources more discoverable for researchers. 
+Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. He focuses on using static web technology to curate the institution’s special collections and partners with faculty and students to create custom fellowship projects. He also develops digital tools and workflows to enhance transcription, tagging, and image processing, making the university’s audio, text, and visual resources more discoverable for researchers. 
 
 <div class="social-links">
   <a href="https://github.com/aweymo" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
@@ -146,6 +146,11 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. In 
 
 <ul class="triangle-list">
     <li>
+        <a href="https://journals.sagepub.com/pb-assets/PDF/CJX%20GE%202025%20CFP%20Ethical%20AI%20FINAL-1753940877.pdf" target="_blank" rel="noopener noreferrer">Transparent Practices: OCR and AI in the Archives</a>
+        <span class="description">Accepted article written with U of I Digital Archivist Rebecca Hastings, examining Optical Character Recognition through the lens of archival ethics as outlined in the Society of American Archivists Core Values Statement and Code of Ethics, drawing parallels between early National Archives and Records Administration assessments of OCR and current debates surrounding artificial intelligence, (forthcoming).
+</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/humanizing" target="_blank" rel="noopener noreferrer">A Sense of Place: Visualizing Oral History</a>
         <span class="description">Chapter of an edited volume from the University of Toronto Press, under the UCLA Clark Memorial Library Series, (forthcoming).</span>
     </li>
@@ -166,6 +171,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. In 
 ## Other Writing
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://harvester.lib.uidaho.edu/posts/2025/09/06/priest-river.html" target="_blank" rel="noopener noreferrer">Priest River’s Community Archive</a>
+        <span class="description">Post describing the process of creating the Marylyn Cork Priest River Historical Collection, a community informed repository exploring the timber history and economic recovery of the North Idaho region.<i> University of Idaho Special Collections Idaho Harvester</i>, Fall, 2025.</span>
+    </li>
     <li>
         <a href="https://harvester.lib.uidaho.edu/posts/2025/04/03/taylor.html" target="_blank" rel="noopener noreferrer">Assembling the Taylor Wilderness Research Station Archive</a>
         <span class="description">Article describing the process of merging preexisting digital collections, creating bibliometric visualizations as well as oral history visualizations and developing Python tools to audit private internal documents in the Taylor Wilderness Research Station Archive.<i> University of Idaho Special Collections Idaho Harvester</i>, Spring, 2025.</span>
@@ -203,6 +212,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. In 
 ## Exhibits
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://www.lib.uidaho.edu/digital/hohp_OHD_2025" target="_blank" rel="noopener noreferrer">Hispanic Oral History Project</a>
+        <span class="description">Reworking bilingual transcripts and converting old template to OHD. <i>Fall, 2025.</i></span>
+    </li>
     <li>
         <a href="https://www.lib.uidaho.edu/digital/context/" target="_blank" rel="noopener noreferrer">Context Podcast Digital Collection</a>
         <span class="description">Collaboration with the Idaho Humanities Council to preserve, transcribe and host their pandemic-era podcast, representing the largest oral history collection so far and improved workflows for small teams. <i>Spring, 2025.</i></span>
@@ -332,6 +345,10 @@ _All tools except Read_Image developed independently_
 ## Student Fellowship and Consultation Projects
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://github.com/Scholarly-Projects/review_miner" target="_blank" rel="noopener noreferrer">Review_Miner</a>
+        <span class="description">Text mining and sentiment analysis tool created for an undergraduate senior research reference request, designed to analyze reviews of tourist destinations by year, rating, trip type and underlying sentiment of text and title <i>University of Idaho, Fall, 2025</i>.</span>
+    </li>
     <li>
         <a href="https://github.com/aweymo-ui/echoes-past-teacher" target="_blank" rel="noopener noreferrer">Echo Washington Public History Curriculum Site</a>
         <span class="description">Custom template for graduate archaeology student Megan Caves. <i>University of Idaho, Spring, 2025</i>.</span>
