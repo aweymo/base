@@ -285,6 +285,10 @@ _All tools except Read_Image developed independently_
         <span class="description">Python tool implementing rembg[isnet] salient object detection models created for University of Idaho to facilitate web hosting special collections and archeological projects. Images are detected, extracted and batch processed into subsequent folders with transparent, white or black backgrounds. <i>Summer, 2025.</i></span>
     </li>
     <li>
+        <a href="https://github.com/Scholarly-Projects/abstract_scraper" target="_blank" rel="noopener noreferrer">Abstract_Scraper</a>
+        <span class="description">Python tool for analyzing large JSON datasets, scraping missing scholarly information and generating complete JSON files to help enrich data for U of I’s VERSO institutional repository. <i>Summer, 2025.</i></span>
+    </li>
+    <li>
         <a href="https://github.com/Scholarly-Projects/pii_scanner" target="_blank" rel="noopener noreferrer">PII_Scanner</a>
         <span class="description">Python tool which vets batches of PDF file OCR for sensitive information such as social security numbers, addresses and phone numbers using regular expressions and outputting CSV files with corresponding filenames. <i>Spring, 2025.</i></span>
     </li>
