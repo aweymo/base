@@ -98,39 +98,39 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. He 
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/aerial_timelapse/" target="_blank" rel="noopener noreferrer">Aerial Time Lapse Tools Survey</a>
-        <span class="description">Survey of five platforms that researchers can use to generate aerial time lapse visualizations, highlighting their unique strengths, weaknesses and the technical skills required for each. Created for the 25th annual University of Idaho GIS Day Short Talk series, <i>Fall, 2024</i>.</span>
+        <span class="description">Survey of five platforms that researchers can use to generate aerial time lapse visualizations, highlighting their unique strengths, weaknesses and the technical skills required for each. Created for the 25th annual University of Idaho GIS Day Short Talk series. <i>Fall, 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/python_obsidian" target="_blank" rel="noopener noreferrer">Using Python Tools and Obsidian to Connect and Visualize Research</a>
-        <span class="description">Presentation on using custom Python tools to correct optical character recognition layers and extract annotations from digitized text and contextualizing these notes with Obsidian detailed tagging methods to enrich scholarly research, <i>Fall, 2024</i>.</span>
+        <span class="description">Presentation on using custom Python tools to correct optical character recognition layers and extract annotations from digitized text and contextualizing these notes with Obsidian detailed tagging methods to enrich scholarly research. <i>Fall, 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/distant_seven" target="_blank" rel="noopener noreferrer">Distant Listening, Seven Minute Scholarship Presentation</a>
-        <span class="description">Presentation on text mining oral history collections created for the Seven Minute Scholarship segment of the 2024 Loyola Marymount University Digital Commons conference, <i>Fall, 2024</i>.</span>
+        <span class="description">Presentation on text mining oral history collections created for the Seven Minute Scholarship segment of the 2024 Loyola Marymount University Digital Commons conference. <i>Fall, 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/distant_tech_talk" target="_blank" rel="noopener noreferrer">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
-        <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Created for the 2024 U of I <i>Tech Talk</i> series, <i>Fall, 2024</i>.</span>
+        <span class="description">Workshop on using Python and App Script to create subject tags across complete oral history collections and empower student workers to run, modify and expand these tags during the copyediting process. Created for the 2024 U of I <i>Tech Talk</i> series. <i>Fall, 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/five_ways" target="_blank" rel="noopener noreferrer">Presenting Research in Five Ways to Increase Understanding and Uncover Connections</a>
-        <span class="description">Workshop for history undergraduates on framing research five different ways using various digital scholarship approaches. Created for Alyssa Kreikemeier's HIST 320 course, <i>Fall, 2024</i>.</span>
+        <span class="description">Workshop for history undergraduates on framing research five different ways using various digital scholarship approaches. Created for Alyssa Kreikemeier's HIST 320 course. <i>Fall, 2024</i>.</span>
     </li>
     <li>
         <a href="https://www.youtube.com/watch?v=pPaxfRajpcU" target="_blank" rel="noopener noreferrer">Analytics Workshop</a>
-        <span class="description">Introductory workshop for U of I library faculty about how GA4 is set up across the library site, getting access to analytics, reading and refining the series of Looker Studio templates I created for the many library teams and the limitations and misconceptions of what this data can tell us. Co-created with Digital Infrastructure Librarian Evan Williamson, <i>Fall, 2024</i>.</span>
+        <span class="description">Introductory workshop for U of I library faculty about how GA4 is set up across the library site, getting access to analytics, reading and refining the series of Looker Studio templates I created for the many library teams and the limitations and misconceptions of what this data can tell us. Co-created with Digital Infrastructure Librarian Evan Williamson. <i>Fall, 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/geolocation" target="_blank" rel="noopener noreferrer">Digital Geolocation Tools for Archival Research</a>
-        <span class="description">Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. The presentation covers text analysis, landmark identification and creating aerial time lapse videos. Created for the U of I Information Landscape series, <i>Fall, 2024</i>.</span>
+        <span class="description">Workshop teaching geolocation tools and methodologies to identify archival photographs lacking metadata to enrich resources. The presentation covers text analysis, landmark identification and creating aerial time lapse videos. Created for the U of I Information Landscape series. <i>Fall, 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/humanizing" target="_blank" rel="noopener noreferrer">Humanizing Nature Research History with Static Web Technology</a>
-        <span class="description">Presentation for UCLA Library's <i>Captivity: Assembling Nature’s Histories</i> detailing my experience creating interpretive materials for the Taylor Wilderness Research Station digital collection, <i>Spring, 2024</i>.</span>
+        <span class="description">Presentation for UCLA Library's <i>Captivity: Assembling Nature’s Histories</i> detailing my experience creating interpretive materials for the Taylor Wilderness Research Station digital collection. <i>Spring, 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/community" target="_blank" rel="noopener noreferrer">Collaborating with Community Archives to Increase Access to Collections</a>
-        <span class="description">Created for the 2024 Northwest Archivist conference, this presentation details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when engaging with community heritage spaces that don't look or function like institutional archives, <i>Spring, 2024</i>.</span>
+        <span class="description">Created for the 2024 Northwest Archivist conference, this presentation details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when engaging with community heritage spaces that don't look or function like institutional archives. <i>Spring, 2024</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/ds_hr" target="_blank" rel="noopener noreferrer">Using Digital Scholarship to Conduct and Present Historical Research</a>
@@ -147,12 +147,12 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. He 
 <ul class="triangle-list">
     <li>
         <a href="https://journals.sagepub.com/pb-assets/PDF/CJX%20GE%202025%20CFP%20Ethical%20AI%20FINAL-1753940877.pdf" target="_blank" rel="noopener noreferrer">Transparent Practices: OCR and AI in the Archives</a>
-        <span class="description">Accepted article written with U of I Digital Archivist Rebecca Hastings, examining Optical Character Recognition through the lens of archival ethics as outlined in the Society of American Archivists Core Values Statement and Code of Ethics, drawing parallels between early National Archives and Records Administration assessments of OCR and current debates surrounding artificial intelligence, (forthcoming).
+        <span class="description">Accepted article written with U of I Digital Archivist Rebecca Hastings, examining Optical Character Recognition through the lens of archival ethics as outlined in the Society of American Archivists Core Values Statement and Code of Ethics, drawing parallels between early National Archives and Records Administration assessments of OCR and current debates surrounding artificial intelligence. (Forthcoming).
 </span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/humanizing" target="_blank" rel="noopener noreferrer">A Sense of Place: Visualizing Oral History</a>
-        <span class="description">Chapter of an edited volume from the University of Toronto Press, under the UCLA Clark Memorial Library Series, (forthcoming).</span>
+        <span class="description">Chapter of an edited volume from the University of Toronto Press, under the UCLA Clark Memorial Library Series. (Forthcoming).</span>
     </li>
     <li>
         <a href="https://journal.code4lib.org/articles/18286" target="_blank" rel="noopener noreferrer">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
@@ -160,11 +160,11 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. He 
     </li>
     <li>
         <a href="https://litwinbooks.com/books/land-in-libraries" target="_blank" rel="noopener noreferrer">Civilizing, Separating and Organizing: The Geographic Influence on Nineteenth Century Western Libraries</a>
-        <span class="description">Opening chapter to <i>Land in Libraries</i> Litwin Publishing. <i>Fall, 2023</i></span>
+        <span class="description">Opening chapter to <i>Land in Libraries</i> Litwin Publishing, <i>Fall, 2023</i></span>
     </li>
     <li>
         <a href="https://www.tandfonline.com/doi/full/10.1080/0361526X.2021.1985685?journalCode=wser20" target="_blank" rel="noopener noreferrer">Methods for Collecting Oral Histories Amidst a Crisis</a>
-        <span class="description">Qualitative research project set out to understand the effectiveness of ‘historical distance’ in conducting oral history programs during times of crisis. <i>Winter, 2021</i></span>
+        <span class="description">Qualitative research project set out to understand the effectiveness of ‘historical distance’ in conducting oral history programs during times of crisis, <i>Winter, 2021</i></span>
     </li>
 </ul>
 
@@ -217,6 +217,14 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. He 
         <span class="description">Reworking bilingual transcripts and converting old template to OHD. <i>Fall, 2025.</i></span>
     </li>
     <li>
+        <a href="https://www.lib.uidaho.edu/digital/wells" target="_blank" rel="noopener noreferrer">Dr. Richard B. Wells Collection</a>
+        <span class="description">First digital collection processed with in-house “Opticolumn” OCR tool. <i>Fall, 2025.</i></span>
+    </li>
+    <li>
+        <a href="https://www.lib.uidaho.edu/digital/priestriver" target="_blank" rel="noopener noreferrer">Marylyn Cork Priest River Historical Collection</a>
+        <span class="description">Collaboration with Christa Shanaman of the Priest River Library and the Idaho Humanities Council to host a digital collection that has been developed over 40 years, with metadata input from community members across North Idaho. <i>Fall, 2025.</i></span>
+    </li>
+    <li>
         <a href="https://www.lib.uidaho.edu/digital/context/" target="_blank" rel="noopener noreferrer">Context Podcast Digital Collection</a>
         <span class="description">Collaboration with the Idaho Humanities Council to preserve, transcribe and host their pandemic-era podcast, representing the largest oral history collection so far and improved workflows for small teams. <i>Spring, 2025.</i></span>
     </li>
@@ -262,23 +270,23 @@ _All tools except Read_Image developed independently_
 <ul class="triangle-list">
     <li>
         <a href="https://github.com/Scholarly-Projects/opticolumn" target="_blank" rel="noopener noreferrer">Opticolumn</a>
-        <span class="description">OCR tool developed by Andrew Weymouth, Digital Initiatives Librarian for University of Idaho, over summer and fall of 2025. The tool implements the TrOCR text recognition model and the Kraken BLLA page segmentation model to improve the accuracy of handwritten and cursive archival documents and add digital preservation metadata to processed materials. The tool was developed for overhauling the Center for Digital Inquiry and Learning's digital collection PDF files, to make the collection more discoverable and accessible. The development of the tool is written about in greater detail in <i>Transparent Practices: OCR and AI in the Archives</i>, by Rebecca Hastings and Andrew Weymouth. Accepted by <i>Collections: A Journal for Archives and Museum Professions</i>, November 2025. Andrew Weymouth, <i>Fall, 2025.</i></span>
+        <span class="description">OCR tool developed by Digital Initiatives Librarian for University of Idaho, over summer and fall of 2025. The tool implements the TrOCR text recognition model and the Kraken BLLA page segmentation model to improve the accuracy of handwritten and cursive archival documents and add digital preservation metadata to processed materials. The tool was developed for overhauling the Center for Digital Inquiry and Learning's digital collection PDF files, to make the collection more discoverable and accessible. The development of the tool is written about in greater detail in <i>Transparent Practices: OCR and AI in the Archives</i>, by Rebecca Hastings and Andrew Weymouth. Accepted by <i>Collections: A Journal for Archives and Museum Professions</i>, November 2025. <i>Fall, 2025.</i></span>
     </li>
     <li>
         <a href="https://scholarly-projects.github.io/timestamp_generator_site/" target="_blank" rel="noopener noreferrer">Timestamp Generator</a>
-        <span class="description">This site was created so student workers can easily copy time codes to enrich oral history transcripts. Students can access the page, drop their audio or visual files in and every time the user pauses the media, that time stamp is generated in a box below, which can be copied to their clipboard by select a button to the right. Created for enhancing legacy transcripts from the <i>Rural Women's History Project</i>, so they can be utilized in the CDIL's <i>Oral History as Data</i> platform. Andrew Weymouth, <i>Fall, 2025.</i></span>
+        <span class="description">This site was created so student workers can easily copy time codes to enrich oral history transcripts. Students can access the page, drop their audio or visual files in and every time the user pauses the media, that time stamp is generated in a box below, which can be copied to their clipboard by select a button to the right. Created for enhancing legacy transcripts from the <i>Rural Women's History Project</i>, so they can be utilized in the CDIL's <i>Oral History as Data</i> platform. <i>Fall, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/convert_legacy_transcript" target="_blank" rel="noopener noreferrer">Convert_Legacy_Transcript</a>
-        <span class="description">Python tool created to identify speaker names, transcript and dialogue of legacy printed transcripts and convert them into individual rows of within a CSV file format. Created to utilize work done during the 70s and 80s for the <i>Rural Women's History Project</i> oral history initiative, to ultimately migrate them to U of I's <i>Oral History as Data</i> platform. Andrew Weymouth, <i>Fall, 2025.</i></span>
+        <span class="description">Python tool created to identify speaker names, transcript and dialogue of legacy printed transcripts and convert them into individual rows of within a CSV file format. Created to utilize work done during the 70s and 80s for the <i>Rural Women's History Project</i> oral history initiative, to ultimately migrate them to U of I's <i>Oral History as Data</i> platform. <i>Fall, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/ocr_scanner" target="_blank" rel="noopener noreferrer">OCR_Scanner</a>
-        <span class="description">Python tool that scans specific folders and identifies all of the PDF files lacking a layer of optical character recognition. Identified PDF files are generated in a CSV file alongside their parent folder. Created to have U of I digital collections meet accessibility standards for patrons using screen readers. Andrew Weymouth, <i>Fall, 2025.</i></span>
+        <span class="description">Python tool that scans specific folders and identifies all of the PDF files lacking a layer of optical character recognition. Identified PDF files are generated in a CSV file alongside their parent folder. Created to have U of I digital collections meet accessibility standards for patrons using screen readers. <i>Fall, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/illustration_extraction" target="_blank" rel="noopener noreferrer">Illustration_Extraction</a>
-        <span class="description">Python tool utilizing the rembg computer vision model to identify and extract musical notation from Huo Becker's <i>Mechanik und Aesthetik des Violoncellspiels</i> (1922) for use in Miranda Wilson's CDIL project, <i>School of Cello Music</i>. Andrew Weymouth, <i>Fall, 2025.</i></span>
+        <span class="description">Python tool utilizing the rembg computer vision model to identify and extract musical notation from Huo Becker's <i>Mechanik und Aesthetik des Violoncellspiels</i> (1922) for use in Miranda Wilson's CDIL project, <i>School of Cello Music</i>. <i>Fall, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/edge_detector" target="_blank" rel="noopener noreferrer">Edge_Detector</a>
@@ -350,8 +358,16 @@ _All tools except Read_Image developed independently_
 
 <ul class="triangle-list">
     <li>
+        <a href="https://www.lib.uidaho.edu/fellowships/berry-ijc.html" target="_blank" rel="noopener noreferrer">2025 Berry Fellowship</a>
+        <span class="description">Working with Gus Labayen to produce a digital essay on the history of vocal jazz performance in the Lionel Hampton Jazz Festival. <i>University of Idaho, Fall, 2025</i>.</span>
+    </li>
+    <li>
         <a href="https://github.com/Scholarly-Projects/review_miner" target="_blank" rel="noopener noreferrer">Review_Miner</a>
-        <span class="description">Text mining and sentiment analysis tool created for an undergraduate senior research reference request, designed to analyze reviews of tourist destinations by year, rating, trip type and underlying sentiment of text and title <i>University of Idaho, Fall, 2025</i>.</span>
+        <span class="description">Text mining and sentiment analysis tool created for an undergraduate senior research reference request, designed to analyze reviews of tourist destinations by year, rating, trip type and underlying sentiment of text and titles. <i>University of Idaho, Fall, 2025</i>.</span>
+    </li>
+    <li>
+        <a href="https://github.com/Scholarly-Projects/campus" target="_blank" rel="noopener noreferrer">2025 Undergraduate CDIL Fellowship</a>
+        <span class="description">Collaborated with Shelley Walker-Harmon to enrich the context of the U of I Campus Photograph Collection, detailing the history behind the buildings for patrons and researchers. <i>University of Idaho, Fall, 2025</i>.</span>
     </li>
     <li>
         <a href="https://github.com/aweymo-ui/echoes-past-teacher" target="_blank" rel="noopener noreferrer">Echo Washington Public History Curriculum Site</a>
@@ -374,6 +390,14 @@ _All tools except Read_Image developed independently_
 ## Press
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://objects.lib.uidaho.edu/fridayletter/letter_2025-10-10.pdf" target="_blank" rel="noopener noreferrer">Library Collection Highlights Bonner County History</a>
+        <span class="description">Article written by U of I President Scott Green noting my work on the Priest River Collection. <i>Friday Letter,</i> Fall, 2025.</span>
+    </li>
+    <li>
+        <a href="https://bonnercountydailybee.com/news/2025/oct/01/priest-rivers-history-preserved-in-new-photo-archive/" target="_blank" rel="noopener noreferrer">Priest River’s History Preserved in New Photo Archive</a>
+        <span class="description">Article written by Caroline Lobsinger detailing my work on the Priest River Collection. <i>Bonner County Daily Bee,</i> Fall, 2025.</span>
+    </li>
     <li>
         <a href="https://www.knkx.org/arts-culture/2022-03-04/digitization-and-archival-projects-help-fill-in-gaps-in-tacomas-history" target="_blank" rel="noopener noreferrer">Digitization and archival projects help 'fill in gaps' in Tacoma's History</a>
         <span class="description">Article written by Mayowa Aina of Tacoma’s NPR station detailing my work on the Richards Collection. The web treatment of the article features stereo transparency images I processed, findings and ethical considerations of archival descriptions. <i>KNKX Public Radio,</i> Spring, 2022.</span>
