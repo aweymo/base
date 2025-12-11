@@ -90,6 +90,9 @@ Digital Scholarship, Web Development, Digital Preservation, Project Management, 
 
 (teaching resources shared for access and re-use; created as part of librarian’s __Teaching__ area of responsibility)
 
+- *Adobe Premiere Transcript Workshop* [Open educational resource for University of Idaho faculty, staff and students on using Adobe Premiere to generate transcripts. The workshop explains how to edit the transcript material, export or convert to captions.] 2025,<br>
+[https://aweymo-ui.github.io/premiere_transcripts/](https://aweymo-ui.github.io/premiere_transcripts/){:target="_blank" rel="noopener"}
+
 - *Adobe PDF Accessibility Remediation Workshop* [Open educational resource for U of I staff, faculty and students for manually remediating PDF documents using Adobe Acrobat.] 2025,<br>
 [https://aweymo-ui.github.io/remediate_pdfs](https://aweymo-ui.github.io/remediate_pdfs){:target="_blank" rel="noopener"}
 

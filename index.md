@@ -45,6 +45,10 @@ Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. He 
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/premiere_transcripts/" target="_blank" rel="noopener noreferrer">Adobe Premiere Transcript Workshop</a>
+        <span class="description">Open educational resource for University of Idaho faculty, staff and students on using Adobe Premiere to generate transcripts. The workshop explains how to edit the transcript material, export or convert to captions. <i>Fall, 2025</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/remediate_pdfs/" target="_blank" rel="noopener noreferrer">Adobe PDF Accessibility Remediation Workshop</a>
         <span class="description">Open educational resource for U of I staff, faculty and students for manually remediating PDF documents using Adobe Acrobat. <i>Fall, 2025</i>.</span>
     </li>
