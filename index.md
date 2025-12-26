@@ -30,7 +30,7 @@ permalink: /
     <p class="symbol">&#10042;</p>
 </div>
 
-Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho. He focuses on using static web technology to curate the institution’s special collections and partners with faculty and students to create custom fellowship projects. He also develops digital tools and workflows to enhance transcription, tagging, and image processing, making the university’s audio, text, and visual resources more discoverable for researchers. 
+Andrew Weymouth is an assistant professor with the University of Idaho and the digital initiatives librarian for the Digital Scholarship and Open Strategies department. He focuses on using static web technology to curate the institution’s special collections and partners with faculty and students to create custom fellowship projects. He also develops digital tools and workflows to enhance transcription, tagging, and image processing to make the university’s media, text, and visual resources more discoverable for researchers.
 
 <div class="social-links">
   <a href="https://github.com/aweymo" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
