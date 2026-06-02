@@ -235,13 +235,13 @@ Digital Scholarship, Web Development, Digital Preservation, Project Management, 
 
 **Peer Reviewed/Evaluated**
 
-- Rebecca Hastings and Andrew Weymouth, "Transparent Practices: OCR and AI in the Archives," [Accepted article examining Optical Character Recognition through the lens of archival ethics, drawing parallels between early National Archives and Records Administration assessments of OCR and current debates surrounding artificial intelligence. Forthcoming from <i>Collections: A Journal for Museum and Archives Professionals</i>.]<br>
-[https://journals.sagepub.com/home/cjx](https://journals.sagepub.com/home/cjx){:target="_blank" rel="noopener"}
+- Rebecca Hastings and Andrew Weymouth, "Transparent Practices: OCR and AI in the Archives," [This paper examines optical character recognition (OCR) through the lens of archival ethics as outlined in the Society of American Archivists (SAA) Core Values Statement and Code of Ethics, given the current debates surrounding artificial intelligence (AI)]. <i>Collections: A Journal for Museum and Archives Professionals,</i> 2026.<br>
+[https://journals.sagepub.com/doi/epub/10.1177/15501906261439241](https://journals.sagepub.com/doi/epub/10.1177/15501906261439241){:target="_blank" rel="noopener"}
 
 - Andrew Weymouth, “A Sense of Place: Visualizing Oral History”, [Forthcoming chapter of edited volume from the University of Toronto Press, under the UCLA <i>Clark Memorial Library Series</i>.]<br>
 [https://www.1718.ucla.edu/events/assembling-natures-histories](https://www.1718.ucla.edu/events/assembling-natures-histories){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, "Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections", <i>Code4Lib,</i> April 14, 2025.<br>
+- Andrew Weymouth, "Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections", <i>Code4Lib,</i> 2025.<br>
 [https://journal.code4lib.org/articles/18286](https://journal.code4lib.org/articles/18286){:target="_blank" rel="noopener"}
 
 - Andrew Weymouth, “Civilizing, Separating and Organizing: The Geographic Influence on Nineteenth Century
@@ -253,6 +253,12 @@ Amidst a Crisis”, <i>The Serials Librarian,</i> 2021.<br>
 [https://doi.org/10.1080/0361526X.2021.1985685](https://doi.org/10.1080/0361526X.2021.1985685){:target="_blank" rel="noopener"}
 
 **Software Development (generalized code developed and published for re-use)**
+
+- Andrew Weymouth, "pdf_access_scanner" [A Python tool for batch surveying PDF files for missing alt text fields, title metadata, tagging structure and correctly ordered headers. The script was created so PDF files in University of Idaho's VERSO institutional repository can be more transparently assessed for what kind of remediation work needs to be done to meet WCAG 2.1 standards. Folders are surveyed using the PikePDF library and results are generated in a CSV which prints each filename alongside a pass or fail judgement for each of the above measures. While there are more complex qualifications involved in meeting WCAG 2.1, this tool provides a good starting point to understand a collection's accessibility benchmarks holistically, as opposed to approaching remediation linearly on a file by file basis.] 2026,<br>
+[https://github.com/Scholarly-Projects/pdf_access_scanner](https://github.com/Scholarly-Projects/pdf_access_scanner){:target="_blank" rel="noopener"}
+
+- Norm Lee and Andrew Weymouth, "verso_pdf_export" [A Python tool for exporting PDF files and associated metadata hosted on University of Idaho's VERSO institutional repository for web archiving purposes. The script utilizes the platform's API and searches for titles specified in CSV files placed in the root directory. PDF files are generated in the A folder, full metadata JSON and workflow logs are generated in the C folder and a refined set of human readable metadata is generated in a CSV file in the B folder. Script.py will run all functionalities, while md_script.py will generate only associated metadata.] 2026,<br>
+[https://github.com/uidaholib/verso_pdf_export](https://github.com/uidaholib/verso_pdf_export){:target="_blank" rel="noopener"}
 
 - Andrew Weymouth, “Opticolumn” [OCR tool developed over summer and fall of 2025. The tool implements the TrOCR text recognition model and the Kraken BLLA page segmentation model to improve the accuracy of handwritten and cursive archival documents and add digital preservation metadata to processed materials. The tool was developed for overhauling the Center for Digital Inquiry and Learning’s digital PDF files, to make the collection more discoverable and accessible.] 2025,<br>
 [https://github.com/Scholarly-Projects/opticolumn](https://github.com/Scholarly-Projects/opticolumn){:target="_blank" rel="noopener"}

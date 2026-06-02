@@ -154,13 +154,12 @@ Andrew Weymouth is an assistant professor with the University of Idaho and the d
 
 <ul class="triangle-list">
     <li>
-        <a href="https://journals.sagepub.com/pb-assets/PDF/CJX%20GE%202025%20CFP%20Ethical%20AI%20FINAL-1753940877.pdf" target="_blank" rel="noopener noreferrer">Transparent Practices: OCR and AI in the Archives</a>
-        <span class="description">Accepted article written with U of I Digital Archivist Rebecca Hastings, examining Optical Character Recognition through the lens of archival ethics as outlined in the Society of American Archivists Core Values Statement and Code of Ethics, drawing parallels between early National Archives and Records Administration assessments of OCR and current debates surrounding artificial intelligence. (Forthcoming).
-</span>
+        <a href="https://journals.sagepub.com/doi/epub/10.1177/15501906261439241" target="_blank" rel="noopener noreferrer">Transparent Practices: OCR and AI in the Archives</a>
+        <span class="description">This paper examines optical character recognition (OCR) through the lens of archival ethics as outlined in the Society of American Archivists (SAA) Core Values Statement and Code of Ethics, given the current debates surrounding artificial intelligence (AI). A literature review highlights persistent challenges of authenticity and integrity, transparency and accountability, access and equity, and responsible stewardship and sustainability, as well as new concerns about bias, sustainability, and accountability using large language models (LLM). A case study describes systematic testing of LLM, transformer model (TM), and neural network (NN) architectures and examines the challenges in creating a reliable, scalable in-house OCR tool named Opticolumn. <i>June, 2026</i>.</span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/humanizing" target="_blank" rel="noopener noreferrer">A Sense of Place: Visualizing Oral History</a>
-        <span class="description">Chapter of an edited volume from the University of Toronto Press, under the UCLA Clark Memorial Library Series. (Forthcoming).</span>
+        <span class="description">Chapter of an edited volume from the University of Toronto Press, under the UCLA Clark Memorial Library Series. <i>Forthcoming</i>.</span>
     </li>
     <li>
         <a href="https://journal.code4lib.org/articles/18286" target="_blank" rel="noopener noreferrer">Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections</a>
@@ -168,11 +167,11 @@ Andrew Weymouth is an assistant professor with the University of Idaho and the d
     </li>
     <li>
         <a href="https://litwinbooks.com/books/land-in-libraries" target="_blank" rel="noopener noreferrer">Civilizing, Separating and Organizing: The Geographic Influence on Nineteenth Century Western Libraries</a>
-        <span class="description">Opening chapter to <i>Land in Libraries</i> Litwin Publishing, <i>Fall, 2023</i></span>
+        <span class="description">Opening chapter to <i>Land in Libraries</i> Litwin Publishing, <i>Fall, 2023</i>.</span>
     </li>
     <li>
         <a href="https://www.tandfonline.com/doi/full/10.1080/0361526X.2021.1985685?journalCode=wser20" target="_blank" rel="noopener noreferrer">Methods for Collecting Oral Histories Amidst a Crisis</a>
-        <span class="description">Qualitative research project set out to understand the effectiveness of ‘historical distance’ in conducting oral history programs during times of crisis, <i>Winter, 2021</i></span>
+        <span class="description">Qualitative research project set out to understand the effectiveness of ‘historical distance’ in conducting oral history programs during times of crisis, <i>Winter, 2021</i>.</span>
     </li>
 </ul>
 
@@ -220,6 +219,10 @@ Andrew Weymouth is an assistant professor with the University of Idaho and the d
 ## Exhibits
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://thecdil.github.io/make-believe/" target="_blank" rel="noopener noreferrer">Make, Believe: Foreign Interest and American Identities in the Inland Empire</a>
+        <span class="description">Public History Project hosted by the Center for Digital Inquiry and Learning at the University of Idaho Library. <i>Spring, 2026.</i></span>
+    </li>
     <li>
         <a href="https://www.lib.uidaho.edu/digital/hohp_OHD_2025" target="_blank" rel="noopener noreferrer">Hispanic Oral History Project</a>
         <span class="description">Reworking bilingual transcripts and converting old template to OHD. <i>Fall, 2025.</i></span>
@@ -271,11 +274,19 @@ Andrew Weymouth is an assistant professor with the University of Idaho and the d
 </ul>
 
 ## Digital Scholarship Tools
-_All tools except Read_Image developed independently_
+_All tools except Read_Image and verso_pdf_export developed independently_
 
 <br>
 
 <ul class="triangle-list">
+    <li>
+        <a href="https://github.com/Scholarly-Projects/pdf_access_scanner" target="_blank" rel="noopener noreferrer">pdf_access_scanner</a>
+        <span class="description">A Python tool for batch surveying PDF files for missing alt text fields, title metadata, tagging structure and correctly ordered headers. The script was created so PDF files in University of Idaho's VERSO institutional repository can be more transparently assessed for what kind of remediation work needs to be done to meet WCAG 2.1 standards. Folders are surveyed using the PikePDF library and results are generated in a CSV which prints each filename alongside a pass or fail judgement for each of the above measures. While there are more complex qualifications involved in meeting WCAG 2.1, this tool provides a good starting point to understand a collection's accessibility benchmarks holistically, as opposed to approaching remediation linearly on a file by file basis. <i>Andrew Weymouth, Winter 2025</i>.</span>
+    </li>
+    <li>
+        <a href="https://github.com/uidaholib/verso_pdf_export" target="_blank" rel="noopener noreferrer">verso_pdf_export</a>
+        <span class="description">Python tool for exporting PDF files and associated metadata hosted on University of Idaho's VERSO institutional repository for web archiving purposes. The script utilizes the platform's API and searches for titles specified in CSV files placed in the root directory. PDF files are generated in the A folder, full metadata JSON and workflow logs are generated in the C folder and a refined set of human readable metadata is generated in a CSV file in the B folder. Script.py will run all functionalities, while md_script.py will generate only associated metadata. <i>Norm Lee and Andrew Weymouth, Winter 2026.</i></span>
+    </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/opticolumn" target="_blank" rel="noopener noreferrer">Opticolumn</a>
         <span class="description">OCR tool developed by Digital Initiatives Librarian for University of Idaho, over summer and fall of 2025. The tool implements the TrOCR text recognition model and the Kraken BLLA page segmentation model to improve the accuracy of handwritten and cursive archival documents and add digital preservation metadata to processed materials. The tool was developed for overhauling the Center for Digital Inquiry and Learning's digital collection PDF files, to make the collection more discoverable and accessible. The development of the tool is written about in greater detail in <i>Transparent Practices: OCR and AI in the Archives</i>, by Rebecca Hastings and Andrew Weymouth. Accepted by <i>Collections: A Journal for Archives and Museum Professions</i>, November 2025. <i>Fall, 2025.</i></span>
@@ -285,35 +296,35 @@ _All tools except Read_Image developed independently_
         <span class="description">This site was created so student workers can easily copy time codes to enrich oral history transcripts. Students can access the page, drop their audio or visual files in and every time the user pauses the media, that time stamp is generated in a box below, which can be copied to their clipboard by select a button to the right. Created for enhancing legacy transcripts from the <i>Rural Women's History Project</i>, so they can be utilized in the CDIL's <i>Oral History as Data</i> platform. <i>Fall, 2025.</i></span>
     </li>
     <li>
-        <a href="https://github.com/Scholarly-Projects/convert_legacy_transcript" target="_blank" rel="noopener noreferrer">Convert_Legacy_Transcript</a>
+        <a href="https://github.com/Scholarly-Projects/convert_legacy_transcript" target="_blank" rel="noopener noreferrer">convert_legacy_transcript</a>
         <span class="description">Python tool created to identify speaker names, transcript and dialogue of legacy printed transcripts and convert them into individual rows of within a CSV file format. Created to utilize work done during the 70s and 80s for the <i>Rural Women's History Project</i> oral history initiative, to ultimately migrate them to U of I's <i>Oral History as Data</i> platform. <i>Fall, 2025.</i></span>
     </li>
     <li>
-        <a href="https://github.com/Scholarly-Projects/ocr_scanner" target="_blank" rel="noopener noreferrer">OCR_Scanner</a>
+        <a href="https://github.com/Scholarly-Projects/ocr_scanner" target="_blank" rel="noopener noreferrer">ocr_scanner</a>
         <span class="description">Python tool that scans specific folders and identifies all of the PDF files lacking a layer of optical character recognition. Identified PDF files are generated in a CSV file alongside their parent folder. Created to have U of I digital collections meet accessibility standards for patrons using screen readers. <i>Fall, 2025.</i></span>
     </li>
     <li>
-        <a href="https://github.com/Scholarly-Projects/illustration_extraction" target="_blank" rel="noopener noreferrer">Illustration_Extraction</a>
+        <a href="https://github.com/Scholarly-Projects/illustration_extraction" target="_blank" rel="noopener noreferrer">illustration_extraction</a>
         <span class="description">Python tool utilizing the rembg computer vision model to identify and extract musical notation from Huo Becker's <i>Mechanik und Aesthetik des Violoncellspiels</i> (1922) for use in Miranda Wilson's CDIL project, <i>School of Cello Music</i>. <i>Fall, 2025.</i></span>
     </li>
     <li>
-        <a href="https://github.com/Scholarly-Projects/edge_detector" target="_blank" rel="noopener noreferrer">Edge_Detector</a>
+        <a href="https://github.com/Scholarly-Projects/edge_detector" target="_blank" rel="noopener noreferrer">edge_detector</a>
         <span class="description">Python tool implementing rembg[isnet] salient object detection models created for University of Idaho to facilitate web hosting special collections and archeological projects. Images are detected, extracted and batch processed into subsequent folders with transparent, white or black backgrounds. <i>Summer, 2025.</i></span>
     </li>
     <li>
-        <a href="https://github.com/Scholarly-Projects/abstract_scraper" target="_blank" rel="noopener noreferrer">Abstract_Scraper</a>
+        <a href="https://github.com/Scholarly-Projects/abstract_scraper" target="_blank" rel="noopener noreferrer">abstract_scraper</a>
         <span class="description">Python tool for analyzing large JSON datasets, scraping missing scholarly information and generating complete JSON files to help enrich data for U of I’s VERSO institutional repository. <i>Summer, 2025.</i></span>
     </li>
     <li>
-        <a href="https://github.com/Scholarly-Projects/pii_scanner" target="_blank" rel="noopener noreferrer">PII_Scanner</a>
+        <a href="https://github.com/Scholarly-Projects/pii_scanner" target="_blank" rel="noopener noreferrer">pii_scanner</a>
         <span class="description">Python tool which vets batches of PDF file OCR for sensitive information such as social security numbers, addresses and phone numbers using regular expressions and outputting CSV files with corresponding filenames. <i>Spring, 2025.</i></span>
     </li>
     <li>
-        <a href="https://github.com/Scholarly-Projects/assess_differences_csv" target="_blank" rel="noopener noreferrer">Assess_Differences_CSV</a>
+        <a href="https://github.com/Scholarly-Projects/assess_differences_csv" target="_blank" rel="noopener noreferrer">assess_differences_csv</a>
         <span class="description">Developed for long-term static web projects with large datasets, this tool offers a more readable and targeted alternative to GitHub’s diff view by comparing changes between versions of metadata files and generating a minimal CSV of only pertinent lines and changes. <i>Spring, 2025.</i></span>
     </li>
     <li>
-        <a href="https://github.com/Scholarly-Projects/rss_scraper" target="_blank" rel="noopener noreferrer">RSS_Scraper</a>
+        <a href="https://github.com/Scholarly-Projects/rss_scraper" target="_blank" rel="noopener noreferrer">rss_scraper</a>
         <span class="description">Python tool developed to collect and format metadata into CSVs after filtering out programmatic language and import both audio and video files included in the feed. Media files are converted to MP4 and MP3 and formatted CSVs are generated with the scraped RSS metadata and corresponding sequential file names. <i>Winter, 2024.</i></span>
     </li>
     <li>
@@ -321,43 +332,43 @@ _All tools except Read_Image developed independently_
         <span class="description">Developed alongside the <i>Using Embodiment and Audio Narrative to Present Historical Research</i> workshop for practical application in graduate, undergraduate and independent research projects in environmental history, archaeology, geology, humanities, journalism and interdisciplinary science to showcase long form audio narratives, presentations and oral history material. <i>Winter, 2024.</i></span>
     </li>
     <li>
-        <a href="https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e" target="_blank" rel="noopener noreferrer">Read_Image Optical Character Recognition Tool</a>
+        <a href="https://indd.adobe.com/view/db718d34-da0b-40fe-b21a-0d0d86d0b99e" target="_blank" rel="noopener noreferrer">read_image Optical Character Recognition Tool</a>
         <span class="description">Iteration of an OCR tool developed by Luke Sheneman, Director of the IBEST Northwest Knowledge Network (NKN) at University of Idaho. This extension was developed to help extract text from images files in an effort to enrich alt text metadata and make digital collections more accessible. Private repository but link is pointed to introductory presentation for Digital Collections group. <i>Fall, 2024</i>.</span>
     </li>
 </ul>
 <ul class="triangle-list">
     <li>
-        <a href="https://github.com/Scholarly-Projects/trello_export" target="_blank" rel="noopener noreferrer">Trello_Export Tool</a>
+        <a href="https://github.com/Scholarly-Projects/trello_export" target="_blank" rel="noopener noreferrer">trello_export</a>
         <span class="description">Tool for exporting archived Trello cards, categorized by label to help track activity for liaison reports and annual reviews. <i>Fall, 2024</i>.</span>
     </li>
 </ul>
 <ul class="triangle-list">
     <li>
-        <a href="https://github.com/Scholarly-Projects/book_splitter" target="_blank" rel="noopener noreferrer">Book_Splitter Tool</a>
+        <a href="https://github.com/Scholarly-Projects/book_splitter" target="_blank" rel="noopener noreferrer">book_splitter</a>
         <span class="description">Python tool for quickly splitting two page scans to increase accuracy of OCR. <i>Fall, 2024</i>.</span>
     </li>
 </ul>
 <ul class="triangle-list">
     <li>
-        <a href="https://github.com/Scholarly-Projects/annotation_extraction" target="_blank" rel="noopener noreferrer">Annotation_Extraction Tool</a>
+        <a href="https://github.com/Scholarly-Projects/annotation_extraction" target="_blank" rel="noopener noreferrer">annotation_extraction</a>
         <span class="description">Created to help code PDF files and extract the text of those annotations to export categorically and chronologically to markdown files so they can be visualized and make connections within Obsidian. To use, add your annotated PDF to the A folder, run the script and categorical and chronological files will generate in the B folder. Adjust color values and names of categories by adjusting data in lines 63-83. Future improvements include adding annotated text, shapes or underlined text. <i>Summer, 2024</i>.</span>
     </li>
 </ul>
 <ul class="triangle-list">
     <li>
-        <a href="https://github.com/Scholarly-Projects/web_scraper" target="_blank" rel="noopener noreferrer">Web_Scraper Tool</a>
+        <a href="https://github.com/Scholarly-Projects/web_scraper" target="_blank" rel="noopener noreferrer">web_scraper</a>
         <span class="description">Created to help extract contact information across multiple areas of the University of Idaho CALS directory for liaison work. <i>Summer, 2024</i>.</span>
     </li>
 </ul>
 <ul class="triangle-list">
     <li>
-        <a href="https://github.com/Scholarly-Projects/image_extraction" target="_blank" rel="noopener noreferrer">Image_Extraction Tool</a>
+        <a href="https://github.com/Scholarly-Projects/image_extraction" target="_blank" rel="noopener noreferrer">image_extraction</a>
         <span class="description">Created to extract and name individual images from overhead scans of archival scrapbooks containing multiple photos. <i>Summer, 2024</i>.</span>
     </li>
 </ul>
 <ul class="triangle-list">
     <li>
-        <a href="https://github.com/Scholarly-Projects/transcript_mining_base" target="_blank" rel="noopener noreferrer">Transcript_Mining Tool</a>
+        <a href="https://github.com/Scholarly-Projects/transcript_mining_base" target="_blank" rel="noopener noreferrer">transcript_mining_base</a>
         <span class="description">Tool developed for the University of Idaho to increase efficiency and accuracy of the Digital Scholarship and Open Strategies department Oral History as Data tagging process. This template can be iterated on by dropping new sets of transcriptions into the CSV folder and running Python within the hello.py file. Future iterations of this template will modularize the text mining categories into General, Geographic and Custom categories. <i>Winter, 2023</i>.</span>
     </li>
 </ul>
@@ -366,8 +377,8 @@ _All tools except Read_Image developed independently_
 
 <ul class="triangle-list">
     <li>
-        <a href="https://www.lib.uidaho.edu/fellowships/berry-ijc.html" target="_blank" rel="noopener noreferrer">2025 Berry Fellowship</a>
-        <span class="description">Working with Gus Labayen to produce a digital essay on the history of vocal jazz performance in the Lionel Hampton Jazz Festival. <i>University of Idaho, Fall, 2025</i>.</span>
+        <a href="https://cdil.lib.uidaho.edu/vocal-jazz/" target="_blank" rel="noopener noreferrer">2025 Berry Fellowship</a>
+        <span class="description">Collaborated with Gus Labayen to produce a digital essay on the history of vocal jazz performance in the Lionel Hampton Jazz Festival using archival resources. <i>University of Idaho, April, 2026</i>.</span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/review_miner" target="_blank" rel="noopener noreferrer">Review_Miner</a>
