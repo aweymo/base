@@ -57,17 +57,18 @@ Digital Scholarship, Web Development, Digital Preservation, Project Management, 
 
 - Gus Labayan,
   - Berry Fellowship, 2025 
-- Megan Caves, 
-  - Custom Curriculum Template, 2025.
-    - <a href="https://github.com/aweymo-ui/echoes-past-teacher" target="_blank" rel="noopener noreferrer">Project Site</a>
 - Nick Koenig,
   - CDIL Graduate Student Fellowship, 2023.
     - <a href="https://github.com/thecdil/chestnutcollective" target="_blank" rel="noopener noreferrer">Project Site</a>
 
 **Undergraduate Students**
 
+- Madeleine Morgan
+  - CDIL Fellowship, 2026.
+- Elisa Brinton
+  - Text Mining Tool Development for Renae Campbell course, 2026.
 - Melissa Beals
-  - Text Mining Tool Development for Research Project, 2025.
+  - Text Mining Tool Development for Renae Campbell course, 2025.
 - Shelley Walker-Harmon,
   - CDIL Fellowship, 2025.
 - Jacob Kuenning  
@@ -90,6 +91,9 @@ Digital Scholarship, Web Development, Digital Preservation, Project Management, 
 
 (teaching resources shared for access and re-use; created as part of librarian’s __Teaching__ area of responsibility)
 
+- *United Voices: Awakening Cultural Understandings of Idaho’s Five Tribes* [Collaborated with Marco Seiferle- Valencia to make this open educational resource more widely available by remediating to accessibility standards and increasing the legibility of the original printing.] 2026.<br>
+- *U of I LibGuide Remediation Workshop* [An open access resource for University of Idaho faculty and staff to help ensure U of I LibGuide materials meet WCAG 2.1 guidelines. The guide covers how to remediate image files, PDFs, media, and semantic content.] 2025,<br>
+[https://aweymo-ui.github.io/libguide_remediation](https://aweymo-ui.github.io/libguide_remediation/){:target="_blank" rel="noopener"}
 - *Adobe Premiere Transcript Workshop* [Open educational resource for University of Idaho faculty, staff and students on using Adobe Premiere to generate transcripts. The workshop explains how to edit the transcript material, export or convert to captions.] 2025,<br>
 [https://aweymo-ui.github.io/premiere_transcripts/](https://aweymo-ui.github.io/premiere_transcripts/){:target="_blank" rel="noopener"}
 
@@ -127,8 +131,21 @@ Digital Scholarship, Web Development, Digital Preservation, Project Management, 
 ## Website and Database Development
 (specific digital collection and web projects completed as part of librarian’s “Teaching” area of responsibility)
 
-- <i>Hispanic Oral History Project</i> [reworking bilingual transcripts and converting old template to OHD.] 2025,<br> 
-[https://www.lib.uidaho.edu/digital/hohp_OHD_2025](https://www.lib.uidaho.edu/digital/hohp_OHD_2025){:target="_blank" rel="noopener"}
+- **2026 Digital Collection PDF Remediation Initiative** [Collaborating with Kevin Dobbins to reprocess all PDF scans in digital collections using the in-house Python-based OCR tool Opticolumn. So far, over 10,000 documents have been processed and updated using the code.] 2026,<br> 
+[ https://github.com/Scholarly-Projects/opticolumn](https://github.com/Scholarly-Projects/opticolumn){:target="_blank" rel="noopener"}
+
+- <i>Latah County Oral History Collection</i> [Implementing custom Python tools and developing new digital workflows to transcribe and text mine the 550+ hour oral history collection and migrate it to the Oral History as Data framework.] 2026,<br> 
+[https://github.com/uidaholib/oral-history-collections-template/tree/lcohwhisper2026](https://github.com/uidaholib/oral-history-collections-template/tree/lcohwhisper2026){:target="_blank" rel="noopener"}
+
+- <i>Franklin County Images</i> [Migrated collection from ContentDM to CollectionBuilder platform for Digital Library of Idaho.] 2026,<br> 
+[https://digitallibraryofidaho.github.io/franklin-county-images](https://digitallibraryofidaho.github.io/franklin-county-images/){:target="_blank" rel="noopener"}
+
+- <i>Bear Lake County Collection</i> [Migrated collection from ContentDM to CollectionBuilder platform for Digital 
+   Library of Idaho.] 2026,<br> 
+[https://digitallibraryofidaho.github.io/bear-lake-county](https://digitallibraryofidaho.github.io/bear-lake-county/){:target="_blank" rel="noopener"}
+
+- <i>Hispanic Oral History Project</i> [Transcribed and text mined bilingual transcripts to convert older iteration with Oral History as Data functionalities.] 2025,<br> 
+[https://www.lib.uidaho.edu/digital/hohp](https://www.lib.uidaho.edu/digital/hohp/){:target="_blank" rel="noopener"}
 
 - <i>Dr. Richard B. Wells Collection</i> [first digital collection processed with in-house “Opticolumn” OCR tool.] 2025,<br> 
 [https://www.lib.uidaho.edu/digital/wells](https://www.lib.uidaho.edu/digital/wells){:target="_blank" rel="noopener"}
@@ -235,10 +252,14 @@ Digital Scholarship, Web Development, Digital Preservation, Project Management, 
 
 **Peer Reviewed/Evaluated**
 
+- Andrew Weymouth, "Bicentennial Celebration, 50 Years of Remediation," <i>Oral History Review,</i> forthcoming 2027.<br>
+
+- Andrew Weymouth, "Vis-arly: A Scrollytelling Framework for Visual Resource-Driven Scholarship," <i>Code4Lib,</i> forthcoming 2026.<br>
+
 - Rebecca Hastings and Andrew Weymouth, "Transparent Practices: OCR and AI in the Archives," [This paper examines optical character recognition (OCR) through the lens of archival ethics as outlined in the Society of American Archivists (SAA) Core Values Statement and Code of Ethics, given the current debates surrounding artificial intelligence (AI)]. <i>Collections: A Journal for Museum and Archives Professionals,</i> 2026.<br>
 [https://journals.sagepub.com/doi/epub/10.1177/15501906261439241](https://journals.sagepub.com/doi/epub/10.1177/15501906261439241){:target="_blank" rel="noopener"}
 
-- Andrew Weymouth, “A Sense of Place: Visualizing Oral History”, [Forthcoming chapter of edited volume from the University of Toronto Press, under the UCLA <i>Clark Memorial Library Series</i>.]<br>
+- Andrew Weymouth, “A Sense of Place: Visualizing Oral History,” [Forthcoming chapter of edited volume from the University of Toronto Press, under the UCLA Clark Memorial Library Series]. _University of Toronto Press_, forthcoming 2027.<br>
 [https://www.1718.ucla.edu/events/assembling-natures-histories](https://www.1718.ucla.edu/events/assembling-natures-histories){:target="_blank" rel="noopener"}
 
 - Andrew Weymouth, "Distant Listening: Using Python and Apps Scripts to Text Mine and Tag Oral History Collections", <i>Code4Lib,</i> 2025.<br>
@@ -254,11 +275,15 @@ Amidst a Crisis”, <i>The Serials Librarian,</i> 2021.<br>
 
 **Software Development (generalized code developed and published for re-use)**
 
+
+- Andrew Weymouth, "PW_Protection_Scanner" [Python tool to survey folders and assess whether the Protection Type metadata field is edit-locked (owner password). These identified PDF files are listed in CSV output along with Author, Creator, and Producer metadata, making it easier to audit large PDF collections for access barriers before attempting remediation.] 2026,<br>
+[https://github.com/Scholarly-Projects/pw_protection_scanner](https://github.com/Scholarly-Projects/pw_protection_scanner){:target="_blank" rel="noopener"}
+
+- Norm Lee, Andrew Weymouth, "VERSO_PDF_Export" [Python tool for exporting PDF files and associated metadata hosted on University of Idaho’s VERSO institutional repository for web archiving purposes. The script utilizes the platform’s API and searches for titles specified in CSV files placed in the root directory.] 2026,<br>
+[https://github.com/uidaholib/verso_pdf_export](https://github.com/uidaholib/verso_pdf_export){:target="_blank" rel="noopener"}
+
 - Andrew Weymouth, "pdf_access_scanner" [A Python tool for batch surveying PDF files for missing alt text fields, title metadata, tagging structure and correctly ordered headers. The script was created so PDF files in University of Idaho's VERSO institutional repository can be more transparently assessed for what kind of remediation work needs to be done to meet WCAG 2.1 standards. Folders are surveyed using the PikePDF library and results are generated in a CSV which prints each filename alongside a pass or fail judgement for each of the above measures. While there are more complex qualifications involved in meeting WCAG 2.1, this tool provides a good starting point to understand a collection's accessibility benchmarks holistically, as opposed to approaching remediation linearly on a file by file basis.] 2026,<br>
 [https://github.com/Scholarly-Projects/pdf_access_scanner](https://github.com/Scholarly-Projects/pdf_access_scanner){:target="_blank" rel="noopener"}
-
-- Norm Lee and Andrew Weymouth, "verso_pdf_export" [A Python tool for exporting PDF files and associated metadata hosted on University of Idaho's VERSO institutional repository for web archiving purposes. The script utilizes the platform's API and searches for titles specified in CSV files placed in the root directory. PDF files are generated in the A folder, full metadata JSON and workflow logs are generated in the C folder and a refined set of human readable metadata is generated in a CSV file in the B folder. Script.py will run all functionalities, while md_script.py will generate only associated metadata.] 2026,<br>
-[https://github.com/uidaholib/verso_pdf_export](https://github.com/uidaholib/verso_pdf_export){:target="_blank" rel="noopener"}
 
 - Andrew Weymouth, “Opticolumn” [OCR tool developed over summer and fall of 2025. The tool implements the TrOCR text recognition model and the Kraken BLLA page segmentation model to improve the accuracy of handwritten and cursive archival documents and add digital preservation metadata to processed materials. The tool was developed for overhauling the Center for Digital Inquiry and Learning’s digital PDF files, to make the collection more discoverable and accessible.] 2025,<br>
 [https://github.com/Scholarly-Projects/opticolumn](https://github.com/Scholarly-Projects/opticolumn){:target="_blank" rel="noopener"}
@@ -319,6 +344,12 @@ Amidst a Crisis”, <i>The Serials Librarian,</i> 2021.<br>
 
 **Presentations and Other Activities**
 
+- *Transparent Practices: OCR and AI in the Archives* <i>[National Digital Stewardship Alliance and Digital Preservation Virtual</i> with Rebecca Hastings.] 2026.<br>
+
+- *Make, Believe: Foreign Interest and American Identities in the Inland Empire* [University of Idaho <i>Pizza and the Past</i> Series.] 2026.<br>
+
+- *Transparent Practices: OCR and AI in the Archives* [University of Idaho <i>Renfrew Colloquium</i> with Rebecca Hastings.] 2026.<br>
+
 - *The Tideflats: Distance and Environmental Psychology* [Created for the <i>Resist, Reclaim, Restore: Preserving an Inclusive Heritage</i>, Society of Architectural Historians 2025 mini-conference. The paper examines the history of land use in the Tideflats, an industrial area in Tacoma, Washington.] 2025,<br>
 [https://aweymo-ui.github.io/tideflats](https://aweymo-ui.github.io/tideflats){:target="_blank" rel="noopener"}
 
@@ -349,9 +380,9 @@ Amidst a Crisis”, <i>The Serials Librarian,</i> 2021.<br>
 
  _Other_
 
-- CLASS-AFS Travel Grant [Research trip to Spokane’s Northwest Museum of Arts and Culture to digitize materials for history thesis on the progression of early commercial imagery in the Inland Empire.] Spring 2025.
+- PI: Dulce Kersting-Lark, Marco Seiferle-Valencia, Rebekka Boysen-Taylor, Kevin Dobbins, “Next250 Project” [Funder TBD], Summer 2026. Awarded/Status TBD. [technical consulting for implementing OCR processing tools for archival document accessibility]
 
-- PI: Devin Becker, Traci Craig, Evan Williamson, Heather Taff, Sarah Campbell, Chelsea Franklin, Mindy Flick, Erica Frazier, Kate Powers-Kusio, “Digital Dramaturgy” National Endowment for the Humanities - Digital Humanities Advancement Grant, Awarded and postponed indefinitely. Spring, 2025 [named co-investigator].
+- CLASS-AFS Travel Grant [Research trip to Spokane’s Northwest Museum of Arts and Culture to digitize materials for history thesis on the progression of early commercial imagery in the Inland Empire.] 2025.
 
 
 **Other Writing**
@@ -403,19 +434,25 @@ Amidst a Crisis”, <i>The Serials Librarian,</i> 2021.<br>
 
 **Library Organizations**
 
-- Digital Collections Team Lead, 2024
+- Digital Collections Team Lead, 2026, 2024
+- University of Idaho Press, 2026
+- Renfrew Colloquium Planning Group, 2024-2025
 - Promotion and Tenure Committee, 2024
 - Bylaw Review Board, 2024
 - College of Agricultural & Life Sciences Liaison, 2024
 
 **Professional and Scholarly Organizations**
 
-- Northwest Archivists, Inc., 2021-Present
+- Library Publishing Coalition, Research Committee, 2026
+- Northwest Archivists, Inc., 2021-2025
+- Visual Resources Association, 2021
 - Society of American Archivists, Committee on Public Awareness Board Member, 2021-2023
 
 **Outreach Service**
 
 **Articles and Posts**
+
+- Leesa Love, Andrew Weymouth, Open Invitation, Season 2, Episode X – Interview with Dr. Alexander Karasev” [Liaison co-hosted interview with guest Dr. Alexander Karasev, recipient of one OAPF Award (first-time applicant). Episode discusses his co-authored article: Dahan, J., Orellana, G. E., Reyes-Proaño, E., Lee, J., & Karasev, A. V. (2025). A Novel Cogu-like Virus Identified in Wine Grapes. Viruses, 17(9), 1175. https://doi. org/10.3390/v17091175].
 
 - Andrew Weymouth, “2024 U of I Digital Poster Template”[Template designed to help promote ten new and older 
   digital collections and utilized a key space in the library for passive viewing. Archival images are separated into fore, middle and background and angled slightly using Adobe After Effects to create a three dimensional diorama effect.] (2024)<br>
@@ -442,33 +479,14 @@ Amidst a Crisis”, <i>The Serials Librarian,</i> 2021.<br>
 - Andrew Weymouth, “There’s An Archivist for That!,” Society of American Archivists (December 2021)<br>
 [https://archivesaware.archivists.org/2021/12/15/theres-an-archivist-for-that-an-interview-with-andrew-weymouth-of-the-washington-state-fair-archives](https://archivesaware.archivists.org/2021/12/15/theres-an-archivist-for-that-an-interview-with-andrew-weymouth-of-the-washington-state-fair-archives){:target="_blank" rel="noopener"}
 
-**Community Service**
-
-- Crafts Program Volunteer, St. John Public Library, Portland, Oregon, 2019
-
 ## Professional Development
 
 **Scholarship**
 
-- “Loyola Marymount University Digital Commons,” 2024
-- “DLF Conference,” [virtual] 2024
-- “Northwest Archivist Conference,” 2024
+- “Increasing Accessibility – Adobe InDesign, Parts 1 & 2,” Technology Integration Training Series, University of Idaho Office of Information Technology (OIT), Zoom, March 2026.
 - “Colonial Legacies and the History and Present of the Mexican Migrants in Idaho with Dr. Eulalia Gallegos Buitron,” 2024
-- “Sustainable Outreach,” Northwest Archivist Conference, 2024
 - “AI Workshop Series,” [Four part U of I workshop] 2024
 - “Proposal Development Academy,” [10 part U of I course] 2024
-- “DLF Conference,” 2023
-
-**Administration/Management**
-
-- *Library Analytics Infrastructure* [Developed and standardized GA4 analytics dashboards in Looker Studio to support internal reporting and optimize library management workflows. Currently in its fourth iteration and continues to be improved], 2023-present<br>
-[https://docs.google.com/spreadsheets/d/1jNO9C98iFFMAaPuyJixzR0vKf9ShnSe8W5vv4lPJktY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jNO9C98iFFMAaPuyJixzR0vKf9ShnSe8W5vv4lPJktY/edit?usp=sharing){:target="_blank" rel="noopener"}
-
-- *Transcription Processes* [Developed processes and documentation outlining the approach, technical procedure, and copy editing of audio material in the CDIL], 2024<br>
-[https://uidaholib.github.io/digital-collections-docs/content/transcription/00-intro.html](https://uidaholib.github.io/digital-collections-docs/content/transcription/00-intro.html){:target="_blank" rel="noopener"}
-
-- *Internal Documentation Update* [Collaborated with Evan Williamson and Devin Becker to update and expand external documentation of digitization and transcription processes], 2024<br> 
-[https://www.lib.uidaho.edu/digital/about](https://www.lib.uidaho.edu/digital/about)<br> [https://uidaholib.github.io/digital-collections-docs](https://uidaholib.github.io/digital-collections-docs){:target="_blank" rel="noopener"}
 
 
 <div class="page-up-arrow">

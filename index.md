@@ -280,6 +280,10 @@ _All tools except Read_Image and verso_pdf_export developed independently_
 
 <ul class="triangle-list">
     <li>
+        <a href=" https://github.com/Scholarly-Projects/pw_protection_scanner" target="_blank" rel="noopener noreferrer">pw_protection_scanner</a>
+        <span class="description">Python tool to survey folders and assess whether the protection metadata field is Edit-locked (owner password). These identified PDF files are listed in CSV output along with Author, Creator and Producer metadata, making it easier to audit large PDF collections for access barriers before attempting remediation. <i>Andrew Weymouth, Summer 2026</i>.</span>
+    </li>
+    <li>
         <a href="https://github.com/Scholarly-Projects/pdf_access_scanner" target="_blank" rel="noopener noreferrer">pdf_access_scanner</a>
         <span class="description">A Python tool for batch surveying PDF files for missing alt text fields, title metadata, tagging structure and correctly ordered headers. The script was created so PDF files in University of Idaho's VERSO institutional repository can be more transparently assessed for what kind of remediation work needs to be done to meet WCAG 2.1 standards. Folders are surveyed using the PikePDF library and results are generated in a CSV which prints each filename alongside a pass or fail judgement for each of the above measures. While there are more complex qualifications involved in meeting WCAG 2.1, this tool provides a good starting point to understand a collection's accessibility benchmarks holistically, as opposed to approaching remediation linearly on a file by file basis. <i>Andrew Weymouth, Winter 2025</i>.</span>
     </li>
