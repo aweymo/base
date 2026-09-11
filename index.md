@@ -45,6 +45,10 @@ Andrew Weymouth is an assistant professor with the University of Idaho and the d
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/practices-rc/" target="_blank" rel="noopener noreferrer">Transparent Practices: OCR and AI in the Archives</a>
+        <span class="description">A presentation for the University of Idaho's Renfrew Colloquium that examines optical character recognition (OCR) through the lens of archival ethics as outlined in the Society of American Archivists (SAA) Core Values Statement and Code of Ethics, given the current debates surrounding artificial intelligence (AI).  <i>Fall, 2026</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/libguide_remediation/" target="_blank" rel="noopener noreferrer">U of I LibGuide Remediation Workshop</a>
         <span class="description">An open access resource for University of Idaho faculty and staff to help ensure U of I LibGuide materials meet WCAG 2.1 guidelines. Guide covers how to remediate image files, PDFs, media and semantic content. <i>Winter, 2025</i>.</span>
     </li>
