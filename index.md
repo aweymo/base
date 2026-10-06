@@ -289,19 +289,19 @@ _All tools except Read_Image and verso_pdf_export developed independently_
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/opticolumns" target="_blank" rel="noopener noreferrer">opticolumns</a>
-        <span class="description">Tool which implements the TrOCR text recognition model and the Surya segmentation model to improve the accuracy of scanned historical newspapers and add digital preservation metadata to processed materials. <i>Andrew Weymouth, Summer 2026</i>.</span>
+        <span class="description">A tool which implements the TrOCR text recognition model and the Surya segmentation model to improve the accuracy of scanned historical newspapers and add digital preservation metadata to processed materials. <i>Andrew Weymouth, Summer 2026</i>.</span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/pw_protection_scanner" target="_blank" rel="noopener noreferrer">pw_protection_scanner</a>
-        <span class="description">Tool to survey folders and assess whether the protection metadata field is Edit-locked (owner password). These identified PDF files are listed in CSV output along with Author, Creator and Producer metadata, making it easier to audit large PDF collections for access barriers before attempting remediation. <i>Andrew Weymouth, Summer 2026</i>.</span>
+        <span class="description">A tool to survey folders and assess whether the protection metadata field is Edit-locked (owner password). These identified PDF files are listed in CSV output along with Author, Creator and Producer metadata, making it easier to audit large PDF collections for access barriers before attempting remediation. <i>Andrew Weymouth, Summer 2026</i>.</span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/pdf_access_scanner" target="_blank" rel="noopener noreferrer">pdf_access_scanner</a>
-        <span class="description">Tool for batch surveying PDF files for missing alt text fields, title metadata, tagging structure and correctly ordered headers. The script was created so PDF files in University of Idaho's VERSO institutional repository can be more transparently assessed for what kind of remediation work needs to be done to meet WCAG 2.1 standards. Folders are surveyed using the PikePDF library and results are generated in a CSV which prints each filename alongside a pass or fail judgement for each of the above measures. While there are more complex qualifications involved in meeting WCAG 2.1, this tool provides a good starting point to understand a collection's accessibility benchmarks holistically, as opposed to approaching remediation linearly on a file by file basis. <i>Andrew Weymouth, Winter 2025</i>.</span>
+        <span class="description">A tool for batch surveying PDF files for missing alt text fields, title metadata, tagging structure and correctly ordered headers. The script was created so PDF files in University of Idaho's VERSO institutional repository can be more transparently assessed for what kind of remediation work needs to be done to meet WCAG 2.1 standards. Folders are surveyed using the PikePDF library and results are generated in a CSV which prints each filename alongside a pass or fail judgement for each of the above measures. While there are more complex qualifications involved in meeting WCAG 2.1, this tool provides a good starting point to understand a collection's accessibility benchmarks holistically, as opposed to approaching remediation linearly on a file by file basis. <i>Andrew Weymouth, Winter 2025</i>.</span>
     </li>
     <li>
         <a href="https://github.com/uidaholib/verso_pdf_export" target="_blank" rel="noopener noreferrer">verso_pdf_export</a>
-        <span class="description">Tool for exporting PDF files and associated metadata hosted on University of Idaho's VERSO institutional repository for web archiving purposes. The script utilizes the platform's API and searches for titles specified in CSV files placed in the root directory. PDF files are generated in the A folder, full metadata JSON and workflow logs are generated in the C folder and a refined set of human readable metadata is generated in a CSV file in the B folder. Script.py will run all functionalities, while md_script.py will generate only associated metadata. <i>Norm Lee and Andrew Weymouth, Winter 2026.</i></span>
+        <span class="description">A tool for exporting PDF files and associated metadata hosted on University of Idaho's VERSO institutional repository for web archiving purposes. The script utilizes the platform's API and searches for titles specified in CSV files placed in the root directory. PDF files are generated in the A folder, full metadata JSON and workflow logs are generated in the C folder and a refined set of human readable metadata is generated in a CSV file in the B folder. Script.py will run all functionalities, while md_script.py will generate only associated metadata. <i>Norm Lee and Andrew Weymouth, Winter 2026.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/opticolumn" target="_blank" rel="noopener noreferrer">Opticolumn</a>
@@ -313,27 +313,27 @@ _All tools except Read_Image and verso_pdf_export developed independently_
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/convert_legacy_transcript" target="_blank" rel="noopener noreferrer">convert_legacy_transcript</a>
-        <span class="description">Tool created to identify speaker names, transcript and dialogue of legacy printed transcripts and convert them into individual rows of within a CSV file format. Created to utilize work done during the 70s and 80s for the <i>Rural Women's History Project</i> oral history initiative, to ultimately migrate them to U of I's <i>Oral History as Data</i> platform. <i>Fall, 2025.</i></span>
+        <span class="description">A tool created to identify speaker names, transcript and dialogue of legacy printed transcripts and convert them into individual rows of within a CSV file format. Created to utilize work done during the 70s and 80s for the <i>Rural Women's History Project</i> oral history initiative, to ultimately migrate them to U of I's <i>Oral History as Data</i> platform. <i>Fall, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/ocr_scanner" target="_blank" rel="noopener noreferrer">ocr_scanner</a>
-        <span class="description">Tool that scans specific folders and identifies all of the PDF files lacking a layer of optical character recognition. Identified PDF files are generated in a CSV file alongside their parent folder. Created to have U of I digital collections meet accessibility standards for patrons using screen readers. <i>Fall, 2025.</i></span>
+        <span class="description">A tool that scans specific folders and identifies all of the PDF files lacking a layer of optical character recognition. Identified PDF files are generated in a CSV file alongside their parent folder. Created to have U of I digital collections meet accessibility standards for patrons using screen readers. <i>Fall, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/illustration_extraction" target="_blank" rel="noopener noreferrer">illustration_extraction</a>
-        <span class="description">Tool utilizing the rembg computer vision model to identify and extract musical notation from Huo Becker's <i>Mechanik und Aesthetik des Violoncellspiels</i> (1922) for use in Miranda Wilson's CDIL project, <i>School of Cello Music</i>. <i>Fall, 2025.</i></span>
+        <span class="description">A tool utilizing the rembg computer vision model to identify and extract musical notation from Huo Becker's <i>Mechanik und Aesthetik des Violoncellspiels</i> (1922) for use in Miranda Wilson's CDIL project, <i>School of Cello Music</i>. <i>Fall, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/edge_detector" target="_blank" rel="noopener noreferrer">edge_detector</a>
-        <span class="description">Tool implementing rembg[isnet] salient object detection models created for University of Idaho to facilitate web hosting special collections and archeological projects. Images are detected, extracted and batch processed into subsequent folders with transparent, white or black backgrounds. <i>Summer, 2025.</i></span>
+        <span class="description">A tool implementing rembg[isnet] salient object detection models created for University of Idaho to facilitate web hosting special collections and archeological projects. Images are detected, extracted and batch processed into subsequent folders with transparent, white or black backgrounds. <i>Summer, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/abstract_scraper" target="_blank" rel="noopener noreferrer">abstract_scraper</a>
-        <span class="description">Tool for analyzing large JSON datasets, scraping missing scholarly information and generating complete JSON files to help enrich data for U of I’s VERSO institutional repository. <i>Summer, 2025.</i></span>
+        <span class="description">A tool for analyzing large JSON datasets, scraping missing scholarly information and generating complete JSON files to help enrich data for U of I’s VERSO institutional repository. <i>Summer, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/pii_scanner" target="_blank" rel="noopener noreferrer">pii_scanner</a>
-        <span class="description">Tool which vets batches of PDF file OCR for sensitive information such as social security numbers, addresses and phone numbers using regular expressions and outputting CSV files with corresponding filenames. <i>Spring, 2025.</i></span>
+        <span class="description">A tool which vets batches of PDF file OCR for sensitive information such as social security numbers, addresses and phone numbers using regular expressions and outputting CSV files with corresponding filenames. <i>Spring, 2025.</i></span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/assess_differences_csv" target="_blank" rel="noopener noreferrer">assess_differences_csv</a>
@@ -341,7 +341,7 @@ _All tools except Read_Image and verso_pdf_export developed independently_
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/rss_scraper" target="_blank" rel="noopener noreferrer">rss_scraper</a>
-        <span class="description">Tool developed to collect and format metadata into CSVs after filtering out programmatic language and import both audio and video files included in the feed. Media files are converted to MP4 and MP3 and formatted CSVs are generated with the scraped RSS metadata and corresponding sequential file names. <i>Winter, 2024.</i></span>
+        <span class="description">A tool developed to collect and format metadata into CSVs after filtering out programmatic language and import both audio and video files included in the feed. Media files are converted to MP4 and MP3 and formatted CSVs are generated with the scraped RSS metadata and corresponding sequential file names. <i>Winter, 2024.</i></span>
     </li>
     <li>
         <a href="https://aweymo-ui.github.io/eap_proto/" target="_blank" rel="noopener noreferrer">Prototype for Encoded Audio Player</a>
@@ -355,13 +355,13 @@ _All tools except Read_Image and verso_pdf_export developed independently_
 <ul class="triangle-list">
     <li>
         <a href="https://github.com/Scholarly-Projects/trello_export" target="_blank" rel="noopener noreferrer">trello_export</a>
-        <span class="description">Tool for exporting archived Trello cards, categorized by label to help track activity for liaison reports and annual reviews. <i>Fall, 2024</i>.</span>
+        <span class="description">A tool for exporting archived Trello cards, categorized by label to help track activity for liaison reports and annual reviews. <i>Fall, 2024</i>.</span>
     </li>
 </ul>
 <ul class="triangle-list">
     <li>
         <a href="https://github.com/Scholarly-Projects/book_splitter" target="_blank" rel="noopener noreferrer">book_splitter</a>
-        <span class="description">Tool for quickly splitting two page scans to increase accuracy of OCR. <i>Fall, 2024</i>.</span>
+        <span class="description">A tool for quickly splitting two page scans to increase accuracy of OCR. <i>Fall, 2024</i>.</span>
     </li>
 </ul>
 <ul class="triangle-list">
@@ -385,7 +385,7 @@ _All tools except Read_Image and verso_pdf_export developed independently_
 <ul class="triangle-list">
     <li>
         <a href="https://github.com/Scholarly-Projects/transcript_mining_base" target="_blank" rel="noopener noreferrer">transcript_mining_base</a>
-        <span class="description">Tool developed for the University of Idaho to increase efficiency and accuracy of the Digital Scholarship and Open Strategies department Oral History as Data tagging process. This template can be iterated on by dropping new sets of transcriptions into the CSV folder and running Python within the hello.py file. Future iterations of this template will modularize the text mining categories into General, Geographic and Custom categories. <i>Winter, 2023</i>.</span>
+        <span class="description">A tool developed for the University of Idaho to increase efficiency and accuracy of the Digital Scholarship and Open Strategies department Oral History as Data tagging process. This template can be iterated on by dropping new sets of transcriptions into the CSV folder and running Python within the hello.py file. Future iterations of this template will modularize the text mining categories into General, Geographic and Custom categories. <i>Winter, 2023</i>.</span>
     </li>
 </ul>
 
