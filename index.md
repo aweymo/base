@@ -284,8 +284,12 @@ _All tools except Read_Image and verso_pdf_export developed independently_
 
 <ul class="triangle-list">
     <li>
+        <a href="https://aweymo-ui.github.io/ohmsi-kit-base/" target="_blank" rel="noopener noreferrer">ohmsi-kit</a>
+        <span class="description">This kit uses Whisper speech-to-text models and SpeechBrain diarization (identifying who is speaking when) to turn oral history recordings into CSV transcripts of timestamped dialogue separated by speaker. Recordings are batch processed with a selection of scripts, tiered depending on the qualities of the original audio files. Each transcript can then be copy edited against its recording in a local workspace which how the recording will appear on an Oral History as Data site. Keyboard shortcuts for playback, looping, speed and navigation streamline the copyediting process, while supplemental Python workflows batch correct repetitive and time consuming errors. <i>Andrew Weymouth, Fall 2026</i>.</span>
+    </li>
+    <li>
         <a href="https://aweymo-ui.github.io/opticolumn-toolkit/" target="_blank" rel="noopener noreferrer">Opticolumn Toolkit</a>
-        <span class="description">Base site for Opticolumn Took Kit Repositories, including Opticolumn, Opticolumns, Opticolumn_Editor and the forthcoming Optical Music Recognition model.  <i>Andrew Weymouth, Fall 2026</i>.</span>
+        <span class="description">Base site for Opticolumn Took Kit Repositories, including Opticolumn, Opticolumns, Opticolumn_Editor and the forthcoming Optical Music Recognition model. <i>Andrew Weymouth, Fall 2026</i>.</span>
     </li>
     <li>
         <a href="https://github.com/Scholarly-Projects/opticolumns" target="_blank" rel="noopener noreferrer">opticolumns</a>
